@@ -1,0 +1,8109 @@
+1
+00:00:01,000 --> 00:00:05,089
+Benvenuti e bentornati amici Tiraline,
+
+2
+00:00:05,089 --> 00:00:07,049
+questo è il Tiraline,
+
+3
+00:00:07,049 --> 00:00:13,000
+il podcast che parla di CAD e tecnologia e
+tutto ciò che c'è tra una linea e l'altra.
+
+4
+00:00:13,000 --> 00:00:21,000
+Siamo all'episodio numero 134 e abbiamo un nuovo
+appuntamento con la famosa rubrica Zoom 1.1.
+
+5
+00:00:21,000 --> 00:00:22,199
+Questa rubrica,
+
+6
+00:00:22,199 --> 00:00:24,539
+come ho detto negli altri episodi,
+
+7
+00:00:24,539 --> 00:00:35,000
+nasce dal desiderio di incontrare dei professionisti e colleghi che in
+qualche modo gravitano intorno al settore del CAD e della progettazione.
+
+8
+00:00:35,000 --> 00:00:42,659
+E quindi mentre cercavo di contattare qualche altro
+personaggio da portare su hardware e compagnia cantante,
+
+9
+00:00:42,659 --> 00:00:46,000
+con la persona che oggi mi trovo in compagnia,
+
+10
+00:00:46,000 --> 00:00:56,000
+insomma mi sono trovato con lui come al solito in una solita
+discussione su hardware e tutto il resto che c'è intorno.
+
+11
+00:00:56,000 --> 00:01:00,920
+Lui direbbe che c'entra come il cavolo a merenda in questo podcast,
+
+12
+00:01:00,920 --> 00:01:05,778
+ma credo che invece la sua competenza possa portare spunti
+
+13
+00:01:05,778 --> 00:01:10,389
+e soluzioni ai problemi operativi con il vostro amato e
+
+14
+00:01:10,389 --> 00:01:15,000
+odiato sistema operativo e la vostra stanca workstation.
+
+15
+00:01:15,000 --> 00:01:16,200
+Perché,
+
+16
+00:01:16,200 --> 00:01:17,810
+volenti o nolenti,
+
+17
+00:01:17,810 --> 00:01:21,280
+comunque dipendiamo dal nostro IT,
+
+18
+00:01:21,280 --> 00:01:27,000
+dal nostro tecnico che ha sempre in mano il nostro workflow.
+
+19
+00:01:27,000 --> 00:01:29,549
+Quindi oggi ho l'onore con me di avere ospite,
+
+20
+00:01:29,549 --> 00:01:30,870
+che vive tra hardware,
+
+21
+00:01:30,870 --> 00:01:33,000
+software e creatività digitale,
+
+22
+00:01:33,000 --> 00:01:34,359
+Giuseppe Pugliese,
+
+23
+00:01:34,359 --> 00:01:35,370
+web designer,
+
+24
+00:01:35,370 --> 00:01:39,000
+grande esperto di workstation e di sistemi di Windows.
+
+25
+00:01:39,000 --> 00:01:40,799
+Con lui parleremo di prestazioni,
+
+26
+00:01:40,799 --> 00:01:46,000
+ottimizzazioni e del futuro delle macchine che
+fanno girare i nostri software di progettazioni.
+
+27
+00:01:46,000 --> 00:01:46,659
+Quindi,
+
+28
+00:01:46,659 --> 00:01:49,000
+benvenuto su Tiralini e Giuseppe!
+
+29
+00:01:49,000 --> 00:01:50,189
+Ciao Daniele,
+
+30
+00:01:50,189 --> 00:01:55,280
+diciamo che da un po' di tempo che paventavamo questa puntata,
+
+31
+00:01:55,280 --> 00:02:07,000
+anche perché paradossalmente c'è da dire che tu hai l'onore e il merito
+per aver scoperto un bug enorme all'interno del feed del mio podcast.
+
+32
+00:02:07,000 --> 00:02:07,450
+Perché,
+
+33
+00:02:07,450 --> 00:02:07,930
+infatti,
+
+34
+00:02:07,930 --> 00:02:10,050
+in una puntata che ho registrato un po' di tempo fa,
+
+35
+00:02:10,050 --> 00:02:11,000
+ti avevo nominato.
+
+36
+00:02:11,000 --> 00:02:11,199
+Tu,
+
+37
+00:02:11,199 --> 00:02:11,879
+giustamente,
+
+38
+00:02:11,879 --> 00:02:12,539
+se ti ricordi,
+
+39
+00:02:12,539 --> 00:02:14,150
+mi hai dato un messaggio e dici,
+
+40
+00:02:14,150 --> 00:02:15,000
+veramente non è successo.
+
+41
+00:02:15,000 --> 00:02:15,750
+E sei stato,
+
+42
+00:02:15,750 --> 00:02:16,360
+diciamo,
+
+43
+00:02:16,360 --> 00:02:22,000
+la lampadina che mi ha fatto capire che il feed
+del mio podcast Glitch era totalmente esploso.
+
+44
+00:02:22,000 --> 00:02:22,500
+Quindi,
+
+45
+00:02:22,500 --> 00:02:24,650
+ho ripristinato la situazione e poi,
+
+46
+00:02:24,650 --> 00:02:25,500
+giustamente,
+
+47
+00:02:25,500 --> 00:02:27,500
+hai sentito la puntata e hai detto,
+
+48
+00:02:27,500 --> 00:02:29,000
+ci dobbiamo sentire.
+
+49
+00:02:29,000 --> 00:02:31,000
+E quindi eccoci qua stasera.
+
+50
+00:02:31,000 --> 00:02:32,210
+Eccoci qua,
+
+51
+00:02:32,210 --> 00:02:32,759
+sì,
+
+52
+00:02:32,759 --> 00:02:33,400
+sì,
+
+53
+00:02:33,400 --> 00:02:34,629
+perché poi,
+
+54
+00:02:34,629 --> 00:02:35,620
+ragazzi,
+
+55
+00:02:35,620 --> 00:02:37,710
+poi lo vedrete anche,
+
+56
+00:02:37,710 --> 00:02:38,810
+speriamo,
+
+57
+00:02:38,810 --> 00:02:40,000
+in video.
+
+58
+00:02:40,000 --> 00:02:41,189
+Nel caso,
+
+59
+00:02:41,189 --> 00:02:41,900
+comunque,
+
+60
+00:02:41,900 --> 00:02:49,000
+un'immagine del buon Giuseppe la troviamo
+per metterla sulla cover dell'episodio.
+
+61
+00:02:49,000 --> 00:02:50,669
+Ma Giuseppe,
+
+62
+00:02:50,669 --> 00:02:56,000
+oltre a essere sicuramente giovanissimo,
+
+63
+00:02:56,000 --> 00:02:59,000
+perché sicuramente è più giovane di me,
+
+64
+00:02:59,000 --> 00:03:01,509
+ed è una persona che,
+
+65
+00:03:01,509 --> 00:03:03,740
+quando si discute,
+
+66
+00:03:03,740 --> 00:03:05,460
+soprattutto,
+
+67
+00:03:05,460 --> 00:03:07,210
+ne sa a pacchi,
+
+68
+00:03:07,210 --> 00:03:10,000
+come si direbbe tra i millennial.
+
+69
+00:03:10,000 --> 00:03:11,009
+E,
+
+70
+00:03:11,009 --> 00:03:12,960
+naturalmente,
+
+71
+00:03:12,960 --> 00:03:20,000
+io rimango a volte incantato dai lunghi vocaloni.
+
+72
+00:03:20,000 --> 00:03:22,000
+I famosi vocaloni.
+
+73
+00:03:22,000 --> 00:03:23,199
+Insomma,
+
+74
+00:03:23,199 --> 00:03:27,500
+che in questo modo ci racconta cosa gli succede,
+
+75
+00:03:27,500 --> 00:03:29,139
+cosa gli capita e,
+
+76
+00:03:29,139 --> 00:03:29,669
+soprattutto,
+
+77
+00:03:29,669 --> 00:03:30,210
+perché,
+
+78
+00:03:30,210 --> 00:03:31,000
+come abbiamo detto,
+
+79
+00:03:31,000 --> 00:03:31,469
+lui è,
+
+80
+00:03:31,469 --> 00:03:32,610
+tra l'altro,
+
+81
+00:03:32,610 --> 00:03:34,819
+un web designer e un esperto,
+
+82
+00:03:34,819 --> 00:03:35,569
+appunto,
+
+83
+00:03:35,569 --> 00:03:37,000
+del mondo Windows,
+
+84
+00:03:37,000 --> 00:03:37,539
+che,
+
+85
+00:03:37,539 --> 00:03:38,870
+bene o male,
+
+86
+00:03:38,870 --> 00:03:45,000
+è la patria di noi caddisti e di tutti i software legacy di CAD.
+
+87
+00:03:45,000 --> 00:03:45,590
+Perché,
+
+88
+00:03:45,590 --> 00:03:47,000
+per quanto ce ne voglia,
+
+89
+00:03:47,000 --> 00:03:49,000
+il nostro amico comune Roberto Marin,
+
+90
+00:03:49,000 --> 00:03:50,000
+che salutiamo.
+
+91
+00:03:50,000 --> 00:03:52,370
+Ciao,
+
+92
+00:03:52,370 --> 00:03:53,000
+Roberto!
+
+93
+00:03:53,000 --> 00:03:58,000
+Che lavora su Macintosh.
+
+94
+00:03:58,000 --> 00:03:59,199
+Ho detto Macintosh,
+
+95
+00:03:59,199 --> 00:04:01,000
+vedi te quanto sono anziano.
+
+96
+00:04:01,000 --> 00:04:01,189
+No,
+
+97
+00:04:01,189 --> 00:04:01,530
+vabbè,
+
+98
+00:04:01,530 --> 00:04:03,000
+ma anche io lo chiamo Macintosh,
+
+99
+00:04:03,000 --> 00:04:04,000
+ti ripeto.
+
+100
+00:04:04,000 --> 00:04:07,150
+Anche perché il periodo che io sono stato su Apple,
+
+101
+00:04:07,150 --> 00:04:08,219
+anche perché questa cosa,
+
+102
+00:04:08,219 --> 00:04:09,000
+diciamo,
+
+103
+00:04:09,000 --> 00:04:10,780
+anche se Alex Racuglia,
+
+104
+00:04:10,780 --> 00:04:11,400
+altro,
+
+105
+00:04:11,400 --> 00:04:12,150
+diciamo,
+
+106
+00:04:12,150 --> 00:04:16,000
+personaggio che gravita intorno ai nostri universi,
+
+107
+00:04:16,000 --> 00:04:17,199
+diciamo,
+
+108
+00:04:17,199 --> 00:04:20,000
+un pochino ce l'ha con me,
+
+109
+00:04:20,000 --> 00:04:23,000
+ma io gli ho sempre detta questa cosa,
+
+110
+00:04:23,000 --> 00:04:26,259
+io sono un appassionato Mac user,
+
+111
+00:04:26,259 --> 00:04:28,120
+come posso dire,
+
+112
+00:04:28,120 --> 00:04:30,000
+tradito da Apple,
+
+113
+00:04:30,000 --> 00:04:30,779
+perché,
+
+114
+00:04:30,779 --> 00:04:32,379
+la mia parentesi,
+
+115
+00:04:32,379 --> 00:04:33,000
+infatti,
+
+116
+00:04:33,000 --> 00:04:36,470
+molti mi dicono come fai ad essere così in tossesse di Windows,
+
+117
+00:04:36,470 --> 00:04:38,000
+perché Windows è una cacca?
+
+118
+00:04:38,000 --> 00:04:38,250
+Io,
+
+119
+00:04:38,250 --> 00:04:39,399
+paradossalmente,
+
+120
+00:04:39,399 --> 00:04:40,399
+devo dire,
+
+121
+00:04:40,399 --> 00:04:41,000
+guarda,
+
+122
+00:04:41,000 --> 00:04:42,139
+il periodo buio di Windows,
+
+123
+00:04:42,139 --> 00:04:44,000
+io me lo sono saltato a pie pari,
+
+124
+00:04:44,000 --> 00:04:50,000
+perché un po' il mio trascorso è che io sono partito da XP,
+
+125
+00:04:50,000 --> 00:04:52,250
+una brevissima parentesi con 98 mi,
+
+126
+00:04:52,250 --> 00:04:53,000
+tutte quelle cose,
+
+127
+00:04:53,000 --> 00:04:53,290
+diciamo,
+
+128
+00:04:53,290 --> 00:04:54,000
+quando ero molto piccolo,
+
+129
+00:04:54,000 --> 00:04:57,000
+anche perché ho iniziato a utilizzare il computer da molto molto piccolo,
+
+130
+00:04:57,000 --> 00:05:01,220
+e poi successivamente mi sono fermato XP,
+
+131
+00:05:01,220 --> 00:05:03,279
+poi sono passato a Mac,
+
+132
+00:05:03,279 --> 00:05:05,000
+nel periodo 2009,
+
+133
+00:05:05,000 --> 00:05:06,370
+quindi io mi sono fatto Leopard,
+
+134
+00:05:06,370 --> 00:05:07,319
+non Leopard,
+
+135
+00:05:07,319 --> 00:05:09,000
+tutto il meglio del meglio del meglio,
+
+136
+00:05:09,000 --> 00:05:14,000
+e sono ritornato a Windows quando sia le Mac 27 che avevo,
+
+137
+00:05:14,000 --> 00:05:17,000
+sia il MacBook Pro del 2009,
+
+138
+00:05:17,000 --> 00:05:19,089
+17 pollici,
+
+139
+00:05:19,089 --> 00:05:20,000
+gran bella macchina,
+
+140
+00:05:20,000 --> 00:05:21,579
+c'ho fatto veramente,
+
+141
+00:05:21,579 --> 00:05:22,399
+diciamo,
+
+142
+00:05:22,399 --> 00:05:25,000
+di tutto di meglio e di più al periodo,
+
+143
+00:05:25,000 --> 00:05:25,459
+hanno,
+
+144
+00:05:25,459 --> 00:05:26,199
+tutte e due,
+
+145
+00:05:26,199 --> 00:05:28,000
+avuto lo stesso antico problema,
+
+146
+00:05:28,000 --> 00:05:31,000
+ovvero ho letteralmente sciolto le schede video,
+
+147
+00:05:31,000 --> 00:05:33,000
+a tutte e due,
+
+148
+00:05:33,000 --> 00:05:36,000
+che erano difetti riconosciuti da Apple,
+
+149
+00:05:36,000 --> 00:05:40,009
+io là già ho storto il naso,
+
+150
+00:05:40,009 --> 00:05:40,569
+perché sai,
+
+151
+00:05:40,569 --> 00:05:42,000
+tu c'hai un problema riconosciuto,
+
+152
+00:05:42,000 --> 00:05:45,000
+fammi il richiamo come classica Apple faceva,
+
+153
+00:05:45,000 --> 00:05:45,480
+al periodo,
+
+154
+00:05:45,480 --> 00:05:45,689
+diciamo,
+
+155
+00:05:45,689 --> 00:05:47,379
+adesso è diventata un po' più cattiva,
+
+156
+00:05:47,379 --> 00:05:48,000
+possiamo dire,
+
+157
+00:05:48,000 --> 00:05:52,000
+però al periodo non ebbi la mail del richiamo,
+
+158
+00:05:52,000 --> 00:05:53,000
+non ebbi nulla,
+
+159
+00:05:53,000 --> 00:05:55,329
+nonostante erano con Apple Care registrati,
+
+160
+00:05:55,329 --> 00:05:56,000
+diciamo,
+
+161
+00:05:56,000 --> 00:05:58,000
+il seriale con il mio account Apple,
+
+162
+00:05:58,000 --> 00:06:02,000
+stessa cosa succede a uno dei miei migliori amici,
+
+163
+00:06:02,000 --> 00:06:05,000
+che in pratica non abita lontano da me,
+
+164
+00:06:05,000 --> 00:06:06,990
+che fa l'ingegnere meccanico,
+
+165
+00:06:06,990 --> 00:06:08,000
+che aveva una Mac 27,
+
+166
+00:06:08,000 --> 00:06:10,000
+il modello prima di quello che avevo io,
+
+167
+00:06:10,000 --> 00:06:12,259
+allora ieri passano in garanzia,
+
+168
+00:06:12,259 --> 00:06:13,000
+senza problemi,
+
+169
+00:06:13,000 --> 00:06:14,370
+io vado all'Apple Store,
+
+170
+00:06:14,370 --> 00:06:14,990
+diciamo,
+
+171
+00:06:14,990 --> 00:06:16,000
+a Roma,
+
+172
+00:06:16,000 --> 00:06:18,000
+che era ancora nelle prime battute,
+
+173
+00:06:18,000 --> 00:06:20,259
+perché non era diventato ancora enorme,
+
+174
+00:06:20,259 --> 00:06:21,000
+grosso e centrale,
+
+175
+00:06:21,000 --> 00:06:23,000
+come è diventato negli ultimi periodi,
+
+176
+00:06:23,000 --> 00:06:26,000
+non mi passano in garanzia la Mac e il MacBook,
+
+177
+00:06:26,000 --> 00:06:26,519
+mi dici,
+
+178
+00:06:26,519 --> 00:06:26,639
+guarda,
+
+179
+00:06:26,639 --> 00:06:28,000
+visto che tu l'hai comprato a Milano,
+
+180
+00:06:28,000 --> 00:06:28,730
+perché sì,
+
+181
+00:06:28,730 --> 00:06:32,000
+il MacBook lo comprai in un impeto di follia a Milano,
+
+182
+00:06:32,000 --> 00:06:34,000
+quando andai con mio padre un giorno per lavoro,
+
+183
+00:06:34,000 --> 00:06:38,000
+visto che erano l'unico store che aveva il MacBook,
+
+184
+00:06:38,000 --> 00:06:40,000
+perché poi il periodo 2009,
+
+185
+00:06:40,000 --> 00:06:41,000
+chi utilizzava Mac,
+
+186
+00:06:41,000 --> 00:06:45,000
+quindi il MacBook da 17 ce l'aveva solo sto store a Milano,
+
+187
+00:06:45,000 --> 00:06:47,000
+io proprio mi fiondai e l'andai a prendere,
+
+188
+00:06:47,000 --> 00:06:47,980
+mi dissero,
+
+189
+00:06:47,980 --> 00:06:48,279
+no,
+
+190
+00:06:48,279 --> 00:06:48,990
+guarda,
+
+191
+00:06:48,990 --> 00:06:50,000
+noi non facciamo la,
+
+192
+00:06:50,000 --> 00:06:50,990
+per quanto il,
+
+193
+00:06:50,990 --> 00:06:52,379
+come posso dire,
+
+194
+00:06:52,379 --> 00:06:56,000
+Apple ha l'Apple Care che è italiana,
+
+195
+00:06:56,000 --> 00:06:57,199
+quindi tu dove vai,
+
+196
+00:06:57,199 --> 00:06:57,439
+vai,
+
+197
+00:06:57,439 --> 00:06:59,000
+te lo dovrebbero gestire,
+
+198
+00:06:59,000 --> 00:06:59,509
+mi hanno detto,
+
+199
+00:06:59,509 --> 00:06:59,660
+no,
+
+200
+00:06:59,660 --> 00:07:00,000
+guarda,
+
+201
+00:07:00,000 --> 00:07:02,410
+dovresti tornare nel negozio a Milano e farti,
+
+202
+00:07:02,410 --> 00:07:02,980
+diciamo,
+
+203
+00:07:02,980 --> 00:07:04,000
+passartelo in garanzia,
+
+204
+00:07:04,000 --> 00:07:04,670
+io ho detto,
+
+205
+00:07:04,670 --> 00:07:05,199
+va bene,
+
+206
+00:07:05,199 --> 00:07:06,000
+signori cari,
+
+207
+00:07:06,000 --> 00:07:07,000
+è stato un piacere,
+
+208
+00:07:07,000 --> 00:07:09,370
+per quanto mi riguarda,
+
+209
+00:07:09,370 --> 00:07:11,000
+Apple può morire dove sta,
+
+210
+00:07:11,000 --> 00:07:12,290
+io torno a Windows e,
+
+211
+00:07:12,290 --> 00:07:13,029
+diciamo,
+
+212
+00:07:13,029 --> 00:07:19,000
+cerco di martellare il sistema e renderlo utilizzabile per i miei scopi,
+
+213
+00:07:19,000 --> 00:07:22,000
+quindi questa è un po' una chiosa.
+
+214
+00:07:22,000 --> 00:07:23,199
+Capisco,
+
+215
+00:07:23,199 --> 00:07:24,089
+capisco,
+
+216
+00:07:24,089 --> 00:07:25,000
+e come potete sentire,
+
+217
+00:07:25,000 --> 00:07:30,000
+la passione per la tecnologia è evidente dal,
+
+218
+00:07:30,000 --> 00:07:32,370
+già anche dai tuoi racconti,
+
+219
+00:07:32,370 --> 00:07:35,000
+perché naturalmente ci vivi dentro,
+
+220
+00:07:35,000 --> 00:07:37,379
+ci vivi con la tecnologia,
+
+221
+00:07:37,379 --> 00:07:37,949
+quindi,
+
+222
+00:07:37,949 --> 00:07:39,009
+insomma,
+
+223
+00:07:39,009 --> 00:07:41,000
+è una parte di te,
+
+224
+00:07:41,000 --> 00:07:44,000
+e infatti le prime domande che ti faccio sono,
+
+225
+00:07:44,000 --> 00:07:47,000
+chi è Giuseppe Pugliesi innanzitutto,
+
+226
+00:07:47,000 --> 00:07:51,000
+quindi conosciamo la persona o anche il professionista,
+
+227
+00:07:51,000 --> 00:07:54,000
+e ti faccio subito anche la seconda domanda,
+
+228
+00:07:54,000 --> 00:07:57,000
+che è attaccata proprio con lo scotch,
+
+229
+00:07:57,000 --> 00:08:00,000
+e come nasce la tua passione per la tecnologia e per il mondo,
+
+230
+00:08:00,000 --> 00:08:03,000
+visto che hai detto che hai iniziato da molto piccolo?
+
+231
+00:08:03,000 --> 00:08:03,639
+Sì,
+
+232
+00:08:03,639 --> 00:08:03,829
+guarda,
+
+233
+00:08:03,829 --> 00:08:06,000
+io te lo posso riassumere in un aneddoto,
+
+234
+00:08:06,000 --> 00:08:09,000
+anche perché per fortuna non sono Silvio Pellico,
+
+235
+00:08:09,000 --> 00:08:12,000
+quindi non ho bisogno di un'enorme descrizione.
+
+236
+00:08:12,000 --> 00:08:16,000
+L'aneddoto che porto sempre a chi mi conosce è questa qua,
+
+237
+00:08:16,000 --> 00:08:17,089
+cioè nel senso,
+
+238
+00:08:17,089 --> 00:08:19,000
+io ero alle scuole elementari,
+
+239
+00:08:19,000 --> 00:08:21,100
+visto che ero molto appassionato,
+
+240
+00:08:21,100 --> 00:08:22,000
+non tanto di tecnologia,
+
+241
+00:08:22,000 --> 00:08:25,000
+perché al periodo ero anche abbastanza piccolo,
+
+242
+00:08:25,000 --> 00:08:26,500
+stiamo parlando fine materna,
+
+243
+00:08:26,500 --> 00:08:28,000
+primi anni delle elementari,
+
+244
+00:08:28,000 --> 00:08:30,350
+ero appassionato di astronomia,
+
+245
+00:08:30,350 --> 00:08:31,000
+astrofisica,
+
+246
+00:08:31,000 --> 00:08:33,000
+tutta questa roba molto complicata.
+
+247
+00:08:33,000 --> 00:08:40,000
+Cioè nel complicato io adoro capire e soprattutto parlare di robe complicate,
+
+248
+00:08:40,000 --> 00:08:43,850
+e visto che io già conoscevo il sistema solare con tutti i pianeti,
+
+249
+00:08:43,850 --> 00:08:45,000
+con tutte le temperature,
+
+250
+00:08:45,000 --> 00:08:47,000
+guardavo le cassette di universo,
+
+251
+00:08:47,000 --> 00:08:48,200
+tutte queste robe qui,
+
+252
+00:08:48,200 --> 00:08:49,029
+diciamo,
+
+253
+00:08:49,029 --> 00:08:50,000
+molto molto particolari,
+
+254
+00:08:50,000 --> 00:08:54,000
+cose che erano totalmente strane ai miei compagni,
+
+255
+00:08:54,000 --> 00:08:58,000
+mia mamma mi dice sempre che io tornai uno dei primi giorni a casa,
+
+256
+00:08:58,000 --> 00:09:00,259
+la guardai in faccia un po',
+
+257
+00:09:00,259 --> 00:09:01,000
+come posso dire,
+
+258
+00:09:01,000 --> 00:09:02,000
+un po' ramaricato,
+
+259
+00:09:02,000 --> 00:09:02,980
+e gli dissi,
+
+260
+00:09:02,980 --> 00:09:03,440
+mamma,
+
+261
+00:09:03,440 --> 00:09:06,000
+la gente non mi capisce quando parlo.
+
+262
+00:09:06,000 --> 00:09:09,000
+Quindi questa è un po' la frase che racchiude la mia persona.
+
+263
+00:09:09,000 --> 00:09:14,000
+Io il 99% delle volte ritorno a quella sensazione da bambino,
+
+264
+00:09:14,000 --> 00:09:14,500
+mamma,
+
+265
+00:09:14,500 --> 00:09:17,000
+la gente non mi capisce quando parlo.
+
+266
+00:09:17,000 --> 00:09:21,000
+Perché probabilmente sono così inserito,
+
+267
+00:09:21,000 --> 00:09:26,000
+oppure quando tratto di un argomento io devo capire fino all'ultimo tassello,
+
+268
+00:09:26,000 --> 00:09:33,000
+perché a me un'altra cosa che dà fastidio sono
+le persone che ti danno come funziona a scuola,
+
+269
+00:09:33,000 --> 00:09:36,000
+ecco perché la scuola a me non è che piaccia troppo come sistema,
+
+270
+00:09:36,000 --> 00:09:39,000
+ti infondono la cultura per,
+
+271
+00:09:39,000 --> 00:09:44,000
+in maniera per partito preso.
+
+272
+00:09:44,000 --> 00:09:46,000
+Cioè una cosa è così perché è così.
+
+273
+00:09:46,000 --> 00:09:47,990
+Se tu gli dici perché è così,
+
+274
+00:09:47,990 --> 00:09:49,000
+spiegamelo.
+
+275
+00:09:49,000 --> 00:09:55,000
+Infatti io e il professore di matematica avevamo
+degli screzzi al periodo abbastanza grossi.
+
+276
+00:09:55,000 --> 00:09:57,000
+Lui arrivava a un certo punto,
+
+277
+00:09:57,000 --> 00:09:59,000
+e giustamente da professore di matematica,
+
+278
+00:09:59,000 --> 00:10:00,990
+sto parlando del liceo,
+
+279
+00:10:00,990 --> 00:10:02,000
+si fermava lì.
+
+280
+00:10:02,000 --> 00:10:06,000
+Perché giustamente il suo programma era lì e
+lui proprio non riusciva a darmi la risposta.
+
+281
+00:10:06,000 --> 00:10:14,000
+E allora tutto questo intreccio di cose mi ha
+plasmato personalmente nell'essere ipercritico,
+
+282
+00:10:14,000 --> 00:10:19,000
+iperfocalizzato nelle cose e soprattutto quando,
+
+283
+00:10:19,000 --> 00:10:23,000
+almeno è una sensazione che ho principalmente verso di me,
+
+284
+00:10:23,000 --> 00:10:26,000
+quando non so qualcosa e devo dire questa cosa,
+
+285
+00:10:26,000 --> 00:10:32,000
+non la so verso un interlocutore che quindi diciamo si blocca il ragionamento,
+
+286
+00:10:32,000 --> 00:10:33,000
+non lo so,
+
+287
+00:10:33,000 --> 00:10:36,000
+mi sento come se avessi fallito totalmente,
+
+288
+00:10:36,000 --> 00:10:40,000
+quando poi è impossibile sapere tutto di qualsiasi cosa,
+
+289
+00:10:40,000 --> 00:10:46,149
+perché a un certo punto finisce la memoria RAM
+nel cervello e quindi non hai lo swap su disco,
+
+290
+00:10:46,149 --> 00:10:47,000
+come si può dire.
+
+291
+00:10:47,000 --> 00:10:50,000
+Fai un overflow di informazioni e poi dopo.
+
+292
+00:10:50,000 --> 00:10:51,000
+Bravissimo,
+
+293
+00:10:51,000 --> 00:10:56,000
+e quindi per questo infatti molti mi chiedono
+come faccio a essere così orizzontale,
+
+294
+00:10:56,000 --> 00:11:00,466
+perché probabilmente sin da piccolo sono riuscito a sovraccaricare
+
+295
+00:11:00,466 --> 00:11:03,933
+il mio cervello di così tante informazioni che sono
+
+296
+00:11:03,933 --> 00:11:07,000
+arrivato a un punto che probabilmente sono io,
+
+297
+00:11:07,000 --> 00:11:10,000
+perché io me ne rendo conto che sono io che sono strano,
+
+298
+00:11:10,000 --> 00:11:15,000
+ma riesco a vedere in diversi ragionamenti,
+
+299
+00:11:15,000 --> 00:11:16,240
+che sia filosofia,
+
+300
+00:11:16,240 --> 00:11:17,379
+matematica,
+
+301
+00:11:17,379 --> 00:11:18,000
+informatica,
+
+302
+00:11:18,000 --> 00:11:20,070
+dei pattern riconosciuti,
+
+303
+00:11:20,070 --> 00:11:21,000
+che poi sono sempre gli stessi.
+
+304
+00:11:21,000 --> 00:11:23,080
+Non so se ti è mai capitato,
+
+305
+00:11:23,080 --> 00:11:24,000
+è come giocare con il lego,
+
+306
+00:11:24,000 --> 00:11:26,000
+cioè se passi da un argomento all'altro,
+
+307
+00:11:26,000 --> 00:11:29,000
+che magari non c'entrano nulla tra di loro,
+
+308
+00:11:29,000 --> 00:11:32,990
+riesci a riconoscerne comunque dei pattern logici che aiutano,
+
+309
+00:11:32,990 --> 00:11:33,990
+come posso dire,
+
+310
+00:11:33,990 --> 00:11:38,000
+a far lavorare il tuo cervello come se fosse un enorme file zip.
+
+311
+00:11:38,000 --> 00:11:38,539
+Cioè,
+
+312
+00:11:38,539 --> 00:11:38,929
+nel senso,
+
+313
+00:11:38,929 --> 00:11:43,330
+tu riesci a incanalare ancora più informazioni e ad avere all'interno,
+
+314
+00:11:43,330 --> 00:11:44,000
+diciamo,
+
+315
+00:11:44,000 --> 00:11:45,000
+a conoscere sempre più argomenti,
+
+316
+00:11:45,000 --> 00:11:48,000
+proprio perché col fatto che utilizzano dei pattern riconosciuti,
+
+317
+00:11:48,000 --> 00:11:51,000
+tu non è che devi proprio conoscere tutto di tutto,
+
+318
+00:11:51,000 --> 00:11:53,000
+ma andandotene per un ragionamento,
+
+319
+00:11:53,000 --> 00:11:55,000
+e per quei pattern che vedi che funzionano,
+
+320
+00:11:55,000 --> 00:12:00,340
+allora sostanzialmente riesci anche a essere
+competente magari in degli argomenti dove non hai,
+
+321
+00:12:00,340 --> 00:12:01,000
+come posso dire,
+
+322
+00:12:01,000 --> 00:12:03,000
+ti sei informato tantissimo.
+
+323
+00:12:03,000 --> 00:12:05,000
+E questa cosa mi capita tantissimo.
+
+324
+00:12:05,000 --> 00:12:08,000
+Il secondo aneddoto riguarda la seconda parte,
+
+325
+00:12:08,000 --> 00:12:10,000
+ovvero la seconda domanda.
+
+326
+00:12:10,000 --> 00:12:13,000
+Come ho fatto a entrare nel mondo del web design?
+
+327
+00:12:13,000 --> 00:12:16,000
+Perché avviene molto tempo dopo,
+
+328
+00:12:16,000 --> 00:12:23,000
+ed è grazie a un compagno di classe che andai a casa sua una sera,
+
+329
+00:12:23,000 --> 00:12:24,000
+me lo ricordo ancora,
+
+330
+00:12:24,000 --> 00:12:26,379
+aveva una Mac 27,
+
+331
+00:12:26,379 --> 00:12:29,000
+quindi là mi partì il pallino per Apple,
+
+332
+00:12:29,000 --> 00:12:30,990
+e lui con iWeb,
+
+333
+00:12:30,990 --> 00:12:33,000
+il famoso e compiante web,
+
+334
+00:12:33,000 --> 00:12:36,000
+faceva i siti web agli amici,
+
+335
+00:12:36,000 --> 00:12:37,000
+eccetera.
+
+336
+00:12:37,000 --> 00:12:37,740
+Allora disse,
+
+337
+00:12:37,740 --> 00:12:38,240
+cacchio,
+
+338
+00:12:38,240 --> 00:12:40,000
+questa cosa la devo fare pure io.
+
+339
+00:12:40,000 --> 00:12:41,200
+Perché lui diceva,
+
+340
+00:12:41,200 --> 00:12:41,490
+guarda,
+
+341
+00:12:41,490 --> 00:12:44,000
+io riesco a guadagnarmi una cosina,
+
+342
+00:12:44,000 --> 00:12:47,000
+anche perché poi venendo da una famiglia di imprenditori,
+
+343
+00:12:47,000 --> 00:12:50,000
+cioè mio padre e mia madre sono tutti e due farmacisti,
+
+344
+00:12:50,000 --> 00:12:52,000
+e mio padre aveva un deposito farmaceutico,
+
+345
+00:12:52,000 --> 00:12:54,000
+quindi vengo da una famiglia di imprenditori,
+
+346
+00:12:54,000 --> 00:12:55,009
+effettivamente la mentalità,
+
+347
+00:12:55,009 --> 00:12:56,000
+come posso dire,
+
+348
+00:12:56,000 --> 00:12:57,000
+imprenditoriale,
+
+349
+00:12:57,000 --> 00:12:58,080
+tra molte virgolette,
+
+350
+00:12:58,080 --> 00:12:59,000
+mi è stata imposta,
+
+351
+00:12:59,000 --> 00:13:01,000
+non è che me la sono dovuta andare a creare.
+
+352
+00:13:01,000 --> 00:13:02,399
+Quindi io già da piccolo,
+
+353
+00:13:02,399 --> 00:13:03,000
+diciamo,
+
+354
+00:13:03,000 --> 00:13:06,000
+vendevo le versioni di Windows XP modificate,
+
+355
+00:13:06,000 --> 00:13:08,000
+con i programmi già installati a pagamento,
+
+356
+00:13:08,000 --> 00:13:09,190
+e decisi,
+
+357
+00:13:09,190 --> 00:13:09,610
+guarda,
+
+358
+00:13:09,610 --> 00:13:12,000
+visto che con questi siti web,
+
+359
+00:13:12,000 --> 00:13:13,000
+facendoli con iWeb,
+
+360
+00:13:13,000 --> 00:13:15,000
+si fanno una qualcosina di soldi,
+
+361
+00:13:15,000 --> 00:13:16,190
+e comunque ti puoi,
+
+362
+00:13:16,190 --> 00:13:17,269
+come posso dire,
+
+363
+00:13:17,269 --> 00:13:20,000
+avere un gruzzoletto un po' di più,
+
+364
+00:13:20,000 --> 00:13:22,000
+perché vengono pagate molto meglio,
+
+365
+00:13:22,000 --> 00:13:23,000
+veniva pagato molto meglio,
+
+366
+00:13:23,000 --> 00:13:28,000
+rispetto al vendere a 10 euro il CD di Windows XP,
+
+367
+00:13:28,000 --> 00:13:31,000
+per fortuna è tutto archiviato,
+
+368
+00:13:31,000 --> 00:13:33,000
+quindi se la guardia di finanza si sta ascoltando,
+
+369
+00:13:33,000 --> 00:13:34,000
+è tutto archiviato,
+
+370
+00:13:34,000 --> 00:13:36,000
+visto che è successo molto molto tempo fa.
+
+371
+00:13:36,000 --> 00:13:37,409
+È tutto in prescrizione,
+
+372
+00:13:37,409 --> 00:13:38,000
+la cosa.
+
+373
+00:13:38,000 --> 00:13:38,399
+Bravissimo,
+
+374
+00:13:38,399 --> 00:13:39,000
+bravissimo,
+
+375
+00:13:39,000 --> 00:13:40,000
+io perciò ne sto parlando.
+
+376
+00:13:40,000 --> 00:13:45,000
+E sostanzialmente proprio per questo motivo iniziai a fare web.
+
+377
+00:13:45,000 --> 00:13:45,419
+Poi,
+
+378
+00:13:45,419 --> 00:13:46,190
+ovviamente,
+
+379
+00:13:46,190 --> 00:13:50,000
+partendo dai siti fatti in maniera automatica con iWeb,
+
+380
+00:13:50,000 --> 00:13:52,700
+iniziai a capire che cos'era HTLM,
+
+381
+00:13:52,700 --> 00:13:53,149
+CSS,
+
+382
+00:13:53,149 --> 00:13:54,250
+JavaScript,
+
+383
+00:13:54,250 --> 00:13:55,000
+eccetera,
+
+384
+00:13:55,000 --> 00:13:57,000
+e così poi sono approdato a WordPress.
+
+385
+00:13:57,000 --> 00:14:00,149
+Il mio amore è WordPress,
+
+386
+00:14:00,149 --> 00:14:03,000
+nel senso che per me fare siti,
+
+387
+00:14:03,000 --> 00:14:03,659
+nel senso,
+
+388
+00:14:03,659 --> 00:14:06,000
+per quanto riguarda i siti in WordPress,
+
+389
+00:14:06,000 --> 00:14:10,000
+è uno dei tanti modi di fare siti web,
+
+390
+00:14:10,000 --> 00:14:13,000
+ma sono riuscito a verticalizzarmi su WordPress,
+
+391
+00:14:13,000 --> 00:14:18,200
+tant'è vero che paradossalmente ho notato che anche chi,
+
+392
+00:14:18,200 --> 00:14:18,990
+diciamo,
+
+393
+00:14:18,990 --> 00:14:23,379
+fa siti con WordPress nelle agenzie in cui ho lavorato,
+
+394
+00:14:23,379 --> 00:14:24,500
+eccetera,
+
+395
+00:14:24,500 --> 00:14:31,000
+io riuscivo a lavorare i siti in maniera
+molto più veloce rispetto alla normalità.
+
+396
+00:14:31,000 --> 00:14:32,289
+Perché ero riuscito,
+
+397
+00:14:32,289 --> 00:14:33,080
+con gli anni,
+
+398
+00:14:33,080 --> 00:14:34,000
+tra personalizzazioni,
+
+399
+00:14:34,000 --> 00:14:35,000
+script,
+
+400
+00:14:35,000 --> 00:14:37,379
+installazioni automatizzate di WordPress,
+
+401
+00:14:37,379 --> 00:14:38,000
+cioè,
+
+402
+00:14:38,000 --> 00:14:40,000
+io ho sempre questo pallino dell'automatizzare,
+
+403
+00:14:40,000 --> 00:14:41,200
+automatizzare,
+
+404
+00:14:41,200 --> 00:14:42,379
+automatizzare,
+
+405
+00:14:42,379 --> 00:14:43,000
+mentre magari,
+
+406
+00:14:43,000 --> 00:14:46,000
+i vecchi programmatori che ci stavano per farti,
+
+407
+00:14:46,000 --> 00:14:48,299
+per metterti la demo del sito web,
+
+408
+00:14:48,299 --> 00:14:49,000
+ci mettevano,
+
+409
+00:14:49,000 --> 00:14:50,009
+una settimana,
+
+410
+00:14:50,009 --> 00:14:50,990
+dieci giorni,
+
+411
+00:14:50,990 --> 00:14:55,000
+io riducevo questo tempo a 48 ore.
+
+412
+00:14:55,000 --> 00:14:55,419
+Cioè,
+
+413
+00:14:55,419 --> 00:14:55,980
+quindi,
+
+414
+00:14:55,980 --> 00:14:58,000
+immaginati la compressione di tempo.
+
+415
+00:14:58,000 --> 00:14:59,080
+Tant'è vero che io,
+
+416
+00:14:59,080 --> 00:15:00,000
+a un certo punto,
+
+417
+00:15:00,000 --> 00:15:05,000
+sembravo mandrake perché non lavoravo per una sola agenzia,
+
+418
+00:15:05,000 --> 00:15:06,039
+ma facevo il ghost,
+
+419
+00:15:06,039 --> 00:15:07,000
+tra virgolette,
+
+420
+00:15:07,000 --> 00:15:11,000
+il ghost programmatore per tre agenzie in contemporanea.
+
+421
+00:15:11,000 --> 00:15:12,000
+Perché a livello di clientela,
+
+422
+00:15:12,000 --> 00:15:17,000
+riuscivo a soddisfare tre agenzie in contemporanea per come carico di lavoro.
+
+423
+00:15:17,000 --> 00:15:19,000
+E' vero che dovevo fare le famose otto ore,
+
+424
+00:15:19,000 --> 00:15:21,309
+forse anche qualcosina di più,
+
+425
+00:15:21,309 --> 00:15:22,149
+però ero arrivato,
+
+426
+00:15:22,149 --> 00:15:22,720
+diciamo,
+
+427
+00:15:22,720 --> 00:15:26,000
+full con tre ruoli in tre agenzie diverse.
+
+428
+00:15:26,000 --> 00:15:26,500
+Quindi,
+
+429
+00:15:26,500 --> 00:15:28,000
+questo è un po' la cosa.
+
+430
+00:15:28,000 --> 00:15:31,000
+Devo dire che la cosa traspare,
+
+431
+00:15:31,000 --> 00:15:36,000
+lo dico per chi ascolta del canale e che non conosce Giuseppe,
+
+432
+00:15:36,000 --> 00:15:40,000
+io lo conosco tramite qualche chat comune,
+
+433
+00:15:40,000 --> 00:15:45,379
+questa cosa qua del fatto di che faccia talmente tante cose,
+
+434
+00:15:45,379 --> 00:15:47,009
+contemporaneamente,
+
+435
+00:15:47,009 --> 00:15:48,000
+su tanti campi,
+
+436
+00:15:48,000 --> 00:15:52,000
+è sempre stata una mia grossa invidia.
+
+437
+00:15:52,000 --> 00:15:53,200
+E tra l'altro,
+
+438
+00:15:53,200 --> 00:15:54,340
+appunto,
+
+439
+00:15:54,340 --> 00:15:57,000
+per noi meccanici ignorantoni,
+
+440
+00:15:57,000 --> 00:16:00,000
+per chi non sa cosa sia WordPress,
+
+441
+00:16:00,000 --> 00:16:03,000
+WordPress è praticamente il motore o la base,
+
+442
+00:16:03,000 --> 00:16:04,000
+quello che sta sotto...
+
+443
+00:16:04,000 --> 00:16:05,000
+Un CMS.
+
+444
+00:16:05,000 --> 00:16:11,000
+Un CMS che sta sotto a un sacco di blog.
+
+445
+00:16:11,000 --> 00:16:13,000
+Una volta lo si usava per il blog,
+
+446
+00:16:13,000 --> 00:16:16,000
+adesso lo si usa proprio per fare siti,
+
+447
+00:16:16,000 --> 00:16:18,370
+anche belli dinamici,
+
+448
+00:16:18,370 --> 00:16:19,000
+tutto quanto.
+
+449
+00:16:19,000 --> 00:16:19,600
+Con Sidra,
+
+450
+00:16:19,600 --> 00:16:21,000
+scusami se ti interrompo,
+
+451
+00:16:21,000 --> 00:16:24,000
+dati alla mano al 2025,
+
+452
+00:16:24,000 --> 00:16:27,000
+il 76% di Internet,
+
+453
+00:16:27,000 --> 00:16:31,000
+il 76% di Internet è mosso da WordPress.
+
+454
+00:16:31,000 --> 00:16:32,000
+Azzo.
+
+455
+00:16:32,000 --> 00:16:34,279
+Direbbero dalle tue parti,
+
+456
+00:16:34,279 --> 00:16:35,000
+azzo.
+
+457
+00:16:35,000 --> 00:16:36,000
+Bravissimo.
+
+458
+00:16:36,000 --> 00:16:37,000
+Per dirti,
+
+459
+00:16:37,000 --> 00:16:37,529
+il sito della CNN,
+
+460
+00:16:37,529 --> 00:16:38,000
+WordPress.
+
+461
+00:16:38,000 --> 00:16:40,379
+Il sito della Disney,
+
+462
+00:16:40,379 --> 00:16:41,000
+WordPress.
+
+463
+00:16:41,000 --> 00:16:42,000
+Per farvi capire.
+
+464
+00:16:42,000 --> 00:16:43,000
+Non l'avrei mai pensato,
+
+465
+00:16:43,000 --> 00:16:43,250
+giuro,
+
+466
+00:16:43,250 --> 00:16:44,000
+non l'avrei mai pensato.
+
+467
+00:16:44,000 --> 00:16:45,990
+Però c'è il trucco,
+
+468
+00:16:46,000 --> 00:16:49,000
+Perché utilizzano quello che viene chiamato WordPress Headless,
+
+469
+00:16:49,000 --> 00:16:51,000
+e qui iniziamo ad entrare nei meandri.
+
+470
+00:16:51,000 --> 00:16:52,200
+Significa,
+
+471
+00:16:52,200 --> 00:16:54,000
+quello WordPress come funziona,
+
+472
+00:16:54,000 --> 00:16:56,000
+è un CMS scritto in PHP,
+
+473
+00:16:56,000 --> 00:16:58,000
+che è un linguaggio di programmazione per i server,
+
+474
+00:16:58,000 --> 00:16:59,000
+utilizzatissimo,
+
+475
+00:16:59,000 --> 00:17:01,000
+che ha appunto un back-end,
+
+476
+00:17:01,000 --> 00:17:03,000
+cioè una parte dove tu ti fai le cose,
+
+477
+00:17:03,000 --> 00:17:05,000
+e un front-end che ti fa vedere il sito.
+
+478
+00:17:05,000 --> 00:17:07,000
+WordPress Headless è sostanzialmente solo il back-end,
+
+479
+00:17:07,000 --> 00:17:08,200
+cioè nel senso,
+
+480
+00:17:08,200 --> 00:17:09,000
+visto che la gente,
+
+481
+00:17:09,000 --> 00:17:11,000
+WordPress è molto semplice per creare articoli,
+
+482
+00:17:11,000 --> 00:17:12,200
+creare le pagine,
+
+483
+00:17:12,200 --> 00:17:13,000
+caricare i media,
+
+484
+00:17:13,000 --> 00:17:14,000
+fare queste cose qui,
+
+485
+00:17:14,000 --> 00:17:16,000
+loro che cosa hanno fatto?
+
+486
+00:17:16,000 --> 00:17:18,000
+Utilizzano WordPress come back-end,
+
+487
+00:17:18,000 --> 00:17:20,000
+cioè nella parte sottostante,
+
+488
+00:17:20,000 --> 00:17:21,200
+quindi chiunque,
+
+489
+00:17:21,200 --> 00:17:22,000
+anche un neofita,
+
+490
+00:17:22,000 --> 00:17:23,000
+può crearsi l'articolo,
+
+491
+00:17:23,000 --> 00:17:24,000
+può caricare i media,
+
+492
+00:17:24,000 --> 00:17:26,000
+può mettere a posto le pagine,
+
+493
+00:17:26,000 --> 00:17:29,000
+poi prendono il codice che crea WordPress,
+
+494
+00:17:29,000 --> 00:17:31,000
+e lo sparano tramite JavaScript,
+
+495
+00:17:31,000 --> 00:17:32,000
+oppure altri framework,
+
+496
+00:17:32,000 --> 00:17:34,000
+per fare tutte quelle animazioni,
+
+497
+00:17:34,000 --> 00:17:35,000
+parallassi,
+
+498
+00:17:35,000 --> 00:17:36,000
+cose molto complicate,
+
+499
+00:17:36,000 --> 00:17:40,000
+che con WordPress e PHP farebbero un po' implodere i siti web.
+
+500
+00:17:40,000 --> 00:17:42,000
+Devo dire che,
+
+501
+00:17:42,000 --> 00:17:44,000
+ascoltandoti,
+
+502
+00:17:44,000 --> 00:17:46,000
+penso che sia per tutti quanti,
+
+503
+00:17:46,000 --> 00:17:48,000
+noi tecnici e noi disegnatori,
+
+504
+00:17:48,000 --> 00:17:53,000
+che viviamo di linee e di quote,
+
+505
+00:17:53,000 --> 00:17:56,000
+questa cosa qua per noi è quasi del magico,
+
+506
+00:17:56,000 --> 00:17:58,000
+quindi passami questa cosa qua,
+
+507
+00:17:58,000 --> 00:18:01,000
+perché io ci ho buttato un po' la testa,
+
+508
+00:18:01,000 --> 00:18:04,000
+per fare alcune cose mie,
+
+509
+00:18:04,000 --> 00:18:06,000
+nel senso che anch'io,
+
+510
+00:18:06,000 --> 00:18:08,000
+per un piccolo periodo,
+
+511
+00:18:08,000 --> 00:18:11,000
+quando cercavo di portare a casa la pagnotta,
+
+512
+00:18:11,000 --> 00:18:14,000
+perché si era rimasti senza lavoro,
+
+513
+00:18:14,000 --> 00:18:18,000
+e quindi mi sono impegnato,
+
+514
+00:18:18,000 --> 00:18:20,000
+nel più piccolo,
+
+515
+00:18:20,000 --> 00:18:22,279
+ma proprio roba,
+
+516
+00:18:22,279 --> 00:18:22,630
+diciamo,
+
+517
+00:18:22,630 --> 00:18:23,000
+basica,
+
+518
+00:18:23,000 --> 00:18:26,279
+o come direbbero il trio di Aldo,
+
+519
+00:18:26,279 --> 00:18:27,000
+Giovanni e Giacomo,
+
+520
+00:18:27,000 --> 00:18:28,000
+base baracca proprio.
+
+521
+00:18:28,000 --> 00:18:33,000
+Quindi è una cosa da fare molto limitato.
+
+522
+00:18:33,000 --> 00:18:36,000
+Io ho visto il tuo sito,
+
+523
+00:18:36,000 --> 00:18:40,000
+che poi dopo comunque linkeremo in descrizione,
+
+524
+00:18:40,000 --> 00:18:42,000
+e tutto il resto che fai,
+
+525
+00:18:42,000 --> 00:18:44,000
+insomma anche il tuo portfoglio,
+
+526
+00:18:44,000 --> 00:18:46,000
+è di tutto rispetto.
+
+527
+00:18:46,000 --> 00:18:48,000
+Ma tu non ti occupi solo di web design,
+
+528
+00:18:48,000 --> 00:18:50,000
+perché io so che naturalmente,
+
+529
+00:18:50,000 --> 00:18:53,000
+le nostre discussioni raramente vertono sul web design,
+
+530
+00:18:53,000 --> 00:18:56,000
+ma vertono sull'hardware,
+
+531
+00:18:56,000 --> 00:18:59,000
+quindi la passione per l'hardware?
+
+532
+00:18:59,000 --> 00:19:01,380
+Nasce prima del web design,
+
+533
+00:19:01,380 --> 00:19:02,000
+però,
+
+534
+00:19:02,000 --> 00:19:04,000
+Con un altro aneddoto,
+
+535
+00:19:04,000 --> 00:19:06,000
+perché io poi vado ad aneddoti,
+
+536
+00:19:06,000 --> 00:19:08,000
+che mi sono costruito negli anni.
+
+537
+00:19:08,000 --> 00:19:10,000
+È vero che sembro il santone,
+
+538
+00:19:10,000 --> 00:19:13,000
+quello lì che quando vai a chiedere la pozione magica,
+
+539
+00:19:13,000 --> 00:19:16,000
+però riesco a condensare molto tramite aneddoti.
+
+540
+00:19:16,000 --> 00:19:17,000
+Nasce prima.
+
+541
+00:19:17,000 --> 00:19:19,000
+Perché il web design è nato,
+
+542
+00:19:19,000 --> 00:19:20,000
+diciamo,
+
+543
+00:19:20,000 --> 00:19:23,000
+tra la fine delle scuole elementari e l'inizio delle scuole medie.
+
+544
+00:19:23,000 --> 00:19:25,000
+Ti parliamo degli anni?
+
+545
+00:19:25,000 --> 00:19:26,000
+Errore.
+
+546
+00:19:26,000 --> 00:19:27,000
+Fine delle scuole medie,
+
+547
+00:19:27,000 --> 00:19:28,000
+inizio del liceo.
+
+548
+00:19:28,000 --> 00:19:30,000
+Quindi parliamo di anni,
+
+549
+00:19:30,000 --> 00:19:31,990
+non lo so,
+
+550
+00:19:31,990 --> 00:19:33,000
+sono del 1994,
+
+551
+00:19:33,000 --> 00:19:36,150
+stiamo parlando del 2008,
+
+552
+00:19:36,150 --> 00:19:36,819
+2007,
+
+553
+00:19:36,819 --> 00:19:37,410
+2008,
+
+554
+00:19:37,410 --> 00:19:38,000
+2009,
+
+555
+00:19:38,000 --> 00:19:40,000
+queste cose qua.
+
+556
+00:19:40,000 --> 00:19:41,000
+Guardate la faccia,
+
+557
+00:19:41,000 --> 00:19:43,000
+sei schifosamente giovane.
+
+558
+00:19:43,000 --> 00:19:48,000
+Per quanto io mi senta già mentalmente abbastanza arrivata con i miei 31 anni,
+
+559
+00:19:48,000 --> 00:19:49,000
+ma andiamo avanti.
+
+560
+00:19:49,000 --> 00:19:52,000
+Io dico sempre che sono come una candela,
+
+561
+00:19:52,000 --> 00:19:56,000
+col fatto che sto bruciando in modalità overdrive da troppi anni,
+
+562
+00:19:56,000 --> 00:19:58,000
+non credo di arrivare ai 40,
+
+563
+00:19:58,000 --> 00:20:00,000
+ma andiamo avanti.
+
+564
+00:20:00,000 --> 00:20:03,000
+La passione per l'hardware nasce prima,
+
+565
+00:20:03,000 --> 00:20:06,000
+nasce addirittura alle scuole elementari.
+
+566
+00:20:06,000 --> 00:20:07,000
+Perché,
+
+567
+00:20:07,000 --> 00:20:08,000
+e ti dico questo aneddoto,
+
+568
+00:20:08,000 --> 00:20:10,000
+che pure racconto spesso,
+
+569
+00:20:10,000 --> 00:20:18,000
+è nato tutto dal fatto che volevo giocare a un gioco sul computer di mio padre,
+
+570
+00:20:18,000 --> 00:20:20,000
+perché a casa c'era il computer di mio padre,
+
+571
+00:20:20,000 --> 00:20:21,000
+perché lui sostanzialmente,
+
+572
+00:20:21,000 --> 00:20:23,000
+col fatto che aveva il deposito farmaceutico,
+
+573
+00:20:23,000 --> 00:20:28,000
+aveva il gestionale che poteva essere richiamato da remoto,
+
+574
+00:20:28,000 --> 00:20:29,000
+anche dal computer di casa,
+
+575
+00:20:29,000 --> 00:20:32,000
+in modo che potesse controllare un po' la situazione,
+
+576
+00:20:32,000 --> 00:20:35,000
+per quanto lui era uno che stava 12 ore al lavoro,
+
+577
+00:20:35,000 --> 00:20:36,990
+stava sempre in ufficio,
+
+578
+00:20:37,000 --> 00:20:39,000
+però poteva fare queste cose.
+
+579
+00:20:39,000 --> 00:20:42,000
+E quindi io volevo giocare su questo...
+
+580
+00:20:42,000 --> 00:20:43,000
+Ora non ricordo,
+
+581
+00:20:43,000 --> 00:20:46,000
+era tipo un clone di Space Invaders,
+
+582
+00:20:46,000 --> 00:20:47,000
+una cosa del genere,
+
+583
+00:20:47,000 --> 00:20:49,000
+quindi aveva bisogno della Cloche,
+
+584
+00:20:49,000 --> 00:20:50,000
+non so se sei presente,
+
+585
+00:20:50,000 --> 00:20:52,000
+il joystick con la forma di Cloche.
+
+586
+00:20:52,000 --> 00:20:54,000
+Su Windows 98 ho visto che...
+
+587
+00:20:54,000 --> 00:20:55,009
+Sai,
+
+588
+00:20:55,009 --> 00:20:58,000
+adesso sono diventati driver universali.
+
+589
+00:20:58,000 --> 00:21:00,000
+Quando tu provavi a installare una periferica,
+
+590
+00:21:00,000 --> 00:21:02,000
+ti chiedeva i driver.
+
+591
+00:21:02,000 --> 00:21:04,000
+Grande problema.
+
+592
+00:21:04,000 --> 00:21:08,000
+Visto che io non riuscivo a farla funzionare,
+
+593
+00:21:08,000 --> 00:21:10,000
+mio padre giustamente chiamò il tecnico,
+
+594
+00:21:10,000 --> 00:21:12,000
+che era quello che gestiva le macchine,
+
+595
+00:21:12,000 --> 00:21:13,000
+nel deposito,
+
+596
+00:21:13,000 --> 00:21:16,000
+e quindi gestiva anche il computer a casa,
+
+597
+00:21:16,000 --> 00:21:18,000
+e lui chiamò appunto,
+
+598
+00:21:18,000 --> 00:21:23,210
+e arrivò questo ragazzo e stette qualcosa come due ore a cercare driver,
+
+599
+00:21:23,210 --> 00:21:24,000
+situazioni,
+
+600
+00:21:24,000 --> 00:21:25,000
+e non riuscì.
+
+601
+00:21:25,000 --> 00:21:29,000
+Io rimasi abbastanza contrariato dalla cosa.
+
+602
+00:21:29,000 --> 00:21:31,000
+Perché...
+
+603
+00:21:31,000 --> 00:21:33,000
+non lo so.
+
+604
+00:21:33,000 --> 00:21:34,000
+Sai,
+
+605
+00:21:34,000 --> 00:21:38,000
+quando tu annusi che qualcosa non funziona
+perché il tipo non è che non sia competente,
+
+606
+00:21:38,000 --> 00:21:39,000
+però...
+
+607
+00:21:39,000 --> 00:21:40,220
+o è scazzato,
+
+608
+00:21:40,220 --> 00:21:42,000
+oppure non è il suo,
+
+609
+00:21:42,000 --> 00:21:43,000
+non ti so dire,
+
+610
+00:21:43,000 --> 00:21:43,500
+perché,
+
+611
+00:21:43,500 --> 00:21:44,000
+capito,
+
+612
+00:21:44,000 --> 00:21:45,000
+non riusciva a fare altro,
+
+613
+00:21:45,000 --> 00:21:46,000
+tu voglia...
+
+614
+00:21:46,000 --> 00:21:47,000
+Io poi forse sono così,
+
+615
+00:21:47,000 --> 00:21:49,000
+perché mia nonna aveva questo superpotere,
+
+616
+00:21:49,000 --> 00:21:51,000
+riusciva a percepire le persone,
+
+617
+00:21:51,000 --> 00:21:54,000
+probabilmente l'ho arrediato da lei.
+
+618
+00:21:54,000 --> 00:21:55,200
+Io con una persona,
+
+619
+00:21:55,200 --> 00:21:57,000
+quando ci sto a contatto,
+
+620
+00:21:57,000 --> 00:21:59,000
+non te lo so dire come,
+
+621
+00:21:59,000 --> 00:22:03,000
+ma riesco a capire quando sostanzialmente fa quella cosa giusto per,
+
+622
+00:22:03,000 --> 00:22:05,000
+ma non lo sta facendo,
+
+623
+00:22:05,000 --> 00:22:06,000
+come posso dirti,
+
+624
+00:22:06,000 --> 00:22:07,000
+in maniera convinta.
+
+625
+00:22:07,000 --> 00:22:08,000
+Morale della favola,
+
+626
+00:22:08,000 --> 00:22:10,000
+non riesce a installarmi il driver,
+
+627
+00:22:10,000 --> 00:22:11,000
+e se ne va,
+
+628
+00:22:11,000 --> 00:22:14,000
+Si fa pagare la consulenza,
+
+629
+00:22:14,000 --> 00:22:15,000
+e arrivederci.
+
+630
+00:22:15,000 --> 00:22:18,000
+Io non ricordo quanto tempo ci ho messo,
+
+631
+00:22:19,000 --> 00:22:21,000
+ma sono riuscito a installare il driver,
+
+632
+00:22:21,000 --> 00:22:23,000
+sono riuscito a installare il joystick.
+
+633
+00:22:23,000 --> 00:22:25,000
+Spaccando tutto,
+
+634
+00:22:25,000 --> 00:22:27,000
+spacciando la testa proprio.
+
+635
+00:22:27,000 --> 00:22:29,000
+Sono riuscito a installare il driver,
+
+636
+00:22:29,000 --> 00:22:31,000
+sono riuscito appunto a installare i driver,
+
+637
+00:22:31,000 --> 00:22:33,000
+sono riuscito a giocare.
+
+638
+00:22:33,000 --> 00:22:35,000
+Guardai mio padre e gli dissi,
+
+639
+00:22:35,000 --> 00:22:39,000
+ma io perché devo pagare una persona per
+fare una cosa che mi posso fare da solo?
+
+640
+00:22:39,000 --> 00:22:42,000
+Perché poi sono sempre stato così da piccolo,
+
+641
+00:22:42,000 --> 00:22:44,000
+cioè frasi proprio terra-terra.
+
+642
+00:22:44,000 --> 00:22:44,640
+Sì,
+
+643
+00:22:44,640 --> 00:22:45,309
+sì,
+
+644
+00:22:45,309 --> 00:22:46,369
+sì,
+
+645
+00:22:46,369 --> 00:22:47,000
+molto diretto.
+
+646
+00:22:47,000 --> 00:22:49,000
+Ed è lì stato l'inizio della fine,
+
+647
+00:22:49,000 --> 00:22:54,000
+perché col fatto del se perché devo pagare
+qualcuno se posso farmi qualcosa da solo,
+
+648
+00:22:54,000 --> 00:22:56,000
+si è aperta la tana del bianconiglio,
+
+649
+00:22:56,000 --> 00:23:00,000
+siamo arrivati al giorno d'oggi così.
+
+650
+00:23:00,000 --> 00:23:01,190
+Bravo,
+
+651
+00:23:01,190 --> 00:23:02,000
+bravo.
+
+652
+00:23:02,000 --> 00:23:06,000
+Il percorso bene o male anche io,
+
+653
+00:23:06,000 --> 00:23:08,000
+credo di aver smontato e rimontato il computer,
+
+654
+00:23:08,000 --> 00:23:13,000
+una volta per far funzionare le famose schede Matrox,
+
+655
+00:23:13,000 --> 00:23:15,000
+oppure le famose...
+
+656
+00:23:15,000 --> 00:23:15,849
+aspetta,
+
+657
+00:23:15,849 --> 00:23:17,000
+c'erano altre,
+
+658
+00:23:17,000 --> 00:23:19,000
+quelle che andavano in Islay,
+
+659
+00:23:19,000 --> 00:23:20,000
+o Madonna mia...
+
+660
+00:23:20,000 --> 00:23:20,869
+Le NVIDIA,
+
+661
+00:23:20,869 --> 00:23:22,000
+le serie 9?
+
+662
+00:23:22,000 --> 00:23:22,450
+Sì,
+
+663
+00:23:22,450 --> 00:23:22,809
+no,
+
+664
+00:23:22,809 --> 00:23:24,000
+ma ancora prima,
+
+665
+00:23:24,000 --> 00:23:25,000
+c'erano ancora altre schede.
+
+666
+00:23:25,000 --> 00:23:26,000
+Purtroppo sono...
+
+667
+00:23:26,000 --> 00:23:27,200
+brutto da dire,
+
+668
+00:23:27,200 --> 00:23:28,000
+non ti voglio...
+
+669
+00:23:28,000 --> 00:23:28,569
+eh,
+
+670
+00:23:28,569 --> 00:23:29,000
+capito,
+
+671
+00:23:29,000 --> 00:23:30,000
+non lo voglio dire,
+
+672
+00:23:30,000 --> 00:23:32,000
+perché tu già hai messo il dito nella mia...
+
+673
+00:23:32,000 --> 00:23:34,000
+C'erano altre schede Matrox,
+
+674
+00:23:34,000 --> 00:23:36,000
+c'erano altre schede che andavano...
+
+675
+00:23:36,000 --> 00:23:37,000
+adesso va bene,
+
+676
+00:23:37,000 --> 00:23:38,230
+Qualcuno,
+
+677
+00:23:38,230 --> 00:23:39,000
+magari,
+
+678
+00:23:39,000 --> 00:23:43,000
+che lo scriva nei commenti quando sentirà o vedrà il video,
+
+679
+00:23:43,000 --> 00:23:47,000
+sicuramente qualche anziano con i capelli bianchi come me se lo ricorderà.
+
+680
+00:23:47,000 --> 00:23:48,240
+E quindi,
+
+681
+00:23:48,240 --> 00:23:49,000
+adesso,
+
+682
+00:23:49,000 --> 00:23:53,000
+visto che abbiamo introdotto la cosa del...
+
+683
+00:23:53,000 --> 00:23:54,000
+l'argomento hardware...
+
+684
+00:23:54,000 --> 00:23:55,000
+Principe.
+
+685
+00:23:55,000 --> 00:23:56,000
+Esatto.
+
+686
+00:23:56,000 --> 00:23:57,000
+Ci buttiamo direttamente,
+
+687
+00:23:57,000 --> 00:24:01,000
+perché poi a noi interessa costruirci la nostra workstation,
+
+688
+00:24:01,000 --> 00:24:13,000
+oppure anche consigliare i famosi IT che abbiamo in ufficio e
+che loro vogliono montarti quello che magari passa al convento,
+
+689
+00:24:13,000 --> 00:24:14,200
+come si dice,
+
+690
+00:24:14,200 --> 00:24:15,000
+senza pensare che...
+
+691
+00:24:15,000 --> 00:24:17,529
+Molte volte ti dicono ma no,
+
+692
+00:24:17,529 --> 00:24:19,000
+ma questa funziona,
+
+693
+00:24:19,000 --> 00:24:21,000
+è bellissima perché va bene per la...
+
+694
+00:24:21,000 --> 00:24:24,000
+per la grafica e per il gaming.
+
+695
+00:24:24,000 --> 00:24:24,480
+Sì,
+
+696
+00:24:24,480 --> 00:24:26,000
+ma non c'entra niente.
+
+697
+00:24:26,000 --> 00:24:31,000
+E infatti io faccio un po' di domande a Giuseppe,
+
+698
+00:24:31,000 --> 00:24:33,000
+come lui le sa,
+
+699
+00:24:33,000 --> 00:24:35,000
+e quindi,
+
+700
+00:24:35,000 --> 00:24:41,000
+cerchiamo di spiegare anche a noi poveri tecnici CAD,
+
+701
+00:24:41,000 --> 00:24:44,990
+che differenza c'è tra una workstation CAD e una...
+
+702
+00:24:44,990 --> 00:24:46,990
+facciamo del gaming,
+
+703
+00:24:46,990 --> 00:24:49,000
+che è più che della grafica il gaming,
+
+704
+00:24:49,000 --> 00:24:50,200
+perché tendenzialmente,
+
+705
+00:24:50,200 --> 00:24:51,000
+tutte le volte,
+
+706
+00:24:51,000 --> 00:24:55,000
+è la parola che sento quando cercano di vendermi una workstation.
+
+707
+00:24:55,000 --> 00:24:55,980
+Allora,
+
+708
+00:24:55,980 --> 00:24:58,319
+il problema è fondamentale,
+
+709
+00:24:58,319 --> 00:24:59,500
+perché questo,
+
+710
+00:24:59,500 --> 00:25:00,200
+diciamo,
+
+711
+00:25:00,200 --> 00:25:02,279
+è un mio modo di ragionare,
+
+712
+00:25:02,279 --> 00:25:03,000
+ovvero,
+
+713
+00:25:03,000 --> 00:25:03,630
+non ce l'ha,
+
+714
+00:25:03,630 --> 00:25:05,660
+ma al giorno d'oggi dobbiamo,
+
+715
+00:25:05,660 --> 00:25:06,990
+al mio modo di vedere,
+
+716
+00:25:06,990 --> 00:25:07,500
+ma credo che sia,
+
+717
+00:25:07,500 --> 00:25:09,000
+perdonami il termine,
+
+718
+00:25:09,000 --> 00:25:11,000
+più un problema di voi anziani,
+
+719
+00:25:11,000 --> 00:25:13,700
+che avete il concetto del una macchina,
+
+720
+00:25:13,700 --> 00:25:16,990
+però a livello proprio tecnico e TI,
+
+721
+00:25:16,990 --> 00:25:22,220
+avete ancora il concetto del una macchina polivalente va bene per tutto.
+
+722
+00:25:22,220 --> 00:25:22,990
+Sì,
+
+723
+00:25:22,990 --> 00:25:23,250
+ma no.
+
+724
+00:25:23,250 --> 00:25:24,200
+Perché,
+
+725
+00:25:24,200 --> 00:25:25,000
+purtroppo,
+
+726
+00:25:25,000 --> 00:25:26,190
+al giorno d'oggi,
+
+727
+00:25:26,190 --> 00:25:29,460
+la tecnologia si è così ramificata che,
+
+728
+00:25:29,460 --> 00:25:31,000
+a mio modo di vedere,
+
+729
+00:25:31,000 --> 00:25:33,000
+facendo dei piccoli aggiustamenti,
+
+730
+00:25:33,000 --> 00:25:36,990
+ma parliamo di qualcosa anche subjettibile,
+
+731
+00:25:37,000 --> 00:25:39,000
+ti stravolge totalmente la situazione.
+
+732
+00:25:39,000 --> 00:25:41,000
+Esempio lampante.
+
+733
+00:25:41,000 --> 00:25:46,000
+Attualmente io mi occupo soprattutto per macchine da gaming di altissima fascia.
+
+734
+00:25:46,000 --> 00:25:47,509
+Mi è arrivato un ragazzo che,
+
+735
+00:25:47,509 --> 00:25:49,000
+da amici di amici,
+
+736
+00:25:49,000 --> 00:25:52,150
+a cui è stato fatto un computer da una persona terza,
+
+737
+00:25:52,150 --> 00:25:53,000
+che ha un negozio di informatica,
+
+738
+00:25:53,000 --> 00:25:55,000
+e lui non riusciva a giocare,
+
+739
+00:25:55,000 --> 00:25:58,990
+perché lui gioca in competitivo a Call of Duty,
+
+740
+00:25:58,990 --> 00:26:00,990
+cioè fa le classifiche,
+
+741
+00:26:01,000 --> 00:26:03,000
+lo fa proprio come se fosse automestiere,
+
+742
+00:26:03,000 --> 00:26:07,000
+e quindi deve avere il computer che si spara 500 fps nel,
+
+743
+00:26:07,000 --> 00:26:07,619
+diciamo,
+
+744
+00:26:07,619 --> 00:26:09,000
+il più alto possibile,
+
+745
+00:26:09,000 --> 00:26:17,000
+e ha speso 5500 euro di macchina comprandosi un 14900 KF e una 4090.
+
+746
+00:26:17,000 --> 00:26:19,819
+Aveva problemi a non finire più.
+
+747
+00:26:19,819 --> 00:26:21,000
+Gioco che crashava,
+
+748
+00:26:21,000 --> 00:26:22,269
+Windows instabile,
+
+749
+00:26:22,269 --> 00:26:23,000
+situazioni assurde.
+
+750
+00:26:23,000 --> 00:26:25,000
+Vado a smontargli il computer,
+
+751
+00:26:25,000 --> 00:26:29,000
+in pratica questo è il tizio che gli ha montato
+il computer e gli aveva combinato un casino.
+
+752
+00:26:29,000 --> 00:26:30,259
+Innanzitutto,
+
+753
+00:26:30,259 --> 00:26:33,000
+la scelta del 14900 KF è stata in pausta,
+
+754
+00:26:33,000 --> 00:26:37,000
+perché gli è arrivato un processore appunto...
+
+755
+00:26:37,000 --> 00:26:39,779
+Giusto per Intel i9,
+
+756
+00:26:39,779 --> 00:26:40,990
+giusto?
+
+757
+00:26:41,000 --> 00:26:43,000
+l'i9 14900 KF.
+
+758
+00:26:43,000 --> 00:26:45,000
+Il codice,
+
+759
+00:26:45,000 --> 00:26:49,000
+e quindi noi poveri è l'Intel i9.
+
+760
+00:26:49,000 --> 00:26:50,200
+La parte,
+
+761
+00:26:50,200 --> 00:26:51,000
+purtroppo,
+
+762
+00:26:51,000 --> 00:26:53,000
+della sfortunata serie 14,
+
+763
+00:26:53,000 --> 00:26:55,000
+che tu giustamente saprai un pochino.
+
+764
+00:26:55,000 --> 00:26:59,000
+La serie 14 in pratica è stata una delle peggiori serie di Intel.
+
+765
+00:26:59,000 --> 00:27:01,000
+A mani basse.
+
+766
+00:27:01,000 --> 00:27:02,990
+Perché aveva il problema,
+
+767
+00:27:02,990 --> 00:27:04,329
+soprattutto su quelli di altissima fascia,
+
+768
+00:27:04,329 --> 00:27:10,000
+che dovevi un processore che ti sfiammava 340-350 Watt sulla piastra madre,
+
+769
+00:27:10,000 --> 00:27:14,000
+e aveva un throttling termico diciamo a cannone,
+
+770
+00:27:14,000 --> 00:27:16,000
+ovvero significa che il processore arrivava a 100°C,
+
+771
+00:27:16,000 --> 00:27:20,000
+visto che 100°C è la temperatura massimo operativa del processore,
+
+772
+00:27:20,000 --> 00:27:22,000
+non riusciva a raffreddarsi abbastanza velocemente,
+
+773
+00:27:22,000 --> 00:27:26,000
+andava a tagliare le frequenze e tagliava la potenza per cercare di non fondere.
+
+774
+00:27:26,000 --> 00:27:29,950
+Questo è sostanzialmente il throttling termico.
+
+775
+00:27:29,950 --> 00:27:32,000
+La serie 14000 mi ha sofferto tantissimo,
+
+776
+00:27:32,000 --> 00:27:33,490
+tanto è vero che lui,
+
+777
+00:27:33,490 --> 00:27:35,660
+avendo una dissipazione al liquido,
+
+778
+00:27:35,660 --> 00:27:36,509
+ma di bassissima gamma,
+
+779
+00:27:36,509 --> 00:27:40,000
+perché non so per quale motivo gliel'aveva scelta di bassissima gamma,
+
+780
+00:27:40,000 --> 00:27:42,000
+aveva letteralmente fritto il processore.
+
+781
+00:27:42,000 --> 00:27:48,000
+Tanto è vero che facendo dei test con un software che si chiama OCCT,
+
+782
+00:27:48,000 --> 00:27:52,000
+che serve diciamo ai tecnici per fare i testing,
+
+783
+00:27:52,000 --> 00:27:54,980
+c'è una versione gratuita che potete usare un po' tutti,
+
+784
+00:27:54,980 --> 00:27:58,000
+se vuoi ti mando il link così magari lo inserisci,
+
+785
+00:27:58,000 --> 00:28:03,029
+fa un test ad ampio aspetto sul computer e ti dice come sta messo.
+
+786
+00:28:03,029 --> 00:28:10,650
+Ti dico solo che le licenze sono ovviamente per i
+professionisti perché costano decine di migliaia di euro,
+
+787
+00:28:10,650 --> 00:28:14,000
+però c'è il fatto che questo costo così,
+
+788
+00:28:14,000 --> 00:28:18,000
+importante è perché se tu hai la licenza,
+
+789
+00:28:18,000 --> 00:28:20,000
+il software ti certifica la macchina,
+
+790
+00:28:20,000 --> 00:28:22,000
+c'è anche un'assicurazione.
+
+791
+00:28:22,000 --> 00:28:26,000
+Quindi stiamo parlando di roba proprio professionale,
+
+792
+00:28:26,000 --> 00:28:32,549
+quindi se è una persona tu vai in un centro dove hai una
+macchina certificata da OCCT e ti danno proprio il QR code con,
+
+793
+00:28:32,549 --> 00:28:33,210
+dice,
+
+794
+00:28:33,210 --> 00:28:38,000
+ho fatto 12 ore di test ininterrotti e questi sono i test,
+
+795
+00:28:38,000 --> 00:28:40,000
+e tu giustamente dopo hai problemi,
+
+796
+00:28:40,000 --> 00:28:46,000
+l'azienda di OCCT ha proprio un'assicurazione fino a
+un milione di dollari per quanto riguarda problemi,
+
+797
+00:28:46,000 --> 00:28:50,000
+per dirti loro come sono sicuri del ferro e fuoco che fanno con questo software.
+
+798
+00:28:50,000 --> 00:28:53,990
+La versione gratuita che ovviamente non ti dà la certificazione,
+
+799
+00:28:53,990 --> 00:28:55,970
+ma fa tutti i test,
+
+800
+00:28:55,970 --> 00:28:56,930
+la puoi utilizzare tranquillamente,
+
+801
+00:28:56,930 --> 00:28:59,240
+e io proprio con questo software che utilizzo spesso,
+
+802
+00:28:59,240 --> 00:29:01,420
+una volta che ho montato i computer per fare,
+
+803
+00:29:01,420 --> 00:29:02,000
+appunto,
+
+804
+00:29:02,000 --> 00:29:04,000
+i test di ferro e fuoco,
+
+805
+00:29:04,000 --> 00:29:06,000
+iniziavo a vedere errori sul processore,
+
+806
+00:29:06,000 --> 00:29:08,599
+il processore non saliva di,
+
+807
+00:29:08,599 --> 00:29:09,990
+diciamo,
+
+808
+00:29:10,000 --> 00:29:12,000
+rimaneva piantato,
+
+809
+00:29:12,000 --> 00:29:12,809
+consumava,
+
+810
+00:29:12,809 --> 00:29:14,000
+aveva dei voltaggi,
+
+811
+00:29:14,000 --> 00:29:14,500
+dei vattaggi strani,
+
+812
+00:29:14,500 --> 00:29:15,240
+ho detto,
+
+813
+00:29:15,240 --> 00:29:15,990
+te so,
+
+814
+00:29:15,990 --> 00:29:18,000
+qua abbiamo fatto la frittata.
+
+815
+00:29:18,000 --> 00:29:22,000
+Tanto è vero che l'ho dovuto mandare indietro ad Amazon,
+
+816
+00:29:22,000 --> 00:29:24,000
+perché per fortuna avevano comprato tutto su Amazon,
+
+817
+00:29:24,000 --> 00:29:28,000
+ho dovuto mandarlo indietro e abbiamo preso il processore nuovo.
+
+818
+00:29:28,000 --> 00:29:29,990
+Preso il processore nuovo,
+
+819
+00:29:29,990 --> 00:29:30,529
+messo nuovo diciamo,
+
+820
+00:29:30,529 --> 00:29:32,000
+sistema di raffreddamento,
+
+821
+00:29:32,000 --> 00:29:34,000
+io ho dovuto bloccare il processore.
+
+822
+00:29:34,000 --> 00:29:35,200
+Cioè,
+
+823
+00:29:35,200 --> 00:29:36,000
+da BIOS,
+
+824
+00:29:36,000 --> 00:29:38,000
+io ho dovuto bloccare il processore che non...
+
+825
+00:29:38,000 --> 00:29:40,890
+Quello che viene chiamato PL1 e PL2,
+
+826
+00:29:40,890 --> 00:29:41,990
+che cos'è?
+
+827
+00:29:41,990 --> 00:29:46,000
+Sarebbero dei profili di vattaggio del processore.
+
+828
+00:29:46,000 --> 00:29:46,450
+Cioè,
+
+829
+00:29:46,450 --> 00:29:47,609
+il processore dice,
+
+830
+00:29:47,609 --> 00:29:48,000
+PL1,
+
+831
+00:29:48,000 --> 00:29:50,000
+quando faccio dei carichi normali,
+
+832
+00:29:50,000 --> 00:29:52,000
+posso consumare fino a totto vattaggio.
+
+833
+00:29:52,000 --> 00:29:54,000
+Quando vado in overclocking,
+
+834
+00:29:54,000 --> 00:29:54,680
+quindi vado a fare,
+
+835
+00:29:54,680 --> 00:29:55,240
+diciamo,
+
+836
+00:29:55,240 --> 00:29:56,000
+roba pesante,
+
+837
+00:29:56,000 --> 00:29:57,529
+si innesca il PL2,
+
+838
+00:29:57,529 --> 00:29:59,990
+posso arrivare fino a totto vattaggio.
+
+839
+00:29:59,990 --> 00:30:01,200
+Il vattaggio massimo,
+
+840
+00:30:01,200 --> 00:30:01,990
+appunto,
+
+841
+00:30:01,990 --> 00:30:04,000
+dell'Intel è 350 Watt.
+
+842
+00:30:04,000 --> 00:30:07,009
+Io ho messo che il PL massimo è il minimo,
+
+843
+00:30:07,009 --> 00:30:10,000
+cioè significa che l'ho tagliato a 150 Watt.
+
+844
+00:30:10,000 --> 00:30:12,000
+Oltre 150 Watt non può consumare,
+
+845
+00:30:12,000 --> 00:30:16,000
+il tizio ha smesso di avere problemi.
+
+846
+00:30:16,000 --> 00:30:20,000
+560 fps sul videogioco,
+
+847
+00:30:20,000 --> 00:30:22,000
+Windows non si imballa più,
+
+848
+00:30:22,000 --> 00:30:24,000
+il sistema operativo è stabile,
+
+849
+00:30:24,000 --> 00:30:25,049
+il computer non si riavvia,
+
+850
+00:30:25,049 --> 00:30:26,000
+proprio perché,
+
+851
+00:30:26,000 --> 00:30:28,000
+e io paradossalmente avevo detto,
+
+852
+00:30:28,000 --> 00:30:31,269
+e io infatti lui mi venera come se fossi un mago,
+
+853
+00:30:31,269 --> 00:30:35,990
+perché c'estisse un audio su WhatsApp che io gli mandai appena ci conoscemmo,
+
+854
+00:30:35,990 --> 00:30:37,569
+e mandai anche nel gruppo di Roberto,
+
+855
+00:30:37,569 --> 00:30:38,000
+dissi,
+
+856
+00:30:38,000 --> 00:30:42,000
+ma sicuro che sta serie 14.000 non è buggata da qualche parte?
+
+857
+00:30:42,000 --> 00:30:43,220
+Perché secondo me,
+
+858
+00:30:43,220 --> 00:30:44,000
+io con questi casi,
+
+859
+00:30:44,000 --> 00:30:46,000
+che sto avendo tutti questi problemi,
+
+860
+00:30:46,000 --> 00:30:48,000
+secondo me c'hanno un problema di vattaggio,
+
+861
+00:30:48,000 --> 00:30:52,000
+e infatti sei mesi dopo uscì il comunicato di Intel,
+
+862
+00:30:52,000 --> 00:30:54,000
+che loro avevano problemi con questi processori,
+
+863
+00:30:54,000 --> 00:30:56,000
+e proprio per questo motivo,
+
+864
+00:30:56,000 --> 00:30:58,000
+o avevano fatto i richiami,
+
+865
+00:30:58,000 --> 00:31:00,000
+o dovevano,
+
+866
+00:31:00,000 --> 00:31:02,000
+c'erano degli aggiornamenti BIOS da fare,
+
+867
+00:31:02,000 --> 00:31:04,589
+che non facevano nient'altro che fare quello che avevo fatto a mano,
+
+868
+00:31:04,589 --> 00:31:09,990
+cioè ti tagliavano le frequenze per cercare di non far fondere il processore.
+
+869
+00:31:10,000 --> 00:31:11,000
+questa è un po' la storia.
+
+870
+00:31:11,000 --> 00:31:12,000
+Proprio per questo motivo,
+
+871
+00:31:12,000 --> 00:31:14,000
+quando,
+
+872
+00:31:14,000 --> 00:31:16,000
+vai a fare una workstation,
+
+873
+00:31:16,000 --> 00:31:16,529
+che sia per la grafica,
+
+874
+00:31:16,529 --> 00:31:17,049
+per il CAD,
+
+875
+00:31:17,049 --> 00:31:18,000
+oppure per il gaming,
+
+876
+00:31:18,000 --> 00:31:19,200
+innanzitutto,
+
+877
+00:31:19,200 --> 00:31:19,990
+secondo me,
+
+878
+00:31:19,990 --> 00:31:22,000
+devi avere non una conoscenza approfondita,
+
+879
+00:31:22,000 --> 00:31:24,000
+però essere sempre sul pezzo,
+
+880
+00:31:24,000 --> 00:31:28,000
+perché purtroppo le aziende tecnologiche si aggiornano in continuazione,
+
+881
+00:31:28,000 --> 00:31:34,000
+AMD e Intel giustamente lasciano processori ogni anno.
+
+882
+00:31:34,000 --> 00:31:37,990
+Spesso controproducente questa cosa,
+
+883
+00:31:37,990 --> 00:31:39,240
+ma giustamente,
+
+884
+00:31:39,240 --> 00:31:41,289
+a seconda di quello che devi fare,
+
+885
+00:31:41,289 --> 00:31:44,000
+non dico che ci sia il componente magico per tutto,
+
+886
+00:31:44,000 --> 00:31:46,849
+ma già fare questa grossa distinzione,
+
+887
+00:31:46,849 --> 00:31:48,000
+ovvero che al giorno d'oggi,
+
+888
+00:31:48,000 --> 00:31:48,980
+almeno che Intel,
+
+889
+00:31:48,980 --> 00:31:50,000
+nelle prossime versioni,
+
+890
+00:31:50,000 --> 00:31:53,990
+non esce di nuovo totalmente fuori di melone,
+
+891
+00:31:53,990 --> 00:31:55,529
+al momento per quanto riguarda i processori,
+
+892
+00:31:55,529 --> 00:31:56,000
+che siano per CAD,
+
+893
+00:31:56,000 --> 00:31:57,240
+che siano per gaming,
+
+894
+00:31:57,240 --> 00:31:58,000
+che siano per produttività,
+
+895
+00:31:58,000 --> 00:31:59,549
+Intel,
+
+896
+00:31:59,549 --> 00:32:02,000
+io la boccerei su tutta la linea,
+
+897
+00:32:02,000 --> 00:32:03,200
+completamente,
+
+898
+00:32:03,200 --> 00:32:07,200
+perché sono processori da acquistarne in lontani anni luce,
+
+899
+00:32:07,200 --> 00:32:08,000
+che hanno problemi,
+
+900
+00:32:08,000 --> 00:32:16,000
+a meno che non ti devi comprare il mini PC per
+far andare su internet la nonna con l'N150,
+
+901
+00:32:16,000 --> 00:32:18,000
+che sarebbe proprio il Dua Core base di gamma,
+
+902
+00:32:18,000 --> 00:32:19,279
+minimo del minimo,
+
+903
+00:32:19,279 --> 00:32:24,000
+che quello consuma 30 watt alla presa e non può prendere fuoco,
+
+904
+00:32:24,000 --> 00:32:25,990
+allora quello mi trovi d'accordo.
+
+905
+00:32:25,990 --> 00:32:26,680
+Ma per tutto il resto,
+
+906
+00:32:26,680 --> 00:32:28,000
+per quanto riguarda,
+
+907
+00:32:28,000 --> 00:32:32,000
+il lavoro oppure il gaming,
+
+908
+00:32:32,000 --> 00:32:32,980
+purtroppo AMD,
+
+909
+00:32:32,980 --> 00:32:34,000
+in questo momento,
+
+910
+00:32:34,000 --> 00:32:36,000
+ha la migliore offerta sul mercato.
+
+911
+00:32:36,000 --> 00:32:38,990
+Perché mi trovi d'accordo,
+
+912
+00:32:38,990 --> 00:32:40,000
+perché anch'io sono un fan,
+
+913
+00:32:40,000 --> 00:32:42,000
+tra virgolette,
+
+914
+00:32:42,000 --> 00:32:47,990
+anche se essere fan di un hardware lascia il tempo che trovano,
+
+915
+00:32:47,990 --> 00:32:50,000
+perché purtroppo essere fan di un brand è pericoloso.
+
+916
+00:32:50,000 --> 00:32:52,000
+Esatto.
+
+917
+00:32:52,000 --> 00:32:54,000
+Però io,
+
+918
+00:32:54,000 --> 00:32:56,000
+anch'io ho utilizzato,
+
+919
+00:32:56,000 --> 00:33:02,000
+adesso sto utilizzando un Lenovo in ufficio con un i9,
+
+920
+00:33:02,000 --> 00:33:06,000
+però come prestazioni,
+
+921
+00:33:06,000 --> 00:33:08,000
+soprattutto per quanto riguarda il CAD,
+
+922
+00:33:08,000 --> 00:33:12,000
+come ben sanno i miei colleghi che ci stanno ascoltando,
+
+923
+00:33:12,000 --> 00:33:14,000
+AMD,
+
+924
+00:33:14,000 --> 00:33:18,000
+e soprattutto abbinata anche alla sua scheda,
+
+925
+00:33:18,000 --> 00:33:24,000
+quindi con una Radeon della stessa marca,
+
+926
+00:33:24,000 --> 00:33:27,950
+io ho ottenuto performance su CAD,
+
+927
+00:33:28,000 --> 00:33:38,000
+che è tra i software legacy più rognosi per
+quanto riguarda l'adattabilità all'hardware.
+
+928
+00:33:38,000 --> 00:33:41,990
+Autodesk se magna tutto,
+
+929
+00:33:42,000 --> 00:33:46,000
+perché è molto più,
+
+930
+00:33:46,000 --> 00:33:48,000
+è meno gnè-gnè con l'hardware,
+
+931
+00:33:48,000 --> 00:33:54,000
+quindi qualsiasi combinazione di hardware
+tendenzialmente fa avere buone prestazioni.
+
+932
+00:33:54,000 --> 00:34:02,000
+Quindi ci sarà un rapporto ideale tra budget e prestazioni,
+
+933
+00:34:02,000 --> 00:34:06,000
+o poi dipende sempre da che lavoro fai.
+
+934
+00:34:06,000 --> 00:34:06,529
+Il problema lo sai qual è?
+
+935
+00:34:06,529 --> 00:34:09,989
+Questa è la classica domanda da un miliardo di euro,
+
+936
+00:34:09,989 --> 00:34:12,000
+perché il problema,
+
+937
+00:34:12,000 --> 00:34:14,000
+come tu hai potuto notare,
+
+938
+00:34:14,000 --> 00:34:18,000
+AMD quando fai l'accoppiata a processore e scheda grafica,
+
+939
+00:34:18,000 --> 00:34:20,760
+a parte il problema che tu ben sai di CUDA,
+
+940
+00:34:20,760 --> 00:34:25,989
+che per fortuna io spero venga abbattuto prima o poi,
+
+941
+00:34:25,989 --> 00:34:27,789
+che è un monopolio di NVIDIA,
+
+942
+00:34:27,789 --> 00:34:32,000
+io odio NVIDIA perché ne sta facendo una peggio del demonio negli ultimi anni,
+
+943
+00:34:32,000 --> 00:34:33,219
+tanto è vero,
+
+944
+00:34:33,219 --> 00:34:34,000
+problemi ai driver,
+
+945
+00:34:34,000 --> 00:34:37,199
+la serie 5000 è catastrofica,
+
+946
+00:34:37,199 --> 00:34:39,199
+veramente una serie catastrofica,
+
+947
+00:34:39,199 --> 00:34:41,989
+connettori che si fondono,
+
+948
+00:34:41,989 --> 00:34:44,000
+problemi alle memorie RAM,
+
+949
+00:34:44,000 --> 00:34:48,000
+driver scritti con l'intelligenza artificiale che stanno avendo problemi,
+
+950
+00:34:48,000 --> 00:34:50,000
+cali di performance,
+
+951
+00:34:50,000 --> 00:34:54,000
+soprattutto nel gaming per quanto riguarda la stabilità dei driver,
+
+952
+00:34:54,000 --> 00:34:55,989
+sono in caduta libera,
+
+953
+00:34:55,989 --> 00:34:58,000
+quindi anche frame rate nei videogiochi,
+
+954
+00:34:58,000 --> 00:35:03,989
+parlo sempre di quello perché purtroppo è
+l'ambito su cui vado in maniera specifica,
+
+955
+00:35:03,989 --> 00:35:08,000
+però alla fine è posponibile secondo il ragionamento di prima,
+
+956
+00:35:08,000 --> 00:35:09,199
+il pattern è sempre quello,
+
+957
+00:35:09,199 --> 00:35:17,329
+perché è brutto da dire ma purtroppo i videogiochi con la
+modellazione 3D e software CAD non dico che sono la stessa cosa,
+
+958
+00:35:17,329 --> 00:35:20,000
+ma vanno a lavorare su delle basi dati simili,
+
+959
+00:35:20,000 --> 00:35:23,989
+perché comunque è un...
+
+960
+00:35:23,989 --> 00:35:27,010
+soprattutto per quanto riguarda la parte architettico diciamo,
+
+961
+00:35:27,010 --> 00:35:30,000
+richiamiamo il nostro amico Roberto,
+
+962
+00:35:30,000 --> 00:35:32,000
+loro lavorano con Unreal,
+
+963
+00:35:32,000 --> 00:35:34,000
+cioè arriva da un certo punto,
+
+964
+00:35:34,000 --> 00:35:36,000
+quindi è un motore da videogioco,
+
+965
+00:35:36,000 --> 00:35:44,650
+quindi non dico che sono cose sovrapponibili ma vanno a interessare
+le stesse cose e ti volevo dare una chicca del per quale motivo AMD,
+
+966
+00:35:44,650 --> 00:35:48,000
+accoppiata a scheda grafica proprio giusto che funziona meglio,
+
+967
+00:35:48,000 --> 00:35:50,000
+perché c'è una tecnologia tra virgolette proprietaria,
+
+968
+00:35:50,000 --> 00:35:52,000
+ma alla fine è open source loro,
+
+969
+00:35:52,000 --> 00:35:53,559
+che sostanzialmente,
+
+970
+00:35:53,559 --> 00:35:56,000
+visto che i software CAD come quelli di modellazione 3D,
+
+971
+00:35:56,000 --> 00:35:58,989
+eccetera lavorano molto sulla memoria,
+
+972
+00:35:58,989 --> 00:36:04,000
+quindi hanno bisogno di scambio continuo di
+informazioni il più velocemente possibile,
+
+973
+00:36:04,000 --> 00:36:06,000
+e su questo AMD tiene la famosa 3D B-cache,
+
+974
+00:36:06,000 --> 00:36:10,000
+che non è nient'altro che una memoria
+empilata su un processore molto molto veloce,
+
+975
+00:36:10,000 --> 00:36:11,989
+loro che cosa fanno?
+
+976
+00:36:12,000 --> 00:36:17,179
+se utilizzi l'accoppiata con appunto schede madri,
+
+977
+00:36:17,179 --> 00:36:18,000
+quindi,
+
+978
+00:36:18,000 --> 00:36:18,650
+che supportano AMD,
+
+979
+00:36:18,650 --> 00:36:19,989
+eccetera,
+
+980
+00:36:19,989 --> 00:36:24,000
+c'ha il fatto che se tu utilizzi questa accoppiata,
+
+981
+00:36:24,000 --> 00:36:28,000
+c'hai il come posso dirti,
+
+982
+00:36:28,000 --> 00:36:35,329
+il il fatto di quello che viene chiamato in gergo
+tecnico resizable bar aspetta che c'ho il cane ok,
+
+983
+00:36:35,329 --> 00:36:39,736
+c'ho la resizable bar che non è nient'altro che sostanzialmente
+
+984
+00:36:39,736 --> 00:36:43,799
+un un metodo per cui quando il processore fa dei calcoli e
+
+985
+00:36:43,799 --> 00:36:48,000
+lavora e gli devi passare alla scheda grafica di base devono,
+
+986
+00:36:48,000 --> 00:36:49,000
+deve fare tutto un giro,
+
+987
+00:36:49,000 --> 00:36:52,000
+cioè deve uscire dal processore deve passare,
+
+988
+00:36:52,000 --> 00:36:54,500
+per il bus e deve rientrare per il bus della scheda grafica,
+
+989
+00:36:54,500 --> 00:36:56,000
+passando per la memoria RAM,
+
+990
+00:36:56,000 --> 00:37:01,017
+deve fare il giro dei sette regni mentre quando tu c'hai attiva sia la resizable
+
+991
+00:37:01,017 --> 00:37:05,973
+bar ma proprio sei su AMD su AMD loro hanno il fatto che i dati automaticamente
+
+992
+00:37:05,973 --> 00:37:10,000
+dal processore passano direttamente nel bus della scheda grafica,
+
+993
+00:37:10,000 --> 00:37:16,000
+quindi tu è come se salti dei passaggi perché hanno delle ottimizzazioni loro,
+
+994
+00:37:16,000 --> 00:37:20,000
+spiegartele potrei portarmi via delle ore e non servirebbero a nulla,
+
+995
+00:37:20,000 --> 00:37:26,000
+però è brutto da dire perché io odio quando una
+persona ti dice che è così ma potete cercare,
+
+996
+00:37:26,000 --> 00:37:28,000
+si può cercare anche su internet,
+
+997
+00:37:28,000 --> 00:37:34,000
+è così per cui i dati passano direttamente dalla cache
+del processore direttamente dentro la scheda grafica,
+
+998
+00:37:34,000 --> 00:37:38,724
+quindi tu hai una latenza molto molto minore e automaticamente
+
+999
+00:37:38,724 --> 00:37:42,324
+è come se guadagnassi performance a gratis cosa
+
+1000
+00:37:42,324 --> 00:37:46,000
+che Intel aveva iniziato a fare tipo 5-6 anni fa,
+
+1001
+00:37:46,000 --> 00:37:46,809
+poi come fa le cose Intel,
+
+1002
+00:37:46,809 --> 00:37:50,000
+arriva a un certo punto e se dimentica cioè se bloccano,
+
+1003
+00:37:50,000 --> 00:37:56,000
+si dimenticano arrivederci e grazie avevamo
+sperato tanto con le ARC ma credo che...
+
+1004
+00:37:56,000 --> 00:37:58,000
+ma le ARC paradossalmente sono ottime,
+
+1005
+00:37:58,000 --> 00:37:58,349
+pure con le ARC io,
+
+1006
+00:37:58,349 --> 00:38:01,260
+molti le demonizzano io non le demonizzo,
+
+1007
+00:38:01,260 --> 00:38:03,369
+però le ARC sono per non per il vostro lavoro,
+
+1008
+00:38:03,369 --> 00:38:06,000
+purtroppo mi dispiace,
+
+1009
+00:38:06,000 --> 00:38:12,469
+perché hanno dei driver che non sono stabili perché giustamente
+adesso sono entrati nell'ambito schede grafica AMD Nvidia,
+
+1010
+00:38:12,469 --> 00:38:15,199
+sono ormai 30 anni che stanno nel mercato,
+
+1011
+00:38:15,199 --> 00:38:18,000
+quindi una cosa è fare 30 anni di driver,
+
+1012
+00:38:18,000 --> 00:38:24,000
+cioè proprio a livello di uomo-macchina cioè per
+quando tu vuoi avere gli ingegneri migliori del mondo,
+
+1013
+00:38:24,000 --> 00:38:27,190
+30 anni di software non possono essere colmati in mesi,
+
+1014
+00:38:27,190 --> 00:38:28,500
+servono per forza anni,
+
+1015
+00:38:28,500 --> 00:38:31,469
+per quanto tu abbia i migliori ingegneri del software,
+
+1016
+00:38:31,469 --> 00:38:37,239
+ma le ARC purtroppo hanno tutta una serie di problemi
+un po' simili a quelli di AMD per il vostro lavoro,
+
+1017
+00:38:37,239 --> 00:38:43,000
+nel senso che non sono supportate perché loro vogliono supportare solo CUDA,
+
+1018
+00:38:43,000 --> 00:38:44,989
+oppure hanno i problemi oppure no,
+
+1019
+00:38:44,989 --> 00:38:46,820
+questa cosa non la supportiamo eccetera,
+
+1020
+00:38:46,820 --> 00:38:48,789
+e proprio questo diciamo gli causa problemi,
+
+1021
+00:38:48,789 --> 00:38:50,989
+ma le ARC sono paradossalmente ottime,
+
+1022
+00:38:50,989 --> 00:38:56,000
+non tanto per il gaming ma per l'encoding e il decoding dei file,
+
+1023
+00:38:56,000 --> 00:38:57,309
+cioè se per esempio tu fai montaggio video,
+
+1024
+00:38:57,309 --> 00:39:06,000
+queste cose qua le ARC hanno degli encoder e dei
+decoder in AV1 e H264 e H265 che sono ottimi,
+
+1025
+00:39:06,000 --> 00:39:07,489
+infatti chi per esempio che ti devo dire,
+
+1026
+00:39:07,489 --> 00:39:10,000
+monta lavora bene,
+
+1027
+00:39:10,000 --> 00:39:13,199
+cioè la ARC paradossalmente è poca spesa,
+
+1028
+00:39:13,199 --> 00:39:16,000
+tanta resa il famoso detto poca spesa,
+
+1029
+00:39:16,000 --> 00:39:22,000
+tanta resa tant'è vero che molti e questa cosa
+l'ho visto nell'altro ambito che è basico,
+
+1030
+00:39:22,000 --> 00:39:23,409
+ovvero quello dei server dati,
+
+1031
+00:39:23,409 --> 00:39:28,000
+eccetera che molti utilizzano le schede ARC nei server che hanno loro,
+
+1032
+00:39:28,000 --> 00:39:34,429
+perché quando tu usi Plex con i film per fare il transcoding
+in tempo reale le ARC lavorano molto molto bene,
+
+1033
+00:39:34,429 --> 00:39:42,000
+non consumano un cacchio sono supportate molto bene da Linux ma pensa,
+
+1034
+00:39:42,000 --> 00:39:44,000
+ma pensa è questo il fatto,
+
+1035
+00:39:44,000 --> 00:39:44,659
+come dicono purtroppo,
+
+1036
+00:39:44,659 --> 00:39:46,809
+non so se conosci il canale dei Prodigic,
+
+1037
+00:39:46,809 --> 00:39:50,000
+che loro sono fissati sull'hardware su YouTube,
+
+1038
+00:39:50,000 --> 00:39:54,000
+non mi sono simpatici però lo bazzi così sì,
+
+1039
+00:39:54,000 --> 00:39:56,000
+purtroppo come dicono loro,
+
+1040
+00:39:56,000 --> 00:39:56,619
+non c'è hardware di cacca,
+
+1041
+00:39:56,619 --> 00:40:06,000
+ci sono prezzi di cacca loro lo utilizzano la parola più
+terra terra però io tendenzialmente lo vedo come loro,
+
+1042
+00:40:06,000 --> 00:40:10,000
+e per questo spero di aver risposto alla tua domanda,
+
+1043
+00:40:10,000 --> 00:40:10,989
+ma in generale per il tuo lavoro,
+
+1044
+00:40:10,989 --> 00:40:14,000
+oppure per il resto non esiste hardware,
+
+1045
+00:40:14,000 --> 00:40:21,190
+diciamo come posso dire che non abbia un
+senso ma il problema è il rapporto prezzo,
+
+1046
+00:40:21,190 --> 00:40:23,190
+prestazioni finalità,
+
+1047
+00:40:23,190 --> 00:40:26,000
+perché a seconda di quello che devi fare,
+
+1048
+00:40:26,000 --> 00:40:36,000
+ci sta ci sta una soluzione però il problema è che giustamente
+devi avere la persona che abbia questa mentalità aperta,
+
+1049
+00:40:36,000 --> 00:40:38,000
+con un ventaglio di opzioni,
+
+1050
+00:40:38,000 --> 00:40:41,199
+diciamo di conoscenze abbastanza ampio per poterti indirizzare,
+
+1051
+00:40:41,199 --> 00:40:46,000
+altrimenti sennò fai la frittata sì sì,
+
+1052
+00:40:46,000 --> 00:40:54,000
+no perché è una condizione che per chi
+magari purtroppo non si rende conto allora,
+
+1053
+00:40:54,000 --> 00:40:54,980
+noi disegnatori,
+
+1054
+00:40:54,980 --> 00:41:02,983
+la maggior parte non è così nerd io mi reputo un nerd quindi uno che abbastanza
+
+1055
+00:41:02,983 --> 00:41:10,186
+conosce la macchina su cui lavora diciamo che più dell'80% l'80% di noi
+
+1056
+00:41:10,186 --> 00:41:16,989
+tecnici ti danno la macchina l'importante è che funzioni si accenda,
+
+1057
+00:41:16,989 --> 00:41:23,772
+faccia partire il programma e poi come sia configurata come sia ottimizzata
+
+1058
+00:41:23,772 --> 00:41:29,931
+non gliene frega niente perché la maggior parte delle volte funziona
+
+1059
+00:41:29,931 --> 00:41:36,000
+c'è l'IT c'è il tecnico IT che arriva dai bassi fondi dalle cantine,
+
+1060
+00:41:36,000 --> 00:41:40,918
+viene su e praticamente ti mette a posto il computer un discorso
+
+1061
+00:41:40,918 --> 00:41:45,308
+diverso invece visto che ho fatto anche il freelance come
+
+1062
+00:41:45,308 --> 00:41:49,999
+disegnatore CAD è il fatto di poter conoscere la tua macchina,
+
+1063
+00:41:50,000 --> 00:41:56,000
+perché la devi acquistare tu cioè non c'è nessuno
+che ti dia non c'è arrivato IT però diciamo,
+
+1064
+00:41:56,000 --> 00:42:02,581
+non lo so scusa se finisco un'ultima domanda sulla parte hardware perché poi
+
+1065
+00:42:02,581 --> 00:42:09,504
+alla fine ho sempre discusso con chi quando andavo a fare l'acquisto di macchine
+
+1066
+00:42:09,504 --> 00:42:16,427
+per me o anche per altri clienti o per altri colleghi che mi chiedevano consigli
+
+1067
+00:42:16,427 --> 00:42:21,555
+sapendo un po' la mia passione per montare e per l'hardware
+
+1068
+00:42:21,555 --> 00:42:26,000
+perché poi c'erano sempre discussioni con i tecnici,
+
+1069
+00:42:26,000 --> 00:42:36,000
+dove devi comprare anche per la RAM ne abbiamo
+anche discusso forse in chat perché io,
+
+1070
+00:42:36,000 --> 00:42:43,529
+diciamo che sono nato montando il computer per CAD con i famosi
+
+1071
+00:42:43,529 --> 00:42:50,235
+Intel Xeon e le memorie RAM e CC quindi con il controllo
+
+1072
+00:42:50,235 --> 00:42:56,000
+C'è uno Xeon con le RAM e CC sul mio server dati,
+
+1073
+00:42:56,000 --> 00:43:03,838
+sono alla mia destra perché se tu vai in qualsiasi software diciamo third
+
+1074
+00:43:03,838 --> 00:43:12,099
+system che vendono i software CAD e loro poi tendenzialmente ti vendono anche
+
+1075
+00:43:12,099 --> 00:43:20,043
+l'hardware e tutte le volte ti vendono sempre macchine high end quindi con
+
+1076
+00:43:20,043 --> 00:43:25,233
+Intel Xeon con le memorie CC con costi veramente
+
+1077
+00:43:25,233 --> 00:43:29,999
+improponibili anche se tu gli dici con un i9,
+
+1078
+00:43:30,000 --> 00:43:32,000
+con un AMD serie 7,
+
+1079
+00:43:32,000 --> 00:43:39,712
+non un 3dripper che non mi serve perché non sto facendo praticamente lo space
+
+1080
+00:43:39,712 --> 00:43:47,325
+shuttle quindi non lo sto disegnando da zero perciò intanto non mi interessa
+
+1081
+00:43:47,325 --> 00:43:55,334
+invece c'è questa cosa qua anche se devo dire devo dare ragione sul fatto che ho
+
+1082
+00:43:55,334 --> 00:44:03,244
+utilizzato sia macchine Xeon purtroppo non ho avuto la fortuna di utilizzare un
+
+1083
+00:44:03,244 --> 00:44:09,671
+AMD 3dripper che dicono sia prepotente e devastante non ha senso
+
+1084
+00:44:09,671 --> 00:44:15,999
+però devo dire la verità che i computer con in abbinamento Xeon,
+
+1085
+00:44:16,000 --> 00:44:28,000
+memoria e CC li ho trovati più stabili poi non so se era
+fortuna mia o una buona ottimizzazione del tecnico E.T.
+
+1086
+00:44:28,000 --> 00:44:32,789
+di turno quindi devo dire la verità e questo è tutto allora,
+
+1087
+00:44:32,789 --> 00:44:36,000
+la situazione è questa perché c'è da fare,
+
+1088
+00:44:36,000 --> 00:44:43,329
+purtroppo è vero che sembro sempre quello cacacazzo
+scusa la parolaccia però la situazione è questa allora,
+
+1089
+00:44:43,329 --> 00:44:48,021
+loro ti vendono Enterprise perché sanno che quando tu monti un
+
+1090
+00:44:48,021 --> 00:44:52,787
+processore Xeon con la memoria CC quindi che hanno il controllo
+
+1091
+00:44:52,787 --> 00:44:58,000
+ciclico dell'errore non hai molti meno problemi di corruzione di dati,
+
+1092
+00:44:58,000 --> 00:45:00,420
+il problema però è questo ora,
+
+1093
+00:45:00,420 --> 00:45:07,046
+io mi prendo le responsabilità di quello che sto per dire ma sinceramente tu
+
+1094
+00:45:07,046 --> 00:45:13,672
+fai elaborazione software nel senso che se ci sta che ti devo dire un errore
+
+1095
+00:45:13,672 --> 00:45:19,008
+di qualche bit all'interno della memoria RAM esplode il mondo
+
+1096
+00:45:19,008 --> 00:45:24,000
+non credo anche perché se si sono errori di questo motivo,
+
+1097
+00:45:24,000 --> 00:45:32,000
+al massimo il rendering o l'elaborazione
+ti fallisce forse sarò io che sarò strano,
+
+1098
+00:45:32,000 --> 00:45:32,789
+ma per esempio,
+
+1099
+00:45:32,789 --> 00:45:36,000
+io sul mio server dati come ti ho detto due secondi fa,
+
+1100
+00:45:36,000 --> 00:45:41,190
+ho un Intel Xeon e ho la memoria CC ma
+perché io ci faccio storage di dati sicuro,
+
+1101
+00:45:41,190 --> 00:45:45,951
+cioè quindi l'idea mia è che quando vado a trasportare dei dati su
+
+1102
+00:45:45,951 --> 00:45:50,570
+quel server sono come se fossero il mio cavo quindi devono avere
+
+1103
+00:45:50,570 --> 00:45:55,190
+un grado di affidabilità massimo perché l'Xeon con la memoria CC,
+
+1104
+00:45:55,190 --> 00:45:59,527
+con gli hard disk con file system ZFS che è particolare proprio
+
+1105
+00:45:59,527 --> 00:46:03,865
+per lo storage dei dati perché c'è tutta una serie di controlli
+
+1106
+00:46:03,865 --> 00:46:08,000
+inclusi per avere quello che si chiama immutabilità del dato,
+
+1107
+00:46:08,000 --> 00:46:16,000
+cioè una volta che hai scritto un dato a meno
+che non combini scritto e narrato bravissimo,
+
+1108
+00:46:16,000 --> 00:46:16,650
+lui ti dice guarda,
+
+1109
+00:46:16,650 --> 00:46:18,889
+si sta corrompendo questo disco,
+
+1110
+00:46:18,889 --> 00:46:20,000
+sostituiscelo,
+
+1111
+00:46:20,000 --> 00:46:23,219
+cioè se fai quello che ti dice hai la,
+
+1112
+00:46:23,219 --> 00:46:24,989
+non dico la certezza matematica,
+
+1113
+00:46:24,989 --> 00:46:30,000
+ma hai il fatto che il dato rimane quello e viene utilizzato,
+
+1114
+00:46:30,000 --> 00:46:32,000
+tra te vero che io utilizzo tu lo saprai,
+
+1115
+00:46:32,000 --> 00:46:34,000
+io utilizzo come sistema operativo per NAS,
+
+1116
+00:46:34,000 --> 00:46:35,010
+FreeNAS ex FreeNAS,
+
+1117
+00:46:35,010 --> 00:46:46,000
+ora si chiama TrueNAS Core e TrueNAS Scale perché hanno
+fatto il rebranding considera che FreeNAS al periodo,
+
+1118
+00:46:46,000 --> 00:46:52,000
+lo utilizzano personcine come Warner Bros Media la NASA,
+
+1119
+00:46:52,000 --> 00:46:54,989
+cioè tutte realtà che hanno bisogno anche Disney,
+
+1120
+00:46:54,989 --> 00:46:58,500
+la richiamiamo sempre tutti gli studi di produzione Marvel,
+
+1121
+00:46:58,500 --> 00:47:05,199
+cioè se vedi sul loro sito ci stanno proprio tutti i
+loghi di tutta Hollywood proprio perché bravissimo,
+
+1122
+00:47:05,199 --> 00:47:10,000
+proprio perché loro giustamente quando tu
+hai a che fare soprattutto con la NASA,
+
+1123
+00:47:10,000 --> 00:47:12,650
+con questi hanno bisogno di certezza dei dati,
+
+1124
+00:47:12,650 --> 00:47:16,000
+che non si corrompono perché metti tu che si corrompono,
+
+1125
+00:47:16,000 --> 00:47:20,610
+che ti devo dire le riprese del prossimo
+Avengers costate 200 milioni di dollari,
+
+1126
+00:47:20,610 --> 00:47:24,000
+non se lo possono permettere meglio spendere,
+
+1127
+00:47:24,000 --> 00:47:26,000
+che ti devo dire 50 mila dollari,
+
+1128
+00:47:26,000 --> 00:47:31,305
+100 mila dollari nel server più diciamo fatto a mestiere con il
+
+1129
+00:47:31,305 --> 00:47:36,528
+software fatto a mestiere per cui ti ripeto quello che noto in
+
+1130
+00:47:36,528 --> 00:47:42,000
+giro è che quando soprattutto nel vostro ambiente perché è brutto,
+
+1131
+00:47:42,000 --> 00:47:45,659
+ma io sarò passibile di denunce,
+
+1132
+00:47:45,659 --> 00:47:54,000
+di percorse perché sovrappongo un poco il vostro mestiere,
+
+1133
+00:47:54,000 --> 00:47:55,110
+quindi quello del CAD del softwareista,
+
+1134
+00:47:55,110 --> 00:47:59,566
+a quello di Roberto che l'architetto sono due cose completamente
+
+1135
+00:47:59,566 --> 00:48:03,749
+diverse però a mio modo di vedere sono sovrapponibili perché
+
+1136
+00:48:03,749 --> 00:48:08,000
+noto che ci sta nei vostri ambienti più o meno la stessa aura,
+
+1137
+00:48:08,000 --> 00:48:16,000
+cioè questo fatto che quando andate a lavorare quando dovete andare a
+scegliere il computer ci sono dei dictat che io non so da dove sono nati,
+
+1138
+00:48:16,000 --> 00:48:24,000
+perché un giorno qualcuno me lo dovrà spiegare per
+cui esistono questi dictat ovvero il processore Xeon,
+
+1139
+00:48:24,000 --> 00:48:32,469
+la workstation deve essere per forza l'HP Pro Alien di questa
+ceffa che costa 20 mila euro con le schede Nvidia Quadro cioè,
+
+1140
+00:48:32,469 --> 00:48:33,000
+capito,
+
+1141
+00:48:33,000 --> 00:48:35,199
+stiamo parlando di queste cose che appunto,
+
+1142
+00:48:35,199 --> 00:48:36,000
+come hai detto tu,
+
+1143
+00:48:36,000 --> 00:48:42,000
+hanno dei prezzi insormontabili hanno dei prezzi insormontabili per,
+
+1144
+00:48:42,000 --> 00:48:48,000
+a mio modo di vedere un fine che non so quale possa essere,
+
+1145
+00:48:48,000 --> 00:48:55,199
+perché appunto quando tu sei freelance tutte queste
+cose secondo me con un computer normale vai benissimo,
+
+1146
+00:48:55,199 --> 00:49:02,000
+proprio perché non hai bisogno di tutte queste
+cose e a mio modo di vedere come posso dirti,
+
+1147
+00:49:02,000 --> 00:49:08,000
+i professionisti soprattutto il reparto IT
+col fatto che dicono noi non vogliamo avere,
+
+1148
+00:49:08,000 --> 00:49:14,000
+tra virgolette non ci vogliamo applicare non
+vogliamo avere più lavoro non vogliamo avere,
+
+1149
+00:49:14,000 --> 00:49:17,309
+non vogliamo cambiare i nostri paradigmi come posso dirti,
+
+1150
+00:49:17,309 --> 00:49:22,000
+di lavoro vogliono rimanere ancorati a questa situazione,
+
+1151
+00:49:22,000 --> 00:49:26,000
+cioè nel senso noi siamo nati che 30 anni fa si faceva così e 30 anni fa così,
+
+1152
+00:49:26,000 --> 00:49:28,000
+cioè adesso così si deve fare,
+
+1153
+00:49:28,000 --> 00:49:33,280
+per quanto poi il discorso è completamente mutato
+cioè mi sembra di rivedere che ti devo dire,
+
+1154
+00:49:33,280 --> 00:49:40,814
+mio padre che in deposito al periodo usava AS400 grande mi trovi
+
+1155
+00:49:40,814 --> 00:49:48,233
+d'accordo ma la tecnologia avanza non possiamo continuare a far
+
+1156
+00:49:48,233 --> 00:49:56,000
+andare le aziende in Italia ad AS400 perché se tu poi vai a vedere,
+
+1157
+00:49:56,000 --> 00:50:00,000
+grandissima macchina stabilissima non voglio dire niente,
+
+1158
+00:50:00,000 --> 00:50:04,748
+ci puoi sparare dentro con la pistola e quello continua a funzionare però il
+
+1159
+00:50:04,748 --> 00:50:09,312
+problema è che arrivato a un certo punto ti devi fare il ragionamento del
+
+1160
+00:50:09,312 --> 00:50:14,000
+supporto tecnico quanto diavolo mi costa perché poi giustamente è come dire,
+
+1161
+00:50:14,000 --> 00:50:22,000
+cioè capito ci sono dei paradigmi a certi livelli che sono così
+ma perché 30 anni fa erano così e non so per quale motivo,
+
+1162
+00:50:22,000 --> 00:50:26,460
+non riescono a venire scardinati ti faccio un altro esempio l'utilizzo del
+
+1163
+00:50:26,460 --> 00:50:30,921
+linguaggio di programmazione COBOL dentro le banche che è un linguaggio di
+
+1164
+00:50:30,921 --> 00:50:34,728
+programmazione del nonno mio che però è ancora oggi attivamente
+
+1165
+00:50:34,728 --> 00:50:38,000
+utilizzato e i programmatori COBOL se ti faccio vedere,
+
+1166
+00:50:38,000 --> 00:50:40,000
+se tu vai a vedere su Linkedin,
+
+1167
+00:50:40,000 --> 00:50:47,043
+ma gli ascoltatori li invito a cercare i programmatori COBOL sono pagati a peso
+
+1168
+00:50:47,043 --> 00:50:53,998
+d'oro stiamo parlando anche di 100k l'anno a salire perché sono degli unicorni
+
+1169
+00:50:53,998 --> 00:50:58,664
+solo perché lavorano nel software bancario mi volete
+
+1170
+00:50:58,664 --> 00:51:02,890
+dire che negli ultimi 30 anni con tutto diciamo,
+
+1171
+00:51:02,889 --> 00:51:04,000
+tra open source,
+
+1172
+00:51:04,000 --> 00:51:08,000
+clouded source soldi che vengono girati nelle banche,
+
+1173
+00:51:08,000 --> 00:51:20,000
+mi volete dire che non c'è un modo di far funzionare meglio e
+cambiare il linguaggio di programmazione con il tempo cioè,
+
+1174
+00:51:20,000 --> 00:51:26,515
+il vostro ambiente è strano ma ti faccio vedere ti dico questa cosa qua
+
+1175
+00:51:26,515 --> 00:51:33,212
+finisci ti volevo fare proprio l'ultimo esempio a colorare della cosa che
+
+1176
+00:51:33,212 --> 00:51:40,000
+ora guardandoti mi sono ricordato sicuramente quando tu hai stai lavorando,
+
+1177
+00:51:40,000 --> 00:51:42,000
+tu hai le macchine come il CCD eccetera,
+
+1178
+00:51:42,000 --> 00:51:48,000
+quelle lì che fanno le stampe delle parti in alluminio eccetera,
+
+1179
+00:51:48,000 --> 00:51:50,000
+quindi proprio le fresature,
+
+1180
+00:51:50,000 --> 00:52:00,000
+che io sono sicuro che girano su Windows XP
+98 sì sì ma anche meno forse hai capito?
+
+1181
+00:52:00,000 --> 00:52:07,323
+sì sì ci sono sistemi che credo funzionino anche solamente sotto DOS ci sono
+
+1182
+00:52:07,323 --> 00:52:14,360
+alcune CNC che utilizzino ancora DOS perché molte volte arrivi e hai solo
+
+1183
+00:52:14,360 --> 00:52:21,779
+un'interfaccia ancora a riga di comando e devi inserire un file DXF che verrà
+
+1184
+00:52:21,779 --> 00:52:29,387
+letto e tu lo vedrai comparire non graficamente ma lo vedi comparire nel prompt
+
+1185
+00:52:29,387 --> 00:52:36,615
+come il G-Code con tutti i vari punti cartesiani in cui la macchina si deve
+
+1186
+00:52:36,615 --> 00:52:43,462
+muovere non viene fatto una cosa grafica e quindi già lì hai un sistema
+
+1187
+00:52:43,462 --> 00:52:50,976
+operativo molto basico è molto probabile che funzioni con Windows XP ma quello
+
+1188
+00:52:50,976 --> 00:52:58,013
+che dico io è che giustamente la pulce nell'orecchio che voglio mettere è
+
+1189
+00:52:58,013 --> 00:53:03,149
+ma sei sicuro che avere queste cose magari quello che
+
+1190
+00:53:03,149 --> 00:53:08,000
+ha scritto il software è morto perché può capitare,
+
+1191
+00:53:08,000 --> 00:53:14,320
+tutti ci ridono su ma noi siamo ormai siamo nel 2025 quasi 2030 volete mettere
+
+1192
+00:53:14,320 --> 00:53:20,559
+che del software che utilizziamo noi è stato scritto da gente che purtroppo è
+
+1193
+00:53:20,559 --> 00:53:24,480
+morta quindi il ragionamento è volete continuare
+
+1194
+00:53:24,480 --> 00:53:28,000
+a utilizzare questo sistema perché funziona?
+
+1195
+00:53:28,000 --> 00:53:33,171
+Perfetto anche nel diciamo nel nostro ramo programmazione ci sta il
+
+1196
+00:53:33,171 --> 00:53:38,190
+famoso detto se non è rotto non aggiustarlo però dico io vogliamo
+
+1197
+00:53:38,190 --> 00:53:43,437
+avere un'ottica di lungimiranza perché quando quella cosa si romperà
+
+1198
+00:53:43,437 --> 00:53:48,000
+arriverà a un punto che non si potrà più aggiustare che fai?
+
+1199
+00:53:48,000 --> 00:53:53,111
+Ti ritrovi dalla sera alla mattina che delle aziende chiuderanno perché io mi ci
+
+1200
+00:53:53,111 --> 00:53:58,097
+gioco quello che vuoi ci possiamo anche giocare le fisce a questo famoso poker
+
+1201
+00:53:58,097 --> 00:54:03,083
+virtual io mi ci gioco quello che vuoi che ci saranno delle aziende che quando
+
+1202
+00:54:03,083 --> 00:54:08,195
+quelle macchine lì si romperanno e non ci saranno persone che sapranno ripararle
+
+1203
+00:54:08,195 --> 00:54:13,181
+le aziende chiuderanno perché il costo di aggiornamento che dovranno sostenere
+
+1204
+00:54:13,181 --> 00:54:18,293
+per i 30 anni o 40 anni degli aggiornamenti che non hanno fatto sarà così enorme
+
+1205
+00:54:18,293 --> 00:54:23,342
+che l'azienda potrà chiudere battente andrà in banca rotta e vi conviene perché
+
+1206
+00:54:23,342 --> 00:54:28,454
+cosa per una mentalità perché questa è mentalità distorta e questo è il problema
+
+1207
+00:54:28,454 --> 00:54:33,439
+cioè è quello che io pure voglio spingere a ragionare e cerco di far ragionare
+
+1208
+00:54:33,439 --> 00:54:38,362
+chi diciamo pure mi viene a chiedere a livello di professionisti perché io mi
+
+1209
+00:54:38,362 --> 00:54:43,348
+sto scontrando sempre di più con questa cosa mo lascio stare che non per forza
+
+1210
+00:54:43,348 --> 00:54:48,460
+il nuovo è meglio certe volte è parecchio peggio e con Windows lo stiamo vedendo
+
+1211
+00:54:48,460 --> 00:54:53,446
+perché con Windows lo stiamo vedendo mi stai anticipando ti sto anticipando la
+
+1212
+00:54:53,446 --> 00:54:58,053
+domanda con Windows lo stiamo vedendo che il nuovo non è meglio quello è
+
+1213
+00:54:58,053 --> 00:55:02,723
+il problema però purtroppo in una maniera o nell'altra noi possiamo farlo
+
+1214
+00:55:02,723 --> 00:55:07,835
+funzionare il sistema basta avere persone che sanno quel che stanno facendo e ci
+
+1215
+00:55:07,835 --> 00:55:12,947
+possono mettere le mani e quello è il problema mentre se io ti faccio un esempio
+
+1216
+00:55:12,947 --> 00:55:18,059
+se io mi dovessi andare a interfacciare che ne so si rompe una macchina come hai
+
+1217
+00:55:18,059 --> 00:55:22,792
+detto tu una di quelle che ti servono per lo stampaggio e mi chiedono come
+
+1218
+00:55:22,792 --> 00:55:27,841
+cambiamo questi componenti e io che ne so neanche ero nato probabilmente quando
+
+1219
+00:55:27,841 --> 00:55:32,953
+sono uscite quella componentistica cioè voi vi rendete conto che paradossalmente
+
+1220
+00:55:32,953 --> 00:55:38,002
+anche il miglior tecnico del mondo potrebbe avere il problema del saper mettere
+
+1221
+00:55:38,002 --> 00:55:42,798
+le mani su un qualcosa di troppo vecchio e vetusto per cui chi usa di tutto
+
+1222
+00:55:42,798 --> 00:55:47,342
+questo mega pippone perché poi mi perdo nel fare questi pipponi qua e i
+
+1223
+00:55:47,342 --> 00:55:51,949
+miei audio sono famosi per questa cosa più che andare a scegliere capito?
+
+1224
+00:55:52,000 --> 00:55:53,000
+NVIDIA eccetera,
+
+1225
+00:55:53,000 --> 00:55:59,500
+più che altro io quello che voglio dire è utilizzare un'ottica cioè nel senso
+
+1226
+00:55:59,500 --> 00:56:05,666
+vedere un po' come funziona il meccanismo anche ai tuoi colleghi anche in
+
+1227
+00:56:05,666 --> 00:56:12,000
+maniera non approfondita ma cercare di capire su cosa stai mettendo le mani,
+
+1228
+00:56:12,000 --> 00:56:17,199
+quindi anche il fatto di quello che non
+sapevo e che mi hai detto adesso stasera,
+
+1229
+00:56:17,199 --> 00:56:18,000
+poco fa,
+
+1230
+00:56:18,000 --> 00:56:24,000
+che anche i tuoi colleghi non si preoccupano di dove mettono le mani,
+
+1231
+00:56:24,000 --> 00:56:29,500
+a mio modo di vedere è già un campanello d'allarme devi essere lo scienziato
+
+1232
+00:56:29,500 --> 00:56:35,285
+devi capire di qualsiasi cosa oppure devi essere un pazzo come me che sta 24 ore
+
+1233
+00:56:35,285 --> 00:56:40,928
+su 24 su della roba fin quando non l'ha capita però il fatto che tu ti espandi
+
+1234
+00:56:40,928 --> 00:56:46,142
+le tue sensazioni capisci o cerchi di capire più o meno come funziona la
+
+1235
+00:56:46,142 --> 00:56:49,142
+situazione e dove ti trovi ti può aiutare
+
+1236
+00:56:49,142 --> 00:56:52,000
+tante volte in situazioni problematiche,
+
+1237
+00:56:52,000 --> 00:56:54,000
+perché purtroppo siamo esseri umani,
+
+1238
+00:56:54,000 --> 00:56:57,325
+allora anticipando ancora un'altra domanda che ci sta nella
+
+1239
+00:56:57,325 --> 00:57:00,318
+scaletta quella relativa all'intelligenza artificiale
+
+1240
+00:57:00,318 --> 00:57:03,199
+allora il problema non è l'intelligenza artificiale,
+
+1241
+00:57:03,199 --> 00:57:06,000
+siete voi esseri umani che siete sostituibili,
+
+1242
+00:57:06,000 --> 00:57:07,199
+perché se tu sei io,
+
+1243
+00:57:07,199 --> 00:57:08,000
+robottino,
+
+1244
+00:57:08,000 --> 00:57:08,889
+accendo il computer,
+
+1245
+00:57:08,889 --> 00:57:10,000
+faccio quel lavoro,
+
+1246
+00:57:10,000 --> 00:57:10,719
+faccio quel lavoro,
+
+1247
+00:57:10,719 --> 00:57:11,739
+finisco il lavoro,
+
+1248
+00:57:11,739 --> 00:57:18,000
+vado a mangiare dormo e non mi preoccupo di tutto
+il mondo che c'è là fuori allora sei sostituibile,
+
+1249
+00:57:18,000 --> 00:57:19,190
+sei facilmente sostituibile,
+
+1250
+00:57:19,190 --> 00:57:23,380
+perché se tu invece sei una persona e ti espandi a livello
+
+1251
+00:57:23,380 --> 00:57:27,215
+di sensazioni capisci un po' quel sistema capisci che
+
+1252
+00:57:27,215 --> 00:57:31,049
+un computer per il tuo lavoro può essere utile questo,
+
+1253
+00:57:31,050 --> 00:57:32,000
+questo e questo,
+
+1254
+00:57:32,000 --> 00:57:33,190
+e martelli di te per dire ragazzi,
+
+1255
+00:57:33,190 --> 00:57:34,000
+secondo me,
+
+1256
+00:57:34,000 --> 00:57:36,000
+non su chat gpt,
+
+1257
+00:57:36,000 --> 00:57:46,000
+perché per favore anche questa cosa diciamo
+ti appassioni ma non è che ti appassioni,
+
+1258
+00:57:46,000 --> 00:57:50,000
+ti istruisci lo vedi un po' come un compito scolastico per le vacanze,
+
+1259
+00:57:50,000 --> 00:57:58,000
+come quelli che fanno che facevamo noi delle vacanze cerchi di capire nei
+ritagli di tempo cosa può essere meglio per te e migliorare il tuo lavoro,
+
+1260
+00:57:58,000 --> 00:58:01,871
+a mio modo di vedere già fai un balzo in avanti che il 99% dei
+
+1261
+00:58:01,871 --> 00:58:05,496
+tuoi colleghi non fanno quindi se loro verranno sostituiti
+
+1262
+00:58:05,496 --> 00:58:08,630
+tu automaticamente diventi più indispensabile ecco,
+
+1263
+00:58:08,630 --> 00:58:11,070
+passami questo termine,
+
+1264
+00:58:11,070 --> 00:58:14,000
+diventi più indispensabile più utile,
+
+1265
+00:58:14,000 --> 00:58:24,556
+più non è più intelligente ma fai funzionare di più il cervello guarda è una
+
+1266
+00:58:24,556 --> 00:58:34,701
+cosa che mi lascia sempre basito e quindi anche con il passare degli anni
+
+1267
+00:58:34,701 --> 00:58:42,104
+ormai a 55 anni pensavo che le generazioni successive
+
+1268
+00:58:42,104 --> 00:58:48,000
+fossero più come te più volte alla ricerca,
+
+1269
+00:58:48,000 --> 00:58:52,000
+alla conoscenza proprio del mezzo anche del software,
+
+1270
+00:58:52,000 --> 00:59:00,005
+eccetera al contrario invece ho notato proprio una regressione cioè praticamente
+
+1271
+00:59:00,005 --> 00:59:07,517
+mi approccio a gente più giovane di te quindi anche 25 quasi 25-26 anni che
+
+1272
+00:59:07,517 --> 00:59:15,029
+ragiona e approccia anche al software CAD o anche alla stessa macchina come
+
+1273
+00:59:15,029 --> 00:59:20,662
+lo faceva ai miei vecchi che dal tecnografo passavano al
+
+1274
+00:59:20,662 --> 00:59:25,999
+computer e per loro era una cosa che doveva scendersi,
+
+1275
+00:59:26,000 --> 00:59:30,000
+funzionare e spegnersi finita lì,
+
+1276
+00:59:30,000 --> 00:59:35,769
+quindi non doveva fare nient'altro che questo lavoro e poi permettergli di
+
+1277
+00:59:35,769 --> 00:59:41,923
+disegnare e la stessa cosa sto vedendo adesso perché poi al di là del fatto che
+
+1278
+00:59:41,923 --> 00:59:47,923
+adesso quello che ci hai detto ho visto che bisogna conoscere l'hardware e la
+
+1279
+00:59:47,923 --> 00:59:53,538
+macchina con cui si lavora perché ci permette sicuramente di avere anche
+
+1280
+00:59:53,538 --> 00:59:56,846
+un maggior feeling con tutto quello che ci
+
+1281
+00:59:56,846 --> 01:00:00,000
+permette di lavorare e tra le altre cose,
+
+1282
+01:00:00,000 --> 01:00:16,000
+visto che tu hai parlato anche di Windows 11 soprattutto di Windows 11 che non
+è così bello so benissimo i tuoi rant nei confronti delle varie versioni H2,
+
+1283
+01:00:16,000 --> 01:00:18,000
+23H3,
+
+1284
+01:00:18,000 --> 01:00:25,491
+quelle cose lì che sono state gli update di Windows 11 però una cosa con cui mi
+
+1285
+01:00:25,491 --> 01:00:32,795
+sono scontrato tantissimo e questo lo chiedo a te perché poi tra l'altro alla
+
+1286
+01:00:32,795 --> 01:00:40,287
+fine parleremo di un tool che il buon Giuseppe si è creato da zero che spero di
+
+1287
+01:00:40,287 --> 01:00:47,498
+poter utilizzare su qualche PC anche la manutenzione stessa di Windows io mi
+
+1288
+01:00:47,498 --> 01:00:54,802
+scontro con noi abbiamo un IT che è veramente lento e pigro e anche se dirgli
+
+1289
+01:00:54,802 --> 01:01:01,170
+solamente ho dovuto lottare scusa se salto il pallo in frasca ma ho
+
+1290
+01:01:01,170 --> 01:01:07,819
+dovuto lottare per fargli installare i Power Toys che io trovo che non
+
+1291
+01:01:07,819 --> 01:01:14,000
+capisco perché Windows non li installi di default su ogni licenza,
+
+1292
+01:01:14,000 --> 01:01:19,179
+su ogni computer perché i Power Toys sono una mano dal cielo per
+
+1293
+01:01:19,179 --> 01:01:24,278
+chi comunque utilizza Windows tutti i giorni e poi naturalmente
+
+1294
+01:01:24,278 --> 01:01:28,980
+anche ti permette una certa pulizia nelle prestazioni ecco,
+
+1295
+01:01:28,980 --> 01:01:40,000
+una cosa che volevo domandarti perché molte volte noi ci
+scontriamo con questi technici che dicono non toccare niente,
+
+1296
+01:01:40,000 --> 01:01:50,000
+non installare niente lascia così il computer che rimane
+pulito e quindi va tutto a posto e rimane stabile non lo so,
+
+1297
+01:01:50,000 --> 01:02:01,010
+ma è meglio installare quindi meglio provare anche software e fare
+comunque una manutenzione avere anche senso di una manutenzione allora,
+
+1298
+01:02:01,010 --> 01:02:06,000
+macro domanda innanzitutto per quanto riguarda i Power Toys non vengono inclusi,
+
+1299
+01:02:06,000 --> 01:02:08,000
+mi sembra che già questa cosa la dicemmo,
+
+1300
+01:02:08,000 --> 01:02:12,000
+non vengono inclusi all'interno di Windows perché il team è a parte,
+
+1301
+01:02:12,000 --> 01:02:14,000
+cioè è un team completamente a parte,
+
+1302
+01:02:14,000 --> 01:02:14,230
+che Microsoft si è sì,
+
+1303
+01:02:14,230 --> 01:02:14,460
+sì,
+
+1304
+01:02:14,460 --> 01:02:14,690
+sì,
+
+1305
+01:02:14,690 --> 01:02:14,889
+no,
+
+1306
+01:02:14,889 --> 01:02:19,624
+sono un team completamente a parte che Microsoft si è fagocitata
+
+1307
+01:02:19,624 --> 01:02:23,994
+perché i Power Toys da quello che ho letto perché purtroppo
+
+1308
+01:02:23,994 --> 01:02:27,999
+ero molto piccolo vengono dai Power Toys di Windows 98,
+
+1309
+01:02:28,000 --> 01:02:36,000
+che erano questa suite di tool avanzati che serviva appunto a
+potenziare il sistema ma erano venduti come pacchetto a parte.
+
+1310
+01:02:36,000 --> 01:02:38,000
+Il bello della comunità open source,
+
+1311
+01:02:38,000 --> 01:02:39,250
+ed è pure questo che io adoro,
+
+1312
+01:02:39,250 --> 01:02:40,000
+appunto,
+
+1313
+01:02:40,000 --> 01:02:42,000
+io sono fautore dell'open source,
+
+1314
+01:02:42,000 --> 01:02:45,199
+cioè a me il concetto del software nel senso,
+
+1315
+01:02:45,199 --> 01:02:49,199
+il famoso concetto del software come posso dirti,
+
+1316
+01:02:49,199 --> 01:02:54,209
+closed source cioè quindi che qualcosa è offuscato e quindi è più
+
+1317
+01:02:54,209 --> 01:02:58,990
+sicuro è una cazzata grossa quanto una casa che con Windows lo
+
+1318
+01:02:58,990 --> 01:03:04,000
+vediamo perché è il re del software chiuso del software offuscato,
+
+1319
+01:03:04,000 --> 01:03:08,000
+del software che non capisci cosa sta facendo in realtà,
+
+1320
+01:03:08,000 --> 01:03:12,368
+perché appunto non hai il codice sorgente per quando Windows si sia aperto
+
+1321
+01:03:12,368 --> 01:03:16,970
+parecchio ultimamente tu materialmente non sa cosa fai è come provare a curare
+
+1322
+01:03:16,970 --> 01:03:21,398
+un malato guardando solo i sintomi senza poterci parlare mentre il software
+
+1323
+01:03:21,398 --> 01:03:25,999
+open source è l'esatto contrario nel senso tu c'hai il codice lo puoi guardare,
+
+1324
+01:03:26,000 --> 01:03:28,000
+adesso finalmente quello che dico io,
+
+1325
+01:03:28,000 --> 01:03:32,000
+quando molti mi chiedono per quanto riguarda il toolkit che tu già hai avanzato,
+
+1326
+01:03:32,000 --> 01:03:40,000
+c'è un readme che saranno 4800 parole che ho scritto in mesi leggitelo cosa fa,
+
+1327
+01:03:40,000 --> 01:03:46,000
+ci stanno le o altrimenti la cosa più semplice che puoi fare visto
+che ci stanno questi bellissimi LLM che fanno tantissime cose,
+
+1328
+01:03:46,000 --> 01:03:49,199
+fra cui tra virgolette programmare prendi il toolkit,
+
+1329
+01:03:49,199 --> 01:03:59,190
+visto che il codice è open ce lo sbatti dentro e gli dici che cosa fa questa
+cosa e lui te lo spiega come un bambino di 4 anni ti spiega i passaggi,
+
+1330
+01:03:59,190 --> 01:04:02,000
+ti spiega le cose quindi,
+
+1331
+01:04:02,000 --> 01:04:03,199
+e questo è anche il bello dell'open source,
+
+1332
+01:04:03,199 --> 01:04:06,000
+cioè tutti possono contribuire tutti possono potenziare,
+
+1333
+01:04:06,000 --> 01:04:12,000
+tutti possono fare il mio toolkit nasce sulla base preesistente
+di un qualcosa di già esistente che è sempre open,
+
+1334
+01:04:12,000 --> 01:04:16,000
+che però non mi piaceva classica cosa dell'open source c'è una cosa,
+
+1335
+01:04:16,000 --> 01:04:16,690
+non ti piace come va?
+
+1336
+01:04:16,690 --> 01:04:23,010
+fai la tua versione perché pensi che possa
+funzionare meglio almeno per te e poi,
+
+1337
+01:04:23,010 --> 01:04:26,000
+soprattutto per quando riguarda quando le cose le faccio io,
+
+1338
+01:04:26,000 --> 01:04:28,000
+prendono delle derive che non finiscono più,
+
+1339
+01:04:28,000 --> 01:04:30,719
+perché la partita come una cosa semplice,
+
+1340
+01:04:30,719 --> 01:04:36,000
+e poi sta diventando credo il mostro un qualcosa,
+
+1341
+01:04:36,000 --> 01:04:38,000
+una piovra tentacolata,
+
+1342
+01:04:38,000 --> 01:04:38,809
+appunto di toolkit,
+
+1343
+01:04:38,809 --> 01:04:40,929
+che sta diventando una cosa megagalattica,
+
+1344
+01:04:40,929 --> 01:04:42,000
+ma ne parleremo dopo,
+
+1345
+01:04:42,000 --> 01:04:43,199
+per quanto riguarda appunto i Power Toys,
+
+1346
+01:04:43,199 --> 01:04:46,670
+il team è esterno ed è stato fagocitato da Microsoft cioè quindi,
+
+1347
+01:04:46,670 --> 01:04:50,000
+sono stipendati da Microsoft ma lavorano per cavoli loro,
+
+1348
+01:04:50,000 --> 01:04:52,000
+e pushano giustamente il tutto su GitHub,
+
+1349
+01:04:52,000 --> 01:04:53,610
+quindi il software è installabile,
+
+1350
+01:04:53,610 --> 01:04:54,449
+però sono un team esterno,
+
+1351
+01:04:54,449 --> 01:04:56,989
+per questo non verranno mai inclusi i Windows,
+
+1352
+01:04:56,989 --> 01:04:57,369
+perché,
+
+1353
+01:04:57,369 --> 01:05:00,000
+who knows cose di Microsoft,
+
+1354
+01:05:00,000 --> 01:05:06,000
+chi lo sa I don't know per quanto riguarda la situazione di Windows allora,
+
+1355
+01:05:06,000 --> 01:05:18,000
+è un ragionamento molto complesso al mio modo di vedere Windows
+è cambiato tanto tanto la parentesi XP a scendere in giù,
+
+1356
+01:05:18,000 --> 01:05:20,000
+è per fortuna finita,
+
+1357
+01:05:20,000 --> 01:05:25,199
+cioè nel senso avere un sistema operativo dove
+ti devi andare a installare il driver a mano,
+
+1358
+01:05:25,199 --> 01:05:28,000
+oddio si rompe oddio il virus,
+
+1359
+01:05:28,000 --> 01:05:28,869
+oddio queste cose,
+
+1360
+01:05:28,869 --> 01:05:32,000
+oddio l'antivirus il famoso Norton,
+
+1361
+01:05:32,000 --> 01:05:32,449
+come il Malox,
+
+1362
+01:05:32,449 --> 01:05:32,800
+cioè,
+
+1363
+01:05:32,800 --> 01:05:33,199
+capito,
+
+1364
+01:05:33,199 --> 01:05:39,199
+siamo allo stesso livello posso dire con ragionevole certezza oppure,
+
+1365
+01:05:39,199 --> 01:05:40,000
+chi vuole,
+
+1366
+01:05:40,000 --> 01:05:48,000
+tra virgolette demolire questo mio concetto mi
+venga a fornire delle basi solide e valide,
+
+1367
+01:05:48,000 --> 01:05:54,000
+è finito possiamo considerarlo finito Windows è completamente diverso,
+
+1368
+01:05:54,000 --> 01:05:58,000
+da Windows 10 è successo di tutto,
+
+1369
+01:05:58,000 --> 01:06:00,000
+perché Windows,
+
+1370
+01:06:00,000 --> 01:06:02,000
+quello che molti non sanno,
+
+1371
+01:06:02,000 --> 01:06:03,199
+in questo momento,
+
+1372
+01:06:03,199 --> 01:06:06,769
+incarna a tre cuori che pulsano dentro Windows,
+
+1373
+01:06:06,769 --> 01:06:07,460
+non uno,
+
+1374
+01:06:07,460 --> 01:06:11,199
+non due ma ben tre perché,
+
+1375
+01:06:11,199 --> 01:06:16,670
+alla parte legacy famosa Win32 compagna cantante che quindi,
+
+1376
+01:06:16,670 --> 01:06:20,000
+è quella che conosciamo legacy che viene da Windows XP,
+
+1377
+01:06:20,000 --> 01:06:20,599
+Windows 2000 tutta quella roba là,
+
+1378
+01:06:20,599 --> 01:06:28,000
+per far girare software legacy e funziona in una maniera poi c'è il layer UWP,
+
+1379
+01:06:28,000 --> 01:06:30,000
+che sarebbe Windows Platform,
+
+1380
+01:06:30,000 --> 01:06:39,230
+eccetera che è quella cosa che hanno scimmiottato da Android per cercare
+di fare le applicazioni che sono un misto internet non internet,
+
+1381
+01:06:39,230 --> 01:06:41,059
+eccetera che è un altro layer,
+
+1382
+01:06:41,059 --> 01:06:44,000
+con Windows 10 nato e morto lì,
+
+1383
+01:06:44,000 --> 01:06:45,199
+quindi esiste,
+
+1384
+01:06:45,199 --> 01:06:46,000
+funziona,
+
+1385
+01:06:46,000 --> 01:06:48,000
+ma non si sa che fine farà,
+
+1386
+01:06:48,000 --> 01:06:50,630
+e poi ci sta il famoso Acrylic eccetera,
+
+1387
+01:06:50,630 --> 01:06:57,400
+che sarebbe questa terza reincarnazione che non è
+nient'altro che questo Ultimedia Platform Windows Platform,
+
+1388
+01:06:57,400 --> 01:07:04,989
+evoluto che però lavora con codice macchina cioè quindi torniamo
+di nuovo al C-Sharp perché in Microsoft non sanno che fare,
+
+1389
+01:07:04,989 --> 01:07:07,260
+in generale cioè,
+
+1390
+01:07:07,260 --> 01:07:12,750
+loro vedono le vie dritte e loro decidono di fare per forza le curve le uscite,
+
+1391
+01:07:12,750 --> 01:07:13,349
+le cose,
+
+1392
+01:07:13,349 --> 01:07:18,878
+eccetera quindi in Windows quello che molti non capiscono è che in questo
+
+1393
+01:07:18,878 --> 01:07:24,107
+momento stanno operando tre anime e queste tre anime fanno a cazzotti
+
+1394
+01:07:24,107 --> 01:07:27,693
+fra di loro continuamente il problema che hanno
+
+1395
+01:07:27,693 --> 01:07:30,980
+è che Windows 11 soprattutto è partito bene,
+
+1396
+01:07:30,980 --> 01:07:40,000
+ma sta diventando una mezza piaga perché innanzitutto
+hanno Microsoft da un anno e mezzo fa o anche di più,
+
+1397
+01:07:40,000 --> 01:07:40,980
+mi sembra poco dopo la pandemia,
+
+1398
+01:07:40,980 --> 01:07:47,199
+ha fatto questa bella decisione visto che noi con Windows
+Home Professional non ci guadagniamo ed è un servizio,
+
+1399
+01:07:47,199 --> 01:07:56,000
+lo imbottiamo di telemetria lo facciamo scrivere all'intelligenza
+artificiale perché il 30% della codebase di Windows 11 è,
+
+1400
+01:07:56,000 --> 01:08:06,000
+sviluppata da Copilot che aperta chiusura rendesi fra gli LLM
+il più stupido e il più deficiente lo posso dire con diciamo,
+
+1401
+01:08:06,000 --> 01:08:08,000
+con abbastanza certezza,
+
+1402
+01:08:08,000 --> 01:08:10,000
+basta provarlo Copilot è il più stupido,
+
+1403
+01:08:10,000 --> 01:08:16,000
+veramente è il più stupido tu hai il 30% della codebase che funziona,
+
+1404
+01:08:16,000 --> 01:08:20,810
+è gestita da Copilot cioè pusha codice in maniera automata,
+
+1405
+01:08:20,810 --> 01:08:26,000
+io voglio sapere chi cazzo gli ha detto di fare una cosa del genere?
+
+1406
+01:08:26,000 --> 01:08:26,689
+Ho i brividi.
+
+1407
+01:08:26,689 --> 01:08:27,529
+Bravissimo,
+
+1408
+01:08:27,529 --> 01:08:34,989
+quindi noi stiamo utilizzando un sistema operativo che il 30%
+è gestito da una black box che noi non sappiamo come funziona,
+
+1409
+01:08:34,989 --> 01:08:42,989
+non sappiamo cosa pusha e non sappiamo cosa fa e il terzo
+chiodo sulla bara è che appunto un anno e mezzo fa Windows,
+
+1410
+01:08:42,989 --> 01:08:44,000
+cioè Microsoft,
+
+1411
+01:08:44,000 --> 01:08:49,895
+proprio per dire noi non ci guadagniamo con Windows ha deciso che tutto lo
+
+1412
+01:08:49,895 --> 01:08:56,026
+sviluppo di Windows è stato demandato ai junior ok quindi persone che vengono
+
+1413
+01:08:56,026 --> 01:09:01,999
+assunte da Microsoft con uno stipendio ridicolo non stupicissimi bravissimo,
+
+1414
+01:09:02,000 --> 01:09:07,239
+gli arriva la task metti questa cosa all'interno del menù di Windows finiscono
+
+1415
+01:09:07,239 --> 01:09:12,015
+la task dopo un anno e mezzo vengono licenziati questa è la politica di
+
+1416
+01:09:12,015 --> 01:09:17,056
+Microsoft quindi tu hai quindi molta gente adesso avrà finalmente coscienza
+
+1417
+01:09:17,056 --> 01:09:21,566
+del perché Windows sta diventando uno schifo per questi tre fattori
+
+1418
+01:09:21,566 --> 01:09:24,882
+che sono tre chiodi di bara uno peggio dell'altro
+
+1419
+01:09:24,882 --> 01:09:28,000
+il fatto che stanno girando tre motori insieme,
+
+1420
+01:09:28,000 --> 01:09:32,794
+una cosa mai vista in nessun sistema operativo Apple ne sta facendo girare
+
+1421
+01:09:32,794 --> 01:09:37,461
+due guarda il software Apple che fine ha fatto perché sta facendo girare
+
+1422
+01:09:37,461 --> 01:09:42,000
+anche lui la parte legacy quella là come cacchio si chiama non C-sharp,
+
+1423
+01:09:42,000 --> 01:09:44,000
+l'Objective C come cacchio si chiama a loro,
+
+1424
+01:09:44,000 --> 01:09:50,000
+e la parte Swift Microsoft addirittura sta a tre ne ha tre System 32,
+
+1425
+01:09:50,000 --> 01:09:54,783
+un WP e questa nuova che sta funzionando sta convertendo tutto perché deve
+
+1426
+01:09:54,783 --> 01:09:59,758
+convertire tutta la parte legacy nella parte nuova io purtroppo chiedo a gran
+
+1427
+01:09:59,758 --> 01:10:04,733
+voce e lo dico anche qua così magari sarà qualcuno in più che ci ascolterà il
+
+1428
+01:10:04,733 --> 01:10:09,325
+progetto OneCore che molta gente non conosce lo potete cercare anche su
+
+1429
+01:10:09,325 --> 01:10:13,854
+internet quest'anno è uscita un'altra notizia del fatto che loro hanno
+
+1430
+01:10:13,854 --> 01:10:18,000
+riavviato per l'ennesima volta questo progetto OneCore che cos'è?
+
+1431
+01:10:18,000 --> 01:10:23,074
+e il santo grallo è quello che io vado a inseguire probabilmente da
+
+1432
+01:10:23,074 --> 01:10:28,223
+quando se n'è parlata la prima volta ovvero rendere Windows modulare
+
+1433
+01:10:28,223 --> 01:10:33,223
+ci stanno è il sesto reset di questo progetto il sesto dall'uscita
+
+1434
+01:10:33,223 --> 01:10:38,000
+di Windows 10 cioè quindi dal 2015 lo hanno resettato sei volte,
+
+1435
+01:10:38,000 --> 01:10:40,000
+non sono mai arrivati alla fine,
+
+1436
+01:10:40,000 --> 01:10:46,000
+ovvero prendere Windows ridurlo ai minimi termini a zero,
+
+1437
+01:10:46,000 --> 01:10:56,989
+cioè proprio avere un core e passare da monolitico a a un sistema non più
+monolitico ma a blocchetti questo significa che tu hai un core di Windows,
+
+1438
+01:10:56,989 --> 01:11:00,623
+che è il kernel quindi il cervello del sistema operativo
+
+1439
+01:11:00,623 --> 01:11:03,683
+con pochissima roba scritto tutto in linguaggio
+
+1440
+01:11:03,683 --> 01:11:07,190
+aggiornato ottimizzato per le performance super veloce,
+
+1441
+01:11:07,189 --> 01:11:08,000
+super intuitivo,
+
+1442
+01:11:08,000 --> 01:11:12,000
+super funzionante questo core poi che cosa fa?
+
+1443
+01:11:12,000 --> 01:11:22,000
+lo usi sull'Xbox ti carica la parte Xbox quindi
+l'interfaccia specifica per Xbox lo store con l'Xbox,
+
+1444
+01:11:22,000 --> 01:11:28,000
+ecc ecc ecc perché Microsoft è anche Xbox e
+anche il resto lo devi far lavorare su un POS,
+
+1445
+01:11:28,000 --> 01:11:30,000
+su un qualcosa di ridotto,
+
+1446
+01:11:30,000 --> 01:11:34,000
+ti carica solo il servizio ai minimi termini quindi poca grafica,
+
+1447
+01:11:34,000 --> 01:11:36,000
+poca cosa tutto in maniera modulare,
+
+1448
+01:11:36,000 --> 01:11:41,152
+non come funziona adesso che lui ti installa tutto poi attiva e disattiva e
+
+1449
+01:11:41,152 --> 01:11:46,644
+questo comunque è groppone ti porti comunque un sacco di roba appresso se invece
+
+1450
+01:11:46,644 --> 01:11:52,000
+lo utilizzi su un computer normale ti installa la schermata che noi conosciamo,
+
+1451
+01:11:52,000 --> 01:12:00,000
+ecc ecc ecc tutta la parte legacy buttata a mare
+io voglio vedere Microsoft che dice signori,
+
+1452
+01:12:00,000 --> 01:12:01,050
+Windows cioè,
+
+1453
+01:12:01,050 --> 01:12:04,000
+Office 97 non gira più,
+
+1454
+01:12:04,000 --> 01:12:10,000
+ci avete rotto le pelotas la roba sotto gli anni 2010 non gira più,
+
+1455
+01:12:10,000 --> 01:12:11,199
+la volete far girare?
+
+1456
+01:12:11,199 --> 01:12:12,000
+Perfetto,
+
+1457
+01:12:12,000 --> 01:12:16,000
+con questo progetto OneCore avevano già avuto la lungimiranza,
+
+1458
+01:12:16,000 --> 01:12:16,689
+che cosa facevano?
+
+1459
+01:12:16,689 --> 01:12:18,890
+Se tu hai bisogno di roba legacy Windows,
+
+1460
+01:12:18,890 --> 01:12:20,000
+che cosa faceva?
+
+1461
+01:12:20,000 --> 01:12:22,866
+Ti installava il software legacy lui te lo installava
+
+1462
+01:12:22,866 --> 01:12:25,520
+normalmente però a livello di chiamate di sistema
+
+1463
+01:12:25,520 --> 01:12:28,600
+operativo ti andava a scaricare la componentistica legacy,
+
+1464
+01:12:28,600 --> 01:12:34,000
+te la faceva partire in un involucro tipo
+macchina virtuale e passava le istruzioni,
+
+1465
+01:12:34,000 --> 01:12:34,649
+diciamo legacy,
+
+1466
+01:12:34,649 --> 01:12:38,739
+solo a quella parte così il software partiva a 16 bit magari,
+
+1467
+01:12:38,739 --> 01:12:42,635
+roba proprio vecchia vecchia pensando che stesse su Windows 3.1
+
+1468
+01:12:42,635 --> 01:12:46,469
+però tu hai tutto chiuso in un involucro che non viene toccato
+
+1469
+01:12:46,469 --> 01:12:50,000
+quando disinstallo il software viene buttato tutto a mare.
+
+1470
+01:12:50,000 --> 01:12:58,000
+Scusami la domanda la domanda da ignorante per quello che conosco poco,
+
+1471
+01:12:58,000 --> 01:13:04,000
+ma in pratica diciamo che è una specie di rebranding di Linux,
+
+1472
+01:13:04,000 --> 01:13:12,000
+cioè nel senso Linux ha il core e poi tu ci
+attacchi l'interfaccia GNOME l'interfaccia KPI...
+
+1473
+01:13:12,000 --> 01:13:14,000
+Sostanzialmente sì,
+
+1474
+01:13:14,000 --> 01:13:18,000
+perché quello più che un rebranding è un modo di pensare i sistemi operativi,
+
+1475
+01:13:18,000 --> 01:13:20,000
+perché Linux purtroppo non è...
+
+1476
+01:13:20,000 --> 01:13:20,529
+cioè non è che ha inventato nulla,
+
+1477
+01:13:20,529 --> 01:13:26,000
+cioè Linux ha un modo di pensare che alla fine
+molta gente pensa che Linux è un sistema operativo.
+
+1478
+01:13:26,000 --> 01:13:28,000
+Linux è un kernel.
+
+1479
+01:13:28,000 --> 01:13:34,000
+Questa è un'altra domanda che manda diciamo in pappo il cervello di tutti.
+
+1480
+01:13:34,000 --> 01:13:35,199
+Linux non è un sistema operativo,
+
+1481
+01:13:35,199 --> 01:13:36,000
+Linux è un kernel.
+
+1482
+01:13:36,000 --> 01:13:41,000
+Perché Linux ti sviluppa il kernel poi ci sta,
+
+1483
+01:13:41,000 --> 01:13:42,000
+come hai detto tu,
+
+1484
+01:13:42,000 --> 01:13:43,199
+ci sta GNOME,
+
+1485
+01:13:43,199 --> 01:13:46,000
+ci sta Cinnamon ci sono i desktop environment,
+
+1486
+01:13:46,000 --> 01:13:52,000
+c'è la grafica che servono per mandare i
+comandi al kernel Linux che poi ti fa le cose.
+
+1487
+01:13:52,000 --> 01:14:00,000
+Lavora in maniera totalmente diversa da Windows che è un
+monoblocco di blob di schifezze con tutti i media sovrapposti.
+
+1488
+01:14:00,000 --> 01:14:06,000
+Salto un blocco della scheletta e ti faccio la domanda che mi domando sempre.
+
+1489
+01:14:06,000 --> 01:14:24,000
+Ma con tutti questi problemi naturalmente che ha Windows questi 3 layer che
+combattono tra di loro all'interno di questa box ma perché secondo te e ancora,
+
+1490
+01:14:24,000 --> 01:14:31,602
+perché nel mondo CAD i software CAD legacy la maggior parte io ti
+
+1491
+01:14:31,602 --> 01:14:38,858
+parlo di Inventor di Siemens di SolidWorks soprattutto e anche
+
+1492
+01:14:38,858 --> 01:14:46,000
+di KTA sono i software che vengono per la maggior parte usate,
+
+1493
+01:14:46,000 --> 01:14:54,553
+sono quelli che si spartiscono la fetta di mercato del software CAD soprattutto
+
+1494
+01:14:54,553 --> 01:15:03,106
+quello 3D sul 2D Autodesk la fa da padrone nonostante la crescita sia di Mac OS
+
+1495
+01:15:03,106 --> 01:15:11,767
+che di Linux Windows rimane ancora Windows rimane ancora il sistema operativo su
+
+1496
+01:15:11,767 --> 01:15:19,999
+cui queste software house basano la programmazione dei loro software e cos'è?
+
+1497
+01:15:20,000 --> 01:15:28,000
+La compatibilità perché ormai hanno anche loro un codice
+che arriva dalla pietra o è un vantaggio tecnico?
+
+1498
+01:15:28,000 --> 01:15:28,979
+Bravissimo,
+
+1499
+01:15:28,979 --> 01:15:34,168
+ti sei risposto con il ragionamento che abbiamo fatto prima paradossalmente
+
+1500
+01:15:34,168 --> 01:15:39,152
+ti puoi dare la risposta che ti ho detto prima è la superficie d'attacco
+
+1501
+01:15:39,152 --> 01:15:44,000
+Windows è l'unico sistema operativo che è ancora in pancia il software,
+
+1502
+01:15:44,000 --> 01:15:56,000
+cioè è ancora in pancia la core legacy Mac OS l'ha buttata a mare quando
+è passata ad ARM Linux si aggiornano spesso da questo punto di vista,
+
+1503
+01:15:56,000 --> 01:16:01,909
+a parte delle versioni di Linux molto particolari Linux è votato a due anime è
+
+1504
+01:16:01,909 --> 01:16:07,818
+votato alla stabilità per la parte server è votato all'aggiornamento frenetico
+
+1505
+01:16:07,818 --> 01:16:13,429
+per chi usa Arch e tutta quella roba là che si aggiornano 200 pacchetti al
+
+1506
+01:16:13,429 --> 01:16:19,263
+giorno perché pushano in continuazione modifiche fin quando poi non diventano
+
+1507
+01:16:19,263 --> 01:16:24,948
+stabili ma a livello a parte che Linux è odiato in ambito enterprise perché
+
+1508
+01:16:24,948 --> 01:16:29,511
+la gente parte dal fatto che un sistema operativo totalmente
+
+1509
+01:16:29,511 --> 01:16:34,000
+frito col codice open e appunto Linux toll balls ha mandato,
+
+1510
+01:16:34,000 --> 01:16:39,920
+il fuck NVIDIA ha mandato in mondo visione del fatto che loro avevano dei driver
+
+1511
+01:16:39,920 --> 01:16:45,548
+chiusi e non rilasciavano le cose è un modo di pensare i colletti bianchi in
+
+1512
+01:16:45,548 --> 01:16:51,102
+giacca e cravatta di queste aziende software megagalattiche gli dà fastidio
+
+1513
+01:16:51,102 --> 01:16:56,000
+tanto loro non ci arrivano a livello di mentalità al software open,
+
+1514
+01:16:56,000 --> 01:17:06,000
+perché per loro è come se stessi rubando dei segreti industriali quando non
+è vero perché io parto da un concetto diverso poi potrebbe pure essere,
+
+1515
+01:17:06,000 --> 01:17:08,000
+però parto da un concetto un po' diverso,
+
+1516
+01:17:08,000 --> 01:17:09,199
+cioè nel senso che se tu sei buono,
+
+1517
+01:17:09,199 --> 01:17:13,149
+come si dice dalle mie parti almeno io,
+
+1518
+01:17:13,149 --> 01:17:16,067
+questa è la mia mentalità per cui tutto quello che faccio è
+
+1519
+01:17:16,067 --> 01:17:19,179
+tutto open io rilascio in continuazione tutto quello che faccio
+
+1520
+01:17:19,179 --> 01:17:22,000
+perché io parto dal concetto che se io e un'altra persona,
+
+1521
+01:17:22,000 --> 01:17:24,000
+tra virgolette per un lavoro,
+
+1522
+01:17:24,000 --> 01:17:24,989
+per una cosa ci andiamo,
+
+1523
+01:17:24,989 --> 01:17:26,000
+tra virgolette,
+
+1524
+01:17:26,000 --> 01:17:30,000
+a giocare la palla una persona dall'altra parte competente,
+
+1525
+01:17:30,000 --> 01:17:32,000
+cioè un ipotetico cliente,
+
+1526
+01:17:32,000 --> 01:17:34,000
+tra me e quell'altra persona,
+
+1527
+01:17:34,000 --> 01:17:38,590
+capisce la differenza di bagaglio tecnico e di competenza fra me e un terzo,
+
+1528
+01:17:38,590 --> 01:17:43,189
+quindi se anche il terzo utilizza il mio
+software oppure utilizza i miei punti di vista,
+
+1529
+01:17:43,189 --> 01:17:49,300
+comunque sostanzialmente avendo l'idea te
+io tutto il bagaglio da sotto io ce l'ho,
+
+1530
+01:17:49,300 --> 01:17:50,000
+lui no,
+
+1531
+01:17:50,000 --> 01:17:52,000
+quindi quando si trova nei casini,
+
+1532
+01:17:52,000 --> 01:18:00,000
+io riesco a performare molto meglio di lui questo
+concetto nell'epoca del software closed non esiste,
+
+1533
+01:18:00,000 --> 01:18:00,460
+perché parte dal concetto,
+
+1534
+01:18:00,460 --> 01:18:00,600
+no,
+
+1535
+01:18:00,600 --> 01:18:04,000
+noi abbiamo l'agenda migliore ce la dobbiamo tenere noi,
+
+1536
+01:18:04,000 --> 01:18:05,300
+la paghiamo il software è chiuso,
+
+1537
+01:18:05,300 --> 01:18:08,640
+perché noi ci guadagniamo ci dobbiamo guadagnare ancora più soldi,
+
+1538
+01:18:08,640 --> 01:18:10,000
+pagare meno loro,
+
+1539
+01:18:10,000 --> 01:18:12,000
+guadagnare di più noi,
+
+1540
+01:18:12,000 --> 01:18:16,000
+e poi fanno tutti quanti la fine di Adobe è vero,
+
+1541
+01:18:16,000 --> 01:18:17,199
+ma anche se devo dirti la verità,
+
+1542
+01:18:17,199 --> 01:18:26,000
+personalmente io ho una specie di amore e odio con Linux parlo di Linux,
+
+1543
+01:18:26,000 --> 01:18:30,000
+sai benissimo e sanno anche benissimo gli ascoltatori,
+
+1544
+01:18:30,000 --> 01:18:33,359
+io lavoro in un'azienda su Windows,
+
+1545
+01:18:33,359 --> 01:18:42,486
+a casa invece lavoro su macOS perché adoro la sua interfaccia soprattutto
+
+1546
+01:18:42,486 --> 01:18:51,366
+il modo come mi interfaccio con la GUI di macOS anche se con Windows 10
+
+1547
+01:18:51,366 --> 01:19:00,000
+e Windows 11 è notevolmente migliorata in confronto agli XP o altri...
+
+1548
+01:19:00,000 --> 01:19:02,000
+Hanno preso tanto bagaglio da là,
+
+1549
+01:19:02,000 --> 01:19:04,000
+e si nota Esatto,
+
+1550
+01:19:04,000 --> 01:19:06,000
+con Linux io ho sempre avuto un amore e odio,
+
+1551
+01:19:06,000 --> 01:19:07,199
+ma soprattutto perché,
+
+1552
+01:19:07,199 --> 01:19:12,659
+a parte che molte volte lì proprio devi ritorniamo all'inizio,
+
+1553
+01:19:12,659 --> 01:19:16,000
+devi conoscere la macchina perché devi sapere,
+
+1554
+01:19:16,000 --> 01:19:18,000
+se tu installi una distribuzione,
+
+1555
+01:19:18,000 --> 01:19:25,189
+cioè praticamente c'è quindi un chiamiamolo sistema operativo ma non è,
+
+1556
+01:19:25,189 --> 01:19:31,431
+quindi il kernel Linux con il desktop environment con la personalizzazione
+
+1557
+01:19:31,431 --> 01:19:37,006
+dei pacchetti che ci stanno sopra e viene chiamato a distribuzione
+
+1558
+01:19:37,006 --> 01:19:42,000
+giusto per chi dei miei amici è un po' agnostico della cosa,
+
+1559
+01:19:42,000 --> 01:19:43,210
+ecco esatto,
+
+1560
+01:19:43,210 --> 01:19:50,706
+però ad esempio io ho sempre avuto questa sensazione di molto di sabbie mobili
+
+1561
+01:19:50,706 --> 01:19:57,918
+di sabbie mobili ed è stragnante perché quella quella cosa lì della riga di
+
+1562
+01:19:57,918 --> 01:20:05,130
+comando che molto purtroppo nonostante i desktop environment di Linux ormai
+
+1563
+01:20:05,130 --> 01:20:12,627
+sono migliorati tantissimo a volte se tu lo installi io l'ho installato su una
+
+1564
+01:20:12,627 --> 01:20:19,269
+macchina che utilizzo qua proprio per fare quattro cose adesso ci sta
+
+1565
+01:20:19,269 --> 01:20:23,729
+smarettando il piccolo Matteo di cinque anni e
+
+1566
+01:20:23,729 --> 01:20:28,000
+la lasci di così è un'roccia pura scritta lì,
+
+1567
+01:20:28,000 --> 01:20:32,395
+fermo fai i suoi update non ti rendi neanche conto fai i lavori
+
+1568
+01:20:32,395 --> 01:20:36,928
+esattamente come su Windows perché ormai le interfacce sono anche
+
+1569
+01:20:36,928 --> 01:20:40,979
+lì somigliate addirittura ci sono distribuzioni bravissimo,
+
+1570
+01:20:40,979 --> 01:20:47,981
+che scimmiottano Windows esatto e quindi la sensazione è sempre stata quella e
+
+1571
+01:20:47,981 --> 01:20:54,450
+poi naturalmente come ci dibattiamo io e anche Roberto sul perché queste
+
+1572
+01:20:54,450 --> 01:21:01,274
+softwares AutoCAD ci ha impiegato penso 15 anni prima di creare una versione
+
+1573
+01:21:01,274 --> 01:21:08,275
+per macOS ci ha impiegato tantissimo e tra l'altro credo che l'abbia riscritta
+
+1574
+01:21:08,275 --> 01:21:15,188
+esattamente perché ci sono veramente notevoli differenze anche di interfaccia
+
+1575
+01:21:15,188 --> 01:21:20,682
+e di come si si approccia al software tra la versione Windows
+
+1576
+01:21:20,682 --> 01:21:26,000
+e la versione macOS te lo dico perché le uso tutte e due ok,
+
+1577
+01:21:26,000 --> 01:21:32,563
+infatti mi ne rendo conto sono poche ma se tu usi praticamente
+
+1578
+01:21:32,563 --> 01:21:37,877
+per il 90% del tempo di lavoro una versione quando
+
+1579
+01:21:37,877 --> 01:21:42,670
+usi l'altra ti senti un po' meno amato esatto,
+
+1580
+01:21:42,670 --> 01:21:45,050
+dov'è il comando funziona così?
+
+1581
+01:21:45,050 --> 01:21:46,000
+No,
+
+1582
+01:21:46,000 --> 01:21:52,788
+funziona al contrario perché naturalmente il sistema operativo ragiona in
+
+1583
+01:21:52,788 --> 01:22:00,036
+un'altra maniera eccetera eccetera invece io ho sempre pensato che Linux al di
+
+1584
+01:22:00,036 --> 01:22:07,192
+là del fatto della sua frammentazione tra le varie distribuzioni tra le varie
+
+1585
+01:22:07,192 --> 01:22:11,688
+square di pensiero è sempre stato questo amore e
+
+1586
+01:22:11,688 --> 01:22:16,000
+odio perché io su Linux ho provato a lavorarci,
+
+1587
+01:22:16,000 --> 01:22:19,990
+quando ho fatto il freelance per spendere poco anzi è
+
+1588
+01:22:19,990 --> 01:22:24,573
+gratuito e quindi è gratuito posso utilizzarlo su un computer
+
+1589
+01:22:24,573 --> 01:22:28,490
+che non è all'ultimo grido e tra l'altro posso usare,
+
+1590
+01:22:28,489 --> 01:22:42,000
+ad esempio c'era FreeCAD che adesso è passato alla versione 2.0 che è
+notevolmente migliorata però poteva già permetterti di fare già del business,
+
+1591
+01:22:42,000 --> 01:22:54,000
+quindi di lavorare e naturalmente però ti scontri con un software
+open source che naturalmente è sempre passami il termine cagionevole,
+
+1592
+01:22:54,000 --> 01:23:01,264
+nel senso perché dipende dal povero come anche nel tuo caso nel senso dal povero
+
+1593
+01:23:01,264 --> 01:23:07,991
+programmatore che magari è da solo è un indie è lì che programma da solo e
+
+1594
+01:23:07,991 --> 01:23:15,165
+avrebbe bisogno di supporto e giustamente è una cosa che manca nell'open source
+
+1595
+01:23:15,165 --> 01:23:22,340
+e che credo faccia da freno a molti dei miei colleghi perché questa cosa qua di
+
+1596
+01:23:22,340 --> 01:23:28,529
+non poter avere il supporto di non avere il pieno che poi i software
+
+1597
+01:23:28,529 --> 01:23:34,000
+come Windows eccetera eccetera non funzionano non mi importa,
+
+1598
+01:23:34,000 --> 01:23:40,829
+tanto ho il supporto dell'IT trovo un sacco di forum eccetera e altre
+
+1599
+01:23:40,829 --> 01:23:47,268
+cose che insomma anche l'intelligenza artificiale comunque non mi
+
+1600
+01:23:47,268 --> 01:23:54,000
+aiuta soprattutto su Linux anche se io non l'ho provato tu vuoi dire?
+
+1601
+01:23:54,000 --> 01:23:56,000
+Allora il problema è questo,
+
+1602
+01:23:56,000 --> 01:23:58,000
+l'hai detto la frammentazione,
+
+1603
+01:23:58,000 --> 01:24:05,421
+cioè Linux è un universo non è un pianeta come Windows non è un pianeta come
+
+1604
+01:24:05,421 --> 01:24:12,457
+macOS è un universo considerati che io ero pronto a passare a Linux però
+
+1605
+01:24:12,457 --> 01:24:20,265
+purtroppo visto che il computer lo utilizzano anche i miei per dirti a mio padre
+
+1606
+01:24:20,265 --> 01:24:28,072
+se gli sposti l'icona di Excel dice che il computer è rotto quindi come disse un
+
+1607
+01:24:28,072 --> 01:24:33,277
+famoso signor giudice eccomi qui perché sono qui oggi
+
+1608
+01:24:33,277 --> 01:24:37,999
+signor giudice quindi io sono totalmente frenato,
+
+1609
+01:24:38,000 --> 01:24:44,600
+tanto è vero che nelle mie peripezie io mi sono andato anche a sviluppare uno
+
+1610
+01:24:44,600 --> 01:24:51,115
+scriptino per Mint devo fare la versione su Archer bloccata perché purtroppo
+
+1611
+01:24:51,115 --> 01:24:56,023
+Quintoolkit occupa tutto il mio tempo che sostanzialmente
+
+1612
+01:24:56,023 --> 01:25:00,000
+non fa nient'altro che settarti nei repositori,
+
+1613
+01:25:00,000 --> 01:25:04,000
+installarti il software che utilizzo io di base DaVinci,
+
+1614
+01:25:04,000 --> 01:25:08,566
+tutte queste robe qua e configurartelo come diciamo dovrebbe
+
+1615
+01:25:08,566 --> 01:25:13,358
+essere in modo che io tramite un solo script install ho cercato
+
+1616
+01:25:13,358 --> 01:25:18,000
+di posporre la stessa cosa che io faccio con Windows su Linux,
+
+1617
+01:25:18,000 --> 01:25:20,000
+però su Linux mi è andata un po' male,
+
+1618
+01:25:20,000 --> 01:25:26,000
+proprio perché è molto complicato perché come ti ho detto è un universo,
+
+1619
+01:25:26,000 --> 01:25:28,000
+non è un pianeta,
+
+1620
+01:25:28,000 --> 01:25:29,460
+quando su Windows mi risulta facile,
+
+1621
+01:25:29,460 --> 01:25:33,167
+a parte che ci bazzico da molto più tempo ma sono arrivato a un grado
+
+1622
+01:25:33,167 --> 01:25:36,557
+di ottimizzazione tale per cui che ne so quando vado a fare una
+
+1623
+01:25:36,557 --> 01:25:40,000
+build di un computer io il sistema operativo Windows già ce l'ho,
+
+1624
+01:25:40,000 --> 01:25:44,989
+cioè c'è un'immagine ipercompressa già ottimizzata
+deblottata con tutto quello che ci tengo dentro,
+
+1625
+01:25:44,989 --> 01:25:46,000
+senza software,
+
+1626
+01:25:46,000 --> 01:25:48,000
+c'è nel senso con i programmi proprio base,
+
+1627
+01:25:48,000 --> 01:25:48,840
+tipo VLC e le cose,
+
+1628
+01:25:48,840 --> 01:25:54,028
+e io ogni volta che installo non faccio niente altro che fare tipo il deploy
+
+1629
+01:25:54,028 --> 01:25:59,014
+cioè la sparo dentro e Windows poi si autoristalla e si fa le cose quindi
+
+1630
+01:25:59,014 --> 01:26:04,000
+tempo di installazione 12 minuti e c'hai la schermata di login in pratica,
+
+1631
+01:26:04,000 --> 01:26:15,079
+quindi questa cosa su Linux non sono ancora riuscita a come posso
+dire ad averla un po' perché appunto dipende dalla distribuzione,
+
+1632
+01:26:15,079 --> 01:26:17,050
+un po' perché ancora sono ignorante,
+
+1633
+01:26:17,050 --> 01:26:21,189
+ma ti posso dire che le aziende non lo supportano eccetera,
+
+1634
+01:26:21,189 --> 01:26:24,000
+perché Linux è un pentolone di roba,
+
+1635
+01:26:24,000 --> 01:26:26,000
+cioè tu devi non è un qualcosa di,
+
+1636
+01:26:26,000 --> 01:26:26,500
+come posso dirti,
+
+1637
+01:26:26,500 --> 01:26:32,401
+una figura ben infinita è un qualcosa dove tu puoi prendere a piene mani e
+
+1638
+01:26:32,401 --> 01:26:38,146
+paradossalmente un'altra cosa che fa esplodere il cervello alla gente il
+
+1639
+01:26:38,146 --> 01:26:44,126
+software migliore che ci ha fatto avanzare tecnologicamente più velocemente
+
+1640
+01:26:44,126 --> 01:26:49,319
+negli ultimi 30 anni deriva tutto da Linux e dal software open no,
+
+1641
+01:26:49,319 --> 01:26:52,000
+no è sicuro,
+
+1642
+01:26:52,000 --> 01:26:54,000
+è sicuro quindi quello è il ragionamento,
+
+1643
+01:26:54,000 --> 01:26:54,500
+perché molta gente,
+
+1644
+01:26:54,500 --> 01:27:02,000
+per esempio YouTube senza il software open
+non esisterebbe che ti devo dire Office,
+
+1645
+01:27:02,000 --> 01:27:06,691
+molta roba anche perché qualsiasi software che utilizzate basta
+
+1646
+01:27:06,691 --> 01:27:11,528
+andare nelle info del vostro software che vi dice le librerie che
+
+1647
+01:27:11,528 --> 01:27:15,999
+utilizzano e sono tutte le librerie free e sono una migliaia,
+
+1648
+01:27:16,000 --> 01:27:20,203
+una migliarata ovunque lo stesso Mac OS funziona su su
+
+1649
+01:27:20,203 --> 01:27:24,331
+una base Unix che il kernel e Darwin che loro si sono
+
+1650
+01:27:24,331 --> 01:27:28,000
+presi e si sono iperpersonalizzati ma alla fine,
+
+1651
+01:27:28,000 --> 01:27:33,050
+sì e quindi questo è il ragionamento per cui non so,
+
+1652
+01:27:33,050 --> 01:27:37,189
+perché le aziende non passano e non passeranno mai in generale su Linux,
+
+1653
+01:27:37,189 --> 01:27:42,289
+perché è complicato anche io lo vedo complicato però un'idea che volevo lanciare
+
+1654
+01:27:42,289 --> 01:27:47,263
+per esempio per le aziende ed è una cosa che a me è capitata e sto cercando di
+
+1655
+01:27:47,263 --> 01:27:50,726
+far passare ma purtroppo sono retticente perché sempre
+
+1656
+01:27:50,726 --> 01:27:54,000
+per il solito ragionamento come ho detto all'inizio,
+
+1657
+01:27:54,000 --> 01:28:02,000
+il reparto IT pensa ancora a 30 anni fa ed è anche
+una domanda della scaletta è che io in un futuro,
+
+1658
+01:28:02,000 --> 01:28:16,000
+paradossalmente visto che diceva spesso siamo nati dal mainframe non so se sai,
+
+1659
+01:28:16,000 --> 01:28:28,000
+l'informatica è nata dai mainframe come i terminali siamo arrivati all'epoca
+moderna con ognuno il proprio personal computer io vedo un futuro spero anzi,
+
+1660
+01:28:28,000 --> 01:28:38,000
+in un futuro dove si ritorni un po' indietro all'ottica di mainframe nel
+senso che per le aziende ho notato che a me è capitato e appunto l'ho detto,
+
+1661
+01:28:38,000 --> 01:28:43,541
+sto cercando di farla passare per le aziende che mi hanno ascoltato si sono
+
+1662
+01:28:43,541 --> 01:28:49,302
+trovate molto bene ovvero non avere singole macchine ma avere solo magari o lo
+
+1663
+01:28:49,302 --> 01:28:54,843
+schermo o un mini pc proprio minimo che non faccia nient'altro che prendere
+
+1664
+01:28:54,843 --> 01:29:00,312
+dalla LAN il segnale e poi avere la macchina in modalità virtual machine e
+
+1665
+01:29:00,312 --> 01:29:06,000
+demandare tutto al reparto server dove tu hai il server pesante bello potente,
+
+1666
+01:29:06,000 --> 01:29:08,000
+bello grosso con il backup,
+
+1667
+01:29:08,000 --> 01:29:12,000
+con le cose e poi iniziamo a parlare come Salvini il ponte,
+
+1668
+01:29:12,000 --> 01:29:14,000
+le cose alla stessa situazione,
+
+1669
+01:29:14,000 --> 01:29:19,093
+quindi tutto delegato al reparto e ti chissà cosa sta facendo ha le mani in
+
+1670
+01:29:19,093 --> 01:29:24,187
+pasta sull'hardware e può fare delle operazioni di lavoro importanti quindi
+
+1671
+01:29:24,187 --> 01:29:29,080
+tu paradossalmente potresti anche avere il tuo computer che ti devo dire,
+
+1672
+01:29:29,079 --> 01:29:32,000
+la tua istanza esplode perfetto,
+
+1673
+01:29:32,000 --> 01:29:35,804
+si ripristina automaticamente perché è una macchina virtuale magari tu
+
+1674
+01:29:35,804 --> 01:29:39,770
+non te ne accorgi neanche Windows ti crasha sul rendering automaticamente
+
+1675
+01:29:39,770 --> 01:29:43,199
+passa su una macchina di backup che ha già i file sincronizzati,
+
+1676
+01:29:43,199 --> 01:29:46,000
+quindi tu non te ne accorgi proprio,
+
+1677
+01:29:46,000 --> 01:29:56,000
+cioè tutte queste magie si possono fare con Proxmos che open appunto sempre
+per la virtualizzazione e con le macchine virtuali io ho a me questa idea,
+
+1678
+01:29:56,000 --> 01:29:58,000
+lo sai quando mi è venuta che mi è esploso il cervello,
+
+1679
+01:29:58,000 --> 01:30:00,000
+mi è venuta nel...
+
+1680
+01:30:00,000 --> 01:30:06,000
+era il 2016 ed era all'università perché io ho
+fatto un anno di farmacia e ho detto no ragazzi,
+
+1681
+01:30:06,000 --> 01:30:10,000
+io con questa gente non ci posso avere a
+che fare perché sono come i miei genitori,
+
+1682
+01:30:10,000 --> 01:30:14,989
+a fare il banconaro tutta la vita non ci penso
+proprio ho fatto un anno di informatica,
+
+1683
+01:30:14,989 --> 01:30:21,479
+però dopo sei mesi me ne sono andato perché ho detto non è
+possibile siete troppo lenti per me e ho iniziato già a lavorare,
+
+1684
+01:30:21,479 --> 01:30:24,986
+però a me una cosa che fece esplodere il cervello nell'aura di
+
+1685
+01:30:24,986 --> 01:30:28,604
+informatica fu che quando i terminali che utilizzavamo noi erano
+
+1686
+01:30:28,604 --> 01:30:32,000
+sostanzialmente degli scatolati c'avevano il computer dentro,
+
+1687
+01:30:32,000 --> 01:30:33,119
+però erano strani,
+
+1688
+01:30:33,119 --> 01:30:34,000
+io che cosa ho fatto,
+
+1689
+01:30:34,000 --> 01:30:36,736
+ho staccato il cavolanno e ho visto che il computer
+
+1690
+01:30:36,736 --> 01:30:39,578
+si era frizzato completamente frizzato ho riattaccato
+
+1691
+01:30:39,578 --> 01:30:42,000
+il cavolanno ed è ripartito allora ho pensato,
+
+1692
+01:30:42,000 --> 01:30:45,064
+vuoi vedere che questi sono degli involucri vuoti e in
+
+1693
+01:30:45,064 --> 01:30:48,351
+realtà il computer su cui tu stai accedendo fa parte della
+
+1694
+01:30:48,351 --> 01:30:51,359
+sala server della cosa e allora là mi si è illuminata,
+
+1695
+01:30:51,359 --> 01:30:55,826
+mi si è accesa la lampadina immaginati se un'azienda potesse funzionare
+
+1696
+01:30:55,826 --> 01:31:00,292
+in questa maniera perché tanto al giorno d'oggi la tecnologia ormai c'è
+
+1697
+01:31:00,292 --> 01:31:04,696
+e non costa manco tanto cioè a te ti conviene spendere 50.000 euro una
+
+1698
+01:31:04,696 --> 01:31:08,789
+sola volta per avere un server pesante con un bell'equadro dentro,
+
+1699
+01:31:08,789 --> 01:31:21,050
+un processore come Cristocomanda e ripartire la potenza a seconda del carico di
+lavoro oppure spendere 10 volte tanto per le singole macchine una domanda bella,
+
+1700
+01:31:21,050 --> 01:31:26,000
+perché è una domanda che molte volte mi pongo anch'io,
+
+1701
+01:31:26,000 --> 01:31:30,000
+perché giustamente i costi,
+
+1702
+01:31:30,000 --> 01:31:37,802
+come abbiamo visto di una workstation sono altissimi tu tieni conto che ieri
+
+1703
+01:31:37,802 --> 01:31:45,807
+nell'ultima puntata del Tiraline la settimana scorsa ho raccolto le recensioni
+
+1704
+01:31:45,807 --> 01:31:53,408
+varie e ho raccontato del nuovo Lenovo P16 generazione 3 che full optional
+
+1705
+01:31:53,408 --> 01:32:00,602
+come le automobili e io ho definito la versione mi prostituisco perché
+
+1706
+01:32:00,602 --> 01:32:08,000
+arriva a 9000 euro cioè un portatile una workstation portatile 9000 euro,
+
+1707
+01:32:08,000 --> 01:32:26,000
+vabbè parliamo di macchine con l'i9 di ultima generazione 285HX
+con 192GB di ram l'hai detta bene quella non è un portatile,
+
+1708
+01:32:26,000 --> 01:32:42,000
+è una workstation una workstation 30 minuti la batteria però la cosa che tu
+stai proponendo è quello che credo che ormai è il mantra di questo periodo,
+
+1709
+01:32:42,000 --> 01:32:48,991
+cioè il cloud quindi le workstation in cloud o tu ti stai riferendo a una sala
+
+1710
+01:32:48,991 --> 01:32:55,983
+server on premise quindi in azienda perché il problema è la discussione che si
+
+1711
+01:32:55,983 --> 01:33:02,975
+ha sempre tra chi gente come me spinge per avere appunto un client così almeno
+
+1712
+01:33:02,975 --> 01:33:09,789
+uno non ho uno scaldotto sotto la scrivania che devo anche lì pulire fare la
+
+1713
+01:33:09,789 --> 01:33:16,604
+manutenzione che non fanno mai cioè i lami morti quello di mio collega c'era
+
+1714
+01:33:16,604 --> 01:33:23,242
+praticamente le coperte di lana dentro intorno al processore perché non le
+
+1715
+01:33:23,242 --> 01:33:29,702
+puliscono ma è qui indietro meglio è ancora senso spendere quindi per le
+
+1716
+01:33:29,702 --> 01:33:35,278
+workstation sulla scrivania o il cloud anche se anche lì mette
+
+1717
+01:33:35,278 --> 01:33:40,500
+paura perché è la macchina di qualcun altro insomma allora,
+
+1718
+01:33:40,500 --> 01:33:46,391
+la situazione è questa per quanto riguarda l'utente singolo io continuo a
+
+1719
+01:33:46,391 --> 01:33:52,840
+preferire la workstation o una workstation però per molti compiti visto che pure
+
+1720
+01:33:52,840 --> 01:33:59,130
+il mio come posso dirti una delle mie manie appunto lo storage dei dati io per
+
+1721
+01:33:59,130 --> 01:34:05,340
+esempio molto lo demando al cloud ma privato ok io ho domani se mi da lo dico
+
+1722
+01:34:05,340 --> 01:34:10,914
+sempre scherzo su diversi gruppi io spero di non avere mai l'immunità
+
+1723
+01:34:10,914 --> 01:34:14,735
+diplomatica e una fornitura di armi di quantità
+
+1724
+01:34:14,735 --> 01:34:18,000
+illimitata perché potrei fare una strage,
+
+1725
+01:34:18,000 --> 01:34:21,744
+potrei ridurre la popolazione mondiale perché i primi a ridurre
+
+1726
+01:34:21,744 --> 01:34:25,430
+sarebbero andare da google e compagni li sterminerei tutti per
+
+1727
+01:34:25,430 --> 01:34:29,350
+quanto mi riguarda perché per quello che stanno facendo a internet,
+
+1728
+01:34:29,350 --> 01:34:34,509
+al web e al mondo le big tech dovrebbero essere rasi al suolo a partire dalla
+
+1729
+01:34:34,509 --> 01:34:39,537
+parte alta perché la parte bassa poveracci sono dei dipendenti ecc non sono
+
+1730
+01:34:39,537 --> 01:34:44,895
+quelli che mettono le mani in pasta e non sono quelli che comandano ma io andrei
+
+1731
+01:34:44,895 --> 01:34:50,254
+a partire da chi comanda perché le scelte miopi e folli che si stanno facendo in
+
+1732
+01:34:50,254 --> 01:34:53,760
+questi anni credo che un pochino le stiamo iniziando
+
+1733
+01:34:53,760 --> 01:34:57,199
+a pagare ma in futuro le pagheremo molto più salato,
+
+1734
+01:34:57,199 --> 01:35:02,000
+cioè io da questo punto di vista sono aperto,
+
+1735
+01:35:02,000 --> 01:35:08,000
+nel senso per me a livello in generale come mentalità sono proprio open,
+
+1736
+01:35:08,000 --> 01:35:14,038
+però quando si tratta di dati e di lavoro non esiste cloud per quanto mi
+
+1737
+01:35:14,038 --> 01:35:20,242
+riguarda cioè dobbiamo tornare a mio modo di vedere anche perché se ne sta
+
+1738
+01:35:20,242 --> 01:35:26,115
+rendendo anche l'IT di alta gamma perché io perdo tempo tra virgolette
+
+1739
+01:35:26,115 --> 01:35:31,657
+nelle pause e bagno come si dice dalle mie parti vado a mandare un
+
+1740
+01:35:31,657 --> 01:35:37,199
+fax e torno sul reddit molti gruppi dove ci sono appunto ingegneri,
+
+1741
+01:35:37,199 --> 01:35:50,000
+architetti ecc all'alba del 2025 si stanno rendendo finalmente conto del
+fatto che il cloud è una cagata pazzesca come diceva Juan Tozzi e si,
+
+1742
+01:35:50,000 --> 01:35:56,273
+dopo soprattutto il down di AWS lascia perdere che quello lì ci sarebbe da
+
+1743
+01:35:56,273 --> 01:36:02,463
+parlare e bestemmiare tanto qualcuno ce n'è accorto ma anche prima perché
+
+1744
+01:36:02,463 --> 01:36:07,566
+purtroppo i colossi americani hanno fatto quello che Vannini
+
+1745
+01:36:07,566 --> 01:36:12,000
+dice spesso hanno utilizzato il loro effetto lock-in,
+
+1746
+01:36:12,000 --> 01:36:20,000
+cioè nel senso ti hanno attirato con dei costi bassi tanto loro potevano
+andare in perdita perché tanto Big Tech può fare una cosa che attenzione,
+
+1747
+01:36:20,000 --> 01:36:24,199
+non può fare nessuno al mondo perché se tu domani io,
+
+1748
+01:36:24,199 --> 01:36:25,100
+Giuseppe Pugliese,
+
+1749
+01:36:25,100 --> 01:36:25,300
+tu,
+
+1750
+01:36:25,300 --> 01:36:29,119
+Daniele Borghi apriamo un'azienda e bruciamo soldi,
+
+1751
+01:36:29,119 --> 01:36:36,000
+a noi ci chiudono e ci uccidono per quanto
+riguarda tra tasse non pagate l'Imbus,
+
+1752
+01:36:36,000 --> 01:36:42,000
+le condanne loro invece possono bruciare soldi e nessuno gli può dire niente,
+
+1753
+01:36:42,000 --> 01:36:48,000
+possono andare in perdita costante chat gpt OpenAI,
+
+1754
+01:36:48,000 --> 01:36:56,000
+tutte queste aziende a partire dall'intelligenza artificiale
+ma come Google all'inizio hanno bruciato miliardi per anni,
+
+1755
+01:36:56,000 --> 01:36:57,199
+sono state in perdita,
+
+1756
+01:36:57,199 --> 01:37:00,000
+perché loro se lo possono permettere,
+
+1757
+01:37:00,000 --> 01:37:08,000
+anche io domani se faccio il mio lavoro mi posso permettere di andare
+in perdita di fare il miglior lavoro del mondo tanto a mangiare mangio,
+
+1758
+01:37:08,000 --> 01:37:08,500
+in perdita posso andare,
+
+1759
+01:37:08,500 --> 01:37:12,000
+lo Stato non mi può dire nulla sono nel Far West,
+
+1760
+01:37:12,000 --> 01:37:24,000
+ti trovi il cloud si sono resi conto che appunto proprio questo loro ti
+hanno ti hanno fatto entrare in modo che tu passassi tutto sulla loro parte,
+
+1761
+01:37:24,000 --> 01:37:34,000
+hanno licenziato in masse tecnici ed è quello che sto vedendo su Reddit ce
+ne sono tantissimi che dicono a noi l'azienda ci è saltata ci sta saltando,
+
+1762
+01:37:34,000 --> 01:37:36,000
+perché salta Amazon,
+
+1763
+01:37:36,000 --> 01:37:39,119
+ci sono dei problemi ai ticket iniziano a non rispondere,
+
+1764
+01:37:39,119 --> 01:37:42,000
+se c'è un problema come il down di AWS,
+
+1765
+01:37:42,000 --> 01:37:50,000
+tu sei manda il ticket ad Amazon quelli hanno l'intera
+struttura down che se ne fregano che tu hai mandato il ticket,
+
+1766
+01:37:50,000 --> 01:37:54,000
+c'hanno 200.000 persone prima di te molto più importanti,
+
+1767
+01:37:54,000 --> 01:37:54,789
+cioè non so se mi spiego c'è sempre,
+
+1768
+01:37:54,789 --> 01:38:03,449
+è come dice il detto se tu entri in un diciamo in un posto per fare a
+botte troverai sicuramente qualcuno più grosso e più cazzuto di te,
+
+1769
+01:38:03,449 --> 01:38:06,644
+sempre è questo così nella vita cioè tu per quando vuoi
+
+1770
+01:38:06,644 --> 01:38:09,724
+essere il top del top ci sarà sempre qualcuno più top
+
+1771
+01:38:09,724 --> 01:38:12,689
+di te e si sono resi conto proprio di questo motivo,
+
+1772
+01:38:12,689 --> 01:38:19,199
+che il cloud è una farsa a tutti gli effetti quindi molti aziende,
+
+1773
+01:38:19,199 --> 01:38:22,988
+ovviamente i Reddit è in inglese e la maggior parte sono americani
+
+1774
+01:38:22,988 --> 01:38:26,381
+si stanno rendendo conto che tra il fatto che hanno dato il
+
+1775
+01:38:26,381 --> 01:38:30,000
+cloud ad Amazon e le tecnologie cinesi la situazione è qua e là,
+
+1776
+01:38:30,000 --> 01:38:34,000
+si sono trovati in un deserto sterminato tutti quelli che facevano gli E.T.
+
+1777
+01:38:34,000 --> 01:38:40,000
+sono andati a fare sono andati a lavorare da
+McDonald oppure al Brico Center come si suol dire,
+
+1778
+01:38:40,000 --> 01:38:41,199
+e adesso che hanno bisogno di personali E.T.
+
+1779
+01:38:41,199 --> 01:38:52,000
+perché vogliono rientrare on premise come dicevamo prima perché si sono resi
+conto che l'on premise ti dà appunto le chiavi in mano della tua azienda,
+
+1780
+01:38:52,000 --> 01:38:55,847
+altrimenti a te basta che ti salta WS l'azienda la puoi
+
+1781
+01:38:55,847 --> 01:38:59,901
+chiudere come siamo messi oggi e quindi vogliono ritornare
+
+1782
+01:38:59,901 --> 01:39:03,199
+on premise se non riescono a trovare tecnici Sì,
+
+1783
+01:39:03,199 --> 01:39:06,000
+vero perché anche,
+
+1784
+01:39:06,000 --> 01:39:08,000
+devo dirti la verità è una cosa,
+
+1785
+01:39:08,000 --> 01:39:14,000
+mentre tu parlavi appunto della possibilità di una server,
+
+1786
+01:39:14,000 --> 01:39:16,000
+cioè di una stanza server,
+
+1787
+01:39:16,000 --> 01:39:23,743
+di un reparto server all'interno di un'azienda io ti devo dire
+
+1788
+01:39:23,743 --> 01:39:31,363
+che ho visto negli anni perdersi la competenza ma soprattutto
+
+1789
+01:39:31,363 --> 01:39:38,000
+la competenza come manca quella cazzimma che muove te,
+
+1790
+01:39:38,000 --> 01:39:40,000
+muoveva me nel studiare,
+
+1791
+01:39:40,000 --> 01:39:50,000
+nel mantenere sempre efficiente il proprio mezzo il proprio
+hardware l'esempio che ti stavo dicendo prima appunto,
+
+1792
+01:39:50,000 --> 01:39:58,000
+io mi pulisco il mio computer perché non lo fa non lo fa perché insomma,
+
+1793
+01:39:58,000 --> 01:40:02,225
+lui dice che non è il suo compito ma dovrebbe essere il tuo compito
+
+1794
+01:40:02,225 --> 01:40:06,326
+perché dovresti mantenere in efficienza tutto il reparto macchina
+
+1795
+01:40:06,326 --> 01:40:10,489
+il reparto macchina e credo che questa cosa qua dell'on premise sì,
+
+1796
+01:40:10,489 --> 01:40:16,138
+spero che anch'io ritornerà soprattutto perché anch'io sono fautore di avere un
+
+1797
+01:40:16,138 --> 01:40:21,786
+team client sulla scrivania che mi faccia arrivare sulla macchina super cazzuta
+
+1798
+01:40:21,786 --> 01:40:27,505
+che è una che magari serve tre postazioni e ce la fa a bizè appunto una macchina
+
+1799
+01:40:27,505 --> 01:40:32,871
+da 9 mila euro una workstation desktop anche da 9-12 mila euro una sola che
+
+1800
+01:40:32,871 --> 01:40:38,519
+serve tre utenti e hai già recuperato ma perdonami se ti interrompo il Niang ma
+
+1801
+01:40:38,519 --> 01:40:44,026
+può costare anche 8 mila euro perché il problema è sempre quello quando tu ti
+
+1802
+01:40:44,026 --> 01:40:49,745
+prendi una workstation ed è anche diciamo una risposta alle domande eccetera sul
+
+1803
+01:40:49,745 --> 01:40:55,322
+bilanciamento gli errori che si fanno nella scelta di workstation e che noi in
+
+1804
+01:40:55,322 --> 01:41:00,971
+generale da persone purtroppo sovrastimiamo troppo e questa è una cosa che mi è
+
+1805
+01:41:00,971 --> 01:41:06,689
+capitato da vedere sovrastimiamo troppo la potenza nel senso che sti computer li
+
+1806
+01:41:06,689 --> 01:41:12,338
+prendiamo sempre troppo potenti ora che tu quello vuoi avere tra virgolette più
+
+1807
+01:41:12,338 --> 01:41:17,915
+grosso a casa tua ognuno con i suoi soldi fa quel che cacchio vuole a mio modo
+
+1808
+01:41:17,915 --> 01:41:23,422
+di vedere ma in azienda per un fattore di ottimizzazione io per questo spingo
+
+1809
+01:41:23,422 --> 01:41:28,929
+come visione ma a partire proprio dagli amministratori delle aziende spingete
+
+1810
+01:41:28,929 --> 01:41:34,578
+sull'on premise ma ancora più spinto di prima cioè nel senso il dipendente come
+
+1811
+01:41:34,578 --> 01:41:40,155
+il lavoratore come sei tu ma che sia per i software CAD per gli architetti con
+
+1812
+01:41:40,155 --> 01:41:45,803
+Roberto per qualsiasi cosa devono avere al massimo il mini pc ma io sarei anche
+
+1813
+01:41:45,803 --> 01:41:51,381
+oltre solo lo schermo tanto al giorno d'oggi gli schermi con il cavolan che ti
+
+1814
+01:41:51,381 --> 01:41:57,100
+fanno un minimo di visualizzazione ci sono e io già adesso l'ho fatto in aziende
+
+1815
+01:41:57,100 --> 01:42:02,607
+tu hai la parte server che è quella bella potente cazzuto organizzata con una
+
+1816
+01:42:02,607 --> 01:42:07,831
+bella rete fatta come Cristo comanda con i firewall con i NAS con le cose
+
+1817
+01:42:07,831 --> 01:42:13,056
+organizzate che hanno un costo ma che tu ti ammorti molto più velocemente
+
+1818
+01:42:13,056 --> 01:42:18,634
+rispetto che stare appresso giustamente a Daniele che si lamenta guarda il mio
+
+1819
+01:42:18,634 --> 01:42:24,000
+computer ha preso fuoco quindi devi chiamare l'IT a mettere a posto la cosa,
+
+1820
+01:42:24,000 --> 01:42:28,000
+ci sta la polvere ci stanno le cose e poi aggiorna Windows,
+
+1821
+01:42:28,000 --> 01:42:34,000
+Windows si scassa le situazioni quando tu c'hai una parte
+server e l'IT giustamente si occupa della parte server,
+
+1822
+01:42:34,000 --> 01:42:36,000
+tu c'hai che a livello hardware,
+
+1823
+01:42:36,000 --> 01:42:40,000
+l'hardware ce l'ha davanti quindi si sta prendendo fuoco se ne accorge,
+
+1824
+01:42:40,000 --> 01:42:44,000
+a fare le pulizie fa le pulizie diciamo di primavera,
+
+1825
+01:42:44,000 --> 01:42:48,134
+a livello di sistemi operativi può gestire i sistemi operativi in maniera
+
+1826
+01:42:48,134 --> 01:42:52,491
+centralizzata quindi ti fa installare lui gli aggiornamenti che dice e quelli
+
+1827
+01:42:52,491 --> 01:42:56,904
+sono macchine virtuali a tutti gli effetti quindi se mentre si sta aggiornando
+
+1828
+01:42:56,904 --> 01:43:01,094
+a te ti sta all'aria la macchina Daniele neanche se ne accorge passa dalla
+
+1829
+01:43:01,094 --> 01:43:05,117
+macchina A alla macchina B che è sempre Daniele con gli stessi dati lui
+
+1830
+01:43:05,117 --> 01:43:09,083
+neanche se ne accorge e poi tu degli IT diciamo bestemmie ti preoccupi
+
+1831
+01:43:09,083 --> 01:43:13,050
+a vedere che diavolo è successo su quella macchina virtuale c'è capito?
+
+1832
+01:43:13,050 --> 01:43:20,000
+Cambia proprio il paradigma solo che quando lo dici a questa
+versione dell'azienda pensi eh ma queste sono le aziende,
+
+1833
+01:43:20,000 --> 01:43:24,618
+le aziende che fatturano milioni di euro ma non è vero perché la tecnologia è
+
+1834
+01:43:24,618 --> 01:43:29,355
+vero che sta salendo di prezzo perché col fatto appunto dell'AI pure per quanto
+
+1835
+01:43:29,355 --> 01:43:33,973
+riguarda le configurazioni io vi sconsiglio adesso a farvi una configurazione
+
+1836
+01:43:33,973 --> 01:43:38,000
+perché la RAM per esempio se vedete ha fatto più 49% da mese a mese,
+
+1837
+01:43:38,000 --> 01:43:42,000
+gli hard disk più 67% quelli meccanici,
+
+1838
+01:43:42,000 --> 01:43:45,944
+cioè stiamo arrivando dei prezzi folli folli per fare i computer
+
+1839
+01:43:45,944 --> 01:43:49,706
+proprio perché quelli sono un buco nero che visto che i soldi
+
+1840
+01:43:49,706 --> 01:43:53,530
+se li stampano si stanno mangiando tutto ma per questo ti dico,
+
+1841
+01:43:53,529 --> 01:43:59,329
+visto che la tecnologia fatta con criterio
+è scesa tantissimo di prezzo dagli anni 90,
+
+1842
+01:43:59,329 --> 01:44:02,720
+mi volete dire che aziende che fatturavano tra molte virgolette,
+
+1843
+01:44:02,720 --> 01:44:04,000
+inflazione permettendo,
+
+1844
+01:44:04,000 --> 01:44:06,000
+molto di meno negli anni 90,
+
+1845
+01:44:06,000 --> 01:44:09,623
+potevano permettersi un reparto IT e una situazione di
+
+1846
+01:44:09,623 --> 01:44:13,576
+server di rack che noi oggi con una tecnologia 10.000 volte
+
+1847
+01:44:13,576 --> 01:44:17,200
+più potente degli anni 90 non possiamo più permetterci,
+
+1848
+01:44:17,199 --> 01:44:20,000
+allora mi state dicendo che è pigrizia,
+
+1849
+01:44:20,000 --> 01:44:23,449
+è pigrizia ed è stupidità sul lungo termine,
+
+1850
+01:44:23,449 --> 01:44:27,439
+allora se l'azienda un giorno chiude perché si blocca la cosa,
+
+1851
+01:44:27,439 --> 01:44:28,529
+Amazon AWS cade,
+
+1852
+01:44:28,529 --> 01:44:30,989
+oppure diciamo Daniele rompe le scatole,
+
+1853
+01:44:30,989 --> 01:44:35,270
+diventa freelancer e vi manda a quel paese
+perché dice almeno il computer me lo monto io,
+
+1854
+01:44:35,270 --> 01:44:38,000
+me lo gestisco io me lo configuro io,
+
+1855
+01:44:38,000 --> 01:44:42,000
+però fatturo anche io con tutto il rispetto arrivato a quel punto,
+
+1856
+01:44:42,000 --> 01:44:46,729
+voi non potrete dire niente ed è per questo che
+vi mando di vedere l'Italia come paese è morto,
+
+1857
+01:44:46,729 --> 01:44:52,000
+ma il problema è che una cosa che sto notando è che
+non me la voglio prendere io solo con l'Italia,
+
+1858
+01:44:52,000 --> 01:44:53,199
+non è solo in Italia questo problema,
+
+1859
+01:44:53,199 --> 01:44:54,619
+è diventato mondiale,
+
+1860
+01:44:54,619 --> 01:44:58,609
+cioè abbiamo esportato questa stupidità a livello mondiale,
+
+1861
+01:44:58,609 --> 01:45:08,000
+perché un po' tutti hanno fatto sto ragionamento e si stanno
+vedendo diciamo le famose crepe sul vaso e siamo nel 2025,
+
+1862
+01:45:08,000 --> 01:45:16,000
+io non oso immaginare in futuro cosa succederà ma guarda,
+
+1863
+01:45:16,000 --> 01:45:17,260
+io anche io trovo,
+
+1864
+01:45:17,260 --> 01:45:24,500
+la parola che hai usato tu è pigrizia perché è quella che sento e provo quando
+
+1865
+01:45:24,500 --> 01:45:31,648
+cerco di parlare cerco appunto anche io di spingere a qualcosa del genere che
+
+1866
+01:45:31,648 --> 01:45:38,705
+proponi te quindi un server o qualcosa che sia demandato a delle persone che
+
+1867
+01:45:38,705 --> 01:45:45,029
+tecnici specializzati insomma che non devo essere io a ricordarmi di
+
+1868
+01:45:45,029 --> 01:45:51,535
+farmi l'aggiornamento di Solidworks o l'aggiornamento di Windows e poi
+
+1869
+01:45:51,535 --> 01:45:57,951
+soprattutto anche gestirmi una certa sicurezza perché so benissimo se
+
+1870
+01:45:57,951 --> 01:46:03,999
+io riesco tramite Firewall tramite tutte le VPN e roba del genere,
+
+1871
+01:46:04,000 --> 01:46:10,308
+il tecnico IT sa benissimo cosa sta passando dal mio computer cioè dalla mia
+
+1872
+01:46:10,308 --> 01:46:16,452
+macchina virtuale o dall'estero e viceversa quindi un controllo secondo me
+
+1873
+01:46:16,452 --> 01:46:21,860
+anche di sicurezza dei dati e del know-how che le aziende cercano
+
+1874
+01:46:21,860 --> 01:46:26,529
+sempre di comunque proteggere no ma sì ma perché è ovvio,
+
+1875
+01:46:26,529 --> 01:46:30,000
+se tu c'hai un computer tuo comunque c'ha le porte USB,
+
+1876
+01:46:30,000 --> 01:46:34,000
+le cose tu non sai che cacchio ci attacchi che cacchio non ci attacchi,
+
+1877
+01:46:34,000 --> 01:46:38,000
+cioè tutte queste nozioni di sicurezza informatica nel 99%
+
+1878
+01:46:38,000 --> 01:46:42,067
+delle aziende non vengono gestite sono un poco alla carlona
+
+1879
+01:46:42,067 --> 01:46:46,000
+invece tu avendo tutto centralizzato in un sistema server,
+
+1880
+01:46:46,000 --> 01:46:46,750
+in un sistema rack,
+
+1881
+01:46:46,750 --> 01:46:50,000
+tu al modern non ci puoi collegare gli USB,
+
+1882
+01:46:50,000 --> 01:46:50,430
+non puoi trafugare dati,
+
+1883
+01:46:50,430 --> 01:47:00,979
+non puoi fare cose strane oppure se lo vuoi fare sei tra virgolette
+è molto più complicato per cui anche mantenere e gestire i dati,
+
+1884
+01:47:00,979 --> 01:47:02,000
+proteggere i dati,
+
+1885
+01:47:02,000 --> 01:47:04,000
+poi queste sono le classiche aziende,
+
+1886
+01:47:04,000 --> 01:47:06,000
+a me in generale mi fanno ridere che no,
+
+1887
+01:47:06,000 --> 01:47:07,199
+noi siamo all'avanguardia,
+
+1888
+01:47:07,199 --> 01:47:08,000
+tutti quanti,
+
+1889
+01:47:08,000 --> 01:47:08,770
+se vedi su loro sito web,
+
+1890
+01:47:08,770 --> 01:47:16,000
+a me fanno morire allora quando io trovo le aziende con i siti
+web dove c'hanno scritto leader di settore o all'avanguardia,
+
+1891
+01:47:16,000 --> 01:47:20,000
+a me già si accendono tutte le campanelle e i segnali d'allarme,
+
+1892
+01:47:20,000 --> 01:47:22,000
+quando tu scrivi siamo leader di settore,
+
+1893
+01:47:22,000 --> 01:47:22,989
+siamo all'avanguardia,
+
+1894
+01:47:22,989 --> 01:47:26,000
+sono tutti leader di settore tutta l'avanguardia,
+
+1895
+01:47:26,000 --> 01:47:29,249
+poi il primo dipendente che apre il pornazzo sbagliato gli arriva
+
+1896
+01:47:29,249 --> 01:47:32,302
+il cryptolocker e gli blocca l'azienda e io gli vorrei andare
+
+1897
+01:47:32,302 --> 01:47:35,010
+a mettere davanti all'azienda leader di settore guarda,
+
+1898
+01:47:35,010 --> 01:47:50,000
+purtroppo qualcuno sa dove lavoro perché magari ha visto il mio profilo linkedin
+ma purtroppo dico purtroppo perché è dal 2018 che cerco di di spingere,
+
+1899
+01:47:50,000 --> 01:47:59,199
+noi abbiamo il server nel sottoscala voi immaginate
+i video che fanno vedere le iene del sottoscala,
+
+1900
+01:47:59,199 --> 01:48:04,000
+delle poste con i server con tutti i server,
+
+1901
+01:48:04,000 --> 01:48:08,000
+tra l'altro nemmeno messi in ordine,
+
+1902
+01:48:08,000 --> 01:48:15,928
+con i cavi in ordine arrabbattati dico solamente questo sono due mesi che
+
+1903
+01:48:15,928 --> 01:48:23,964
+abbiamo non so cosa stia bippando c'è un bip continuo che passa attraverso
+
+1904
+01:48:23,964 --> 01:48:32,000
+quella porta non voglio sapere cosa sia nel senso perché non voglio sapere,
+
+1905
+01:48:32,000 --> 01:48:37,333
+ho avvisato ragazzi c'è qualcosa che bippa guardatelo voi
+
+1906
+01:48:37,333 --> 01:48:42,482
+purtroppo anche lì hanno prima dell'estate dato il buon
+
+1907
+01:48:42,482 --> 01:48:48,000
+servito al ragazzo IT che dicevano che era un costo inutile,
+
+1908
+01:48:48,000 --> 01:48:56,000
+quindi hanno demandato a un ente terzo esterno che
+naturalmente non ti interviene immediatamente,
+
+1909
+01:48:56,000 --> 01:49:04,000
+quindi passa il tempo perché naturalmente ha
+altri clienti quindi la chiamata passa o paghi,
+
+1910
+01:49:04,000 --> 01:49:05,079
+che ne so i 200,
+
+1911
+01:49:05,079 --> 01:49:14,234
+i 500 euro l'uscita extra o sennò altrimenti il cavolo quindi per dirti
+
+1912
+01:49:14,234 --> 01:49:22,625
+questo capisco benissimo e purtroppo credo anch'io che c'è questa
+
+1913
+01:49:22,625 --> 01:49:30,000
+mentalità di pigrizia di pensare che il sistema operativo,
+
+1914
+01:49:30,000 --> 01:49:36,603
+i server stanno su per sempre una volta che li hai accesi funzionano per sempre
+
+1915
+01:49:36,603 --> 01:49:42,795
+per l'eternità e invece ti accorgi poi l'AVS va giù va via la corrente hai
+
+1916
+01:49:42,795 --> 01:49:49,481
+praticamente l'UPS che ormai ha la batteria scarica e infatti non ti vorrei dire
+
+1917
+01:49:49,481 --> 01:49:56,085
+secondo me quel BIP è proprio una batteria morta di qualche UPS è possibile che
+
+1918
+01:49:56,085 --> 01:50:02,441
+sia morto un UPS quindi prima o poi andrà via la corrente e ci troveremo col
+
+1919
+01:50:02,441 --> 01:50:09,128
+server spento pace per tutti vorrà dire che starò lì a spimpolarmi il telefono a
+
+1920
+01:50:09,128 --> 01:50:15,814
+prendere un caffè bravissimo guarda allora io credo che siamo arrivati alla fine
+
+1921
+01:50:15,814 --> 01:50:21,840
+abbiamo guardato un po' tra l'altro se ci viene in mente o se anche agli
+
+1922
+01:50:21,840 --> 01:50:27,619
+ascoltatori gli è venuta qualche idea o anche qualche domanda qualche
+
+1923
+01:50:27,619 --> 01:50:33,810
+interrogativo che il buon Giuseppe ci ha fatto venire devo dirti la verità
+
+1924
+01:50:33,810 --> 01:50:39,423
+è stato un piacere averti qua io ti ringrazio innanzitutto è sempre
+
+1925
+01:50:39,423 --> 01:50:46,110
+divertentissimo devo dirti la verità per un nerd per un geek come me ascoltare i
+
+1926
+01:50:46,110 --> 01:50:52,631
+tuoi aneddoti che fanno storia perché in questo modo abbiamo toccato veramente
+
+1927
+01:50:52,631 --> 01:50:58,822
+tantissimi temi dall'hardware all'ottimizzazione abbiamo toccato un po' il
+
+1928
+01:50:58,822 --> 01:51:05,261
+futuro dell'intelligenza artificiale che credo che quello lì è un discorso un
+
+1929
+01:51:05,261 --> 01:51:11,782
+po' più ampio io l'avevo messo in scheretta ma è un discorso dell'intelligenza
+
+1930
+01:51:11,782 --> 01:51:18,304
+artificiale io al giorno d'oggi se posso darti un'ultima chiosa ne parlavo con
+
+1931
+01:51:18,304 --> 01:51:23,999
+un'altra persona che non so se conosci del gruppo Pensieri in Codice,
+
+1932
+01:51:24,000 --> 01:51:28,593
+Antonio Porcelli che pure abbazzica un po' in giro su altri gruppi io gli
+
+1933
+01:51:28,593 --> 01:51:33,248
+ho detto esattamente queste parole non vedo l'ora che questa bolla esploda
+
+1934
+01:51:33,248 --> 01:51:37,655
+perché finalmente potrò comprarmi gli harddisk per il server nuovo per
+
+1935
+01:51:37,655 --> 01:51:42,000
+dirti come la penso perché effettivamente siamo arrivando all'assurdo,
+
+1936
+01:51:42,000 --> 01:51:48,218
+siamo al limite questa cosa pure delle AI in casa ok in casa ok per quanto
+
+1937
+01:51:48,218 --> 01:51:54,935
+riguarda chat gpt e compagni rimando il discorso che abbiamo fatto poco tempo fa
+
+1938
+01:51:54,935 --> 01:52:01,568
+del cloud quando sei già come persona singola io tra virgolette utilizzo questa
+
+1939
+01:52:01,568 --> 01:52:08,119
+parola forte mi caccherei sotto a caricare dei dati miei su una AI figuriamoci
+
+1940
+01:52:08,119 --> 01:52:14,255
+un'azienda infatti poi dopo era un discorso che poi è un po' più ampio ne
+
+1941
+01:52:14,255 --> 01:52:20,888
+abbiamo già parlato anche con Roberto le società software legacy dei CAD stanno
+
+1942
+01:52:20,888 --> 01:52:27,522
+spingendo tantissimo ma stanno violando alcuni concetti di privacy no ma perché
+
+1943
+01:52:27,522 --> 01:52:33,741
+io ascolto sia te sia Roberto ed effettivamente io la prima domanda che mi
+
+1944
+01:52:33,741 --> 01:52:40,457
+chiedo quando ascolto le vostre puntate giustamente di aggiornamento su software
+
+1945
+01:52:40,457 --> 01:52:44,935
+CAD ma già il cloud che vi fanno pagare per mettere i
+
+1946
+01:52:44,935 --> 01:52:49,329
+progetti non so se mi sono capito ma perché per cosa,
+
+1947
+01:52:49,329 --> 01:52:50,000
+come,
+
+1948
+01:52:50,000 --> 01:52:56,838
+con che privacy ma siete pazzi eh si si ma guarda l'ho detto anche con quando
+
+1949
+01:52:56,838 --> 01:53:03,852
+siamo sentiti io la puntata di Linee Imperfette con con Roberto dove ero ospite
+
+1950
+01:53:03,852 --> 01:53:10,515
+anch'io e già ti dico che Autodesk l'ha a mezzo dichiarato a mezza voce che
+
+1951
+01:53:10,515 --> 01:53:17,353
+molte feature nuove dell'intelligenza artificiale in pratica ha rubato si può
+
+1952
+01:53:17,353 --> 01:53:23,753
+dire le un sacco di progetti e di loro dicono che hanno preso come viene
+
+1953
+01:53:23,753 --> 01:53:30,854
+utilizzato il software o come ad esempio la stessa scusa di Windows con la scusa
+
+1954
+01:53:30,854 --> 01:53:37,868
+della telemetria di OpenAI o di OpenAI e quindi le stesse scuse insomma vediamo
+
+1955
+01:53:37,868 --> 01:53:44,969
+sempre che dicono sempre la stessa cosa ma ci hai dato tu il permesso perché poi
+
+1956
+01:53:44,969 --> 01:53:51,983
+tra l'altro autocad web o 3D experience di SolidWorks che è tutto in cloud e ti
+
+1957
+01:53:51,983 --> 01:53:59,084
+dicono ma tu hai firmato la eula per quello dico ci fregano sempre con la stessa
+
+1958
+01:53:59,084 --> 01:54:06,098
+cosa con la comodità il germe che voglio instillare infatti l'ultima puntata di
+
+1959
+01:54:06,098 --> 01:54:13,199
+Glitch è stata ci ho messo un mese a scriverla ed è stata focalizzata proprio su
+
+1960
+01:54:13,199 --> 01:54:20,301
+questo grazie instaurare questo germe all'alba del 2025 e lo potevo capire negli
+
+1961
+01:54:20,301 --> 01:54:27,227
+anni 80 dove la cultura tra virgolette era preclusa la maggior parte ma adesso
+
+1962
+01:54:27,227 --> 01:54:33,539
+che abbiamo veniamo continuamente bombardati da informazioni e possiamo
+
+1963
+01:54:33,539 --> 01:54:39,413
+cercare tutto di tutto la comodità non è più un'opzione per quanto
+
+1964
+01:54:39,413 --> 01:54:45,200
+mi riguarda cioè nel senso non ti devi far fregare dalla comodità,
+
+1965
+01:54:45,199 --> 01:54:52,000
+dalla pigrizia devi capire che cosa stai utilizzando
+devi capire la macchina che stai utilizzando,
+
+1966
+01:54:52,000 --> 01:54:57,050
+devi capire cosa stai facendo perché altrimenti stai implicitamente dicendo che
+
+1967
+01:54:57,050 --> 01:55:02,101
+se non ti vuoi anche informare anche un minimo di queste cose è come con Google
+
+1968
+01:55:02,101 --> 01:55:06,710
+quando tutto è gratis il prodotto se tu stai automaticamente dicendo che
+
+1969
+01:55:06,710 --> 01:55:11,760
+qualsiasi cosa succederà a te o in futuro significa che quella cosa te la sarai
+
+1970
+01:55:11,760 --> 01:55:16,685
+andata a cercare a partire dal fatto che tutte le informazioni che carichi su
+
+1971
+01:55:16,685 --> 01:55:21,736
+chat.gpt un domani magari l'assicurazione ti si alza oppure a livello di premio
+
+1972
+01:55:21,736 --> 01:55:26,850
+non ti vorranno fare l'assicurazione oppure ti faranno pagare il ticket più alto
+
+1973
+01:55:26,850 --> 01:55:31,774
+per le analisi perché hanno saputo da OpenAI che tu ci hai caricato magari le
+
+1974
+01:55:31,774 --> 01:55:36,762
+analisi dicendo perché ho la glicemia alta e quindi hanno quel dato che poi si
+
+1975
+01:55:36,762 --> 01:55:41,812
+sono venduti automaticamente significa che se qualcosa tra virgolette di male o
+
+1976
+01:55:41,812 --> 01:55:45,032
+di peggio ti capiterà te lo sarai andato a cercare
+
+1977
+01:55:45,032 --> 01:55:48,000
+perché ti sei impiccato con le tue stesse mani.
+
+1978
+01:55:48,000 --> 01:55:54,099
+E detto questo con questa chiosa con questo epitaffio di Giuseppe io
+
+1979
+01:55:54,099 --> 01:56:00,729
+naturalmente vi lascerò i link di Giuseppe nelle descrizioni dell'episodio
+
+1980
+01:56:00,729 --> 01:56:07,093
+quindi nel sito web dove potete trovare anche il toolkit di cui abbiamo
+
+1981
+01:56:07,093 --> 01:56:13,723
+accennato ma andatevelo a scaricare perché è molto molto utile per Windows
+
+1982
+01:56:13,723 --> 01:56:20,000
+poi lì ci sono appunto tutte le descrizioni di cosa fai e cosa non fai.
+
+1983
+01:56:20,000 --> 01:56:22,000
+Giuseppe,
+
+1984
+01:56:22,000 --> 01:56:27,318
+grazie a te per essere stato con noi e naturalmente grazie anche a
+
+1985
+01:56:27,318 --> 01:56:32,556
+chi ci ha ascoltato che è arrivato fino alla fine di queste quasi
+
+1986
+01:56:32,556 --> 01:56:37,239
+due ore e di essere parte di questo programma del Tiralini.
+
+1987
+01:56:37,239 --> 01:56:44,000
+Ci sentiamo al prossimo episodio tra sempre una
+linea e l'altra e tutti voi lunga vita e prosperità.
+
+1988
+01:56:44,000 --> 01:56:50,000
+Top!
+
+1989
+01:56:50,000 --> 01:56:52,000
+Perfetto!
+
