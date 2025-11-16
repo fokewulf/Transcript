@@ -1,0 +1,2525 @@
+1
+00:00:03,500 --> 00:00:07,500
+Benvenuti in questo canale dedicato alla proiezione ortogonale,
+
+2
+00:00:07,500 --> 00:00:10,710
+al magico mondo delle toleranze e ai fantastici render 3d.
+
+3
+00:00:10,710 --> 00:00:11,710
+Sono Daniele Borghi,
+
+4
+00:00:11,710 --> 00:00:13,849
+disegnatore tecnico CAD 3D e podcaster.
+
+5
+00:00:13,849 --> 00:00:21,339
+Preparatevi a salire a bordo perché qui non siamo solo
+appassionati di disegno tecnico ma anche di tecnologia.
+
+6
+00:00:22,500 --> 00:00:23,579
+Questo è il Tiralinie,
+
+7
+00:00:23,579 --> 00:00:26,500
+il podcast che vi porterà in un viaggio
+affascinante attraverso il mondo del CAD,
+
+8
+00:00:26,500 --> 00:00:28,589
+condividendo esperienze,
+
+9
+00:00:28,589 --> 00:00:30,500
+consigli e tante notizie.
+
+10
+00:00:30,500 --> 00:00:32,509
+Siete pronti?
+
+11
+00:00:32,509 --> 00:00:33,500
+Allacciate le cinture!
+
+12
+00:00:33,500 --> 00:00:37,500
+La nostra destinazione è la creatività e la passione per il disegno tecnico.
+
+13
+00:00:48,500 --> 00:00:49,670
+Bentornati amici tiralini!
+
+14
+00:00:49,670 --> 00:00:52,320
+Siamo all'episodio numero 133.
+
+15
+00:00:52,320 --> 00:00:54,060
+Siete pronti per il Black Friday?
+
+16
+00:00:54,060 --> 00:00:57,140
+Avete già lucidato le vostre carte di credito?
+
+17
+00:00:57,140 --> 00:00:57,659
+Bene,
+
+18
+00:00:57,659 --> 00:00:58,919
+bravi ragazzi,
+
+19
+00:00:58,920 --> 00:00:59,520
+molto bene!
+
+20
+00:00:59,519 --> 00:01:02,159
+A parte aspettare alcune occasioni,
+
+21
+00:01:02,159 --> 00:01:05,340
+che ho salvato nel mio carrello e nelle mie liste Amazon,
+
+22
+00:01:05,340 --> 00:01:07,250
+sto attendendo anche,
+
+23
+00:01:07,250 --> 00:01:08,569
+se non sbaglio,
+
+24
+00:01:08,569 --> 00:01:16,250
+attenderemo insieme un evento Apple per le ultime sorprese
+di fine anno per quanto riguarda il nuovo hardware,
+
+25
+00:01:16,250 --> 00:01:22,390
+quindi molto probabilmente verranno presentati
+una serie di dispositivi basati sul chip M5,
+
+26
+00:01:22,390 --> 00:01:23,740
+l'Apple Silicon,
+
+27
+00:01:23,740 --> 00:01:29,980
+che dovrebbe rappresentare un ulteriore passo avanti
+per l'efficienza energetica e potenza di calcolo.
+
+28
+00:01:29,979 --> 00:01:36,340
+E sicuramente i keynotters saranno lì con voi a commentare questo evento Apple.
+
+29
+00:01:40,000 --> 00:01:43,040
+giusto per fare un po' di autopromozione,
+
+30
+00:01:43,040 --> 00:01:46,640
+e naturalmente anche dare una mano al canale YouTube di Roberto Marin,
+
+31
+00:01:46,640 --> 00:01:49,079
+l'avete già conosciuto,
+
+32
+00:01:49,079 --> 00:01:49,840
+vero?
+
+33
+00:01:49,840 --> 00:01:54,240
+Abbiamo insieme fatto una puntata di Linee Imperfette,
+
+34
+00:01:54,239 --> 00:01:56,719
+dove abbiamo parlato di CAD,
+
+35
+00:01:56,719 --> 00:01:57,519
+come al solito,
+
+36
+00:01:57,519 --> 00:01:59,609
+ma soprattutto di NeuralCAD,
+
+37
+00:01:59,609 --> 00:02:05,260
+di Autodesk e delle sue implementazioni e di
+quello che potrebbe diventare nel futuro,
+
+38
+00:02:05,260 --> 00:02:08,439
+per aiutarci nei nostri workflow di progettazione.
+
+39
+00:02:08,439 --> 00:02:11,169
+La cosa interessante di questa puntata è che,
+
+40
+00:02:11,170 --> 00:02:15,240
+oltre ad essere come al solito un formato audio del suo podcast,
+
+41
+00:02:15,240 --> 00:02:19,850
+la potete trovare anche in formato video sul suo canale YouTube,
+
+42
+00:02:19,849 --> 00:02:20,569
+come detto prima,
+
+43
+00:02:20,569 --> 00:02:21,430
+e naturalmente,
+
+44
+00:02:21,430 --> 00:02:22,129
+finalmente,
+
+45
+00:02:22,129 --> 00:02:23,840
+potete vedere il mio faccione.
+
+46
+00:02:23,840 --> 00:02:27,319
+Vi lascerò poi il link in descrizione.
+
+47
+00:02:27,319 --> 00:02:29,139
+Diciamo che fa parte,
+
+48
+00:02:29,139 --> 00:02:29,750
+questo,
+
+49
+00:02:29,750 --> 00:02:30,560
+insieme,
+
+50
+00:02:30,560 --> 00:02:34,719
+di un esperimento che spero che poi finirà anche su questo canale,
+
+51
+00:02:34,719 --> 00:02:42,159
+dove il sottoscritto si sta preparando per potervi
+offrire anche un tiralinee con un'esperienza più visiva.
+
+52
+00:02:46,000 --> 00:02:47,080
+E detto questo,
+
+53
+00:02:47,080 --> 00:02:49,150
+iniziamo con l'episodio di questa settimana,
+
+54
+00:02:49,150 --> 00:02:54,789
+dove vi parlerò della scelta strategica tra AutoCAD e AutoCAD LT,
+
+55
+00:02:54,789 --> 00:02:59,000
+un dilemma che molti professionisti affrontano molto spesso.
+
+56
+00:02:59,000 --> 00:03:04,800
+Verrà approfondita poi la potenzialità della
+personalizzazione dell'interfaccia di DropSight,
+
+57
+00:03:04,800 --> 00:03:07,660
+che è il concorrente naturale di AutoCAD,
+
+58
+00:03:07,659 --> 00:03:12,609
+che è uno strumento che può trasformare la vostra produttività.
+
+59
+00:03:12,610 --> 00:03:19,020
+E infine analizzeremo la nuova generazione di
+workstation mobili Lenovo ThinkPad P16 generazione 3,
+
+60
+00:03:19,020 --> 00:03:23,460
+che promette di portare prestazioni da desktop ovunque voi andate.
+
+61
+00:03:23,460 --> 00:03:26,650
+Vi anticipo un dato che mi ha particolarmente colpito.
+
+62
+00:03:26,650 --> 00:03:29,770
+L'integrazione dell'intelligenza artificiale,
+
+63
+00:03:29,770 --> 00:03:32,240
+partendo già da AutoCAD 2024,
+
+64
+00:03:32,240 --> 00:03:38,340
+consente di risparmiare fino a 10-15 minuti per ogni sessione di modifica,
+
+65
+00:03:38,340 --> 00:03:41,689
+grazie a funzionalità come MarkUpAssist.
+
+66
+00:03:41,689 --> 00:03:48,520
+E questo è un solo assaggio di come la tecnologia
+sta accelerando i nostri workflow quotidiani.
+
+67
+00:03:48,520 --> 00:03:52,540
+Quindi preparatevi a scoprire come questi argomenti,
+
+68
+00:03:52,540 --> 00:03:54,250
+apparentemente distinti,
+
+69
+00:03:54,250 --> 00:04:00,120
+si intrecciano per creare un ecosistema CAD sempre più efficiente e potente.
+
+70
+00:04:03,500 --> 00:04:06,500
+Quando apri per la prima volta un software CAD,
+
+71
+00:04:06,500 --> 00:04:09,500
+ti trovi di fronte a un universo di possibilità.
+
+72
+00:04:09,500 --> 00:04:16,500
+AutoCAD e AutoCAD LT rappresentano due diversi
+approcci alla progettazione assistita da computer.
+
+73
+00:04:16,500 --> 00:04:26,500
+E comprendere quale sia il più adatto alle proprie esigenze può fare la
+differenza tra un investimento oculato oppure uno spreco di risorse.
+
+74
+00:04:30,500 --> 00:04:35,500
+AutoCAD e AutoCAD RT condividono lo stesso nucleo di funzionalità di disegno 2D.
+
+75
+00:04:35,500 --> 00:04:37,500
+Ma la somiglianza termina qui.
+
+76
+00:04:37,500 --> 00:04:38,500
+Basta.
+
+77
+00:04:38,500 --> 00:04:39,050
+Stop.
+
+78
+00:04:39,050 --> 00:04:42,500
+Non c'è nient'altro che li accomuna.
+
+79
+00:04:42,500 --> 00:04:49,500
+Perché AutoCAD offre un ecosistema completo che abbraccia sia il 2D che il 3D,
+
+80
+00:04:49,500 --> 00:04:55,500
+con capacità di modellazione tridimensionale
+attraverso solidi superfici e oggetti mesh.
+
+81
+00:04:55,500 --> 00:04:56,750
+Al contrario,
+
+82
+00:04:56,750 --> 00:05:01,500
+AutoCAD RT si concentra esclusivamente sul drafting 2D,
+
+83
+00:05:01,500 --> 00:05:06,500
+pur mantenendo alcune limitate capacità di visualizzazione 3D,
+
+84
+00:05:06,500 --> 00:05:11,500
+principalmente attraverso viste isometriche
+2D che simulano la tridimensionalità,
+
+85
+00:05:11,500 --> 00:05:15,500
+senza però permetterne la manipolazione fluida.
+
+86
+00:05:15,500 --> 00:05:23,500
+La distinzione più profonda però risiede nelle capacità
+di automazione e personalizzazione dei due software.
+
+87
+00:05:23,500 --> 00:05:29,500
+AutoCAD offre un arsenale completo di strumenti
+per estendere le funzionalità del software.
+
+88
+00:05:29,500 --> 00:05:30,670
+API avanzate,
+
+89
+00:05:30,670 --> 00:05:33,500
+supporto completo per l'autolisp,
+
+90
+00:05:33,500 --> 00:05:34,500
+importantissimo,
+
+91
+00:05:34,500 --> 00:05:41,500
+con molti ambienti di debugging specializzati e la
+possibilità di creare routine discipline specifiche.
+
+92
+00:05:41,500 --> 00:05:50,500
+Questi strumenti permettono ai professionisti di trasformare AutoCAD
+in un vero strumento su misura per le proprie esigenze specifiche.
+
+93
+00:05:50,500 --> 00:05:56,500
+La rivoluzione significativa è arrivata con l'allora AutoCAD LT 2024,
+
+94
+00:05:56,500 --> 00:06:00,500
+che ha introdotto un supporto per autolisp.
+
+95
+00:06:00,500 --> 00:06:05,500
+Questa aggiunta rappresenta un cambio di
+strategia fondamentale da parte di Autodesk,
+
+96
+00:06:05,500 --> 00:06:14,250
+perché per la prima volta gli utenti di AutoCAD LT possono caricare
+programmi autolisp attraverso il comando load application,
+
+97
+00:06:14,250 --> 00:06:20,500
+aprendo le porte a migliaia di automazioni
+precedentemente riservate alla versione completa.
+
+98
+00:06:20,500 --> 00:06:24,500
+Questo significa che routine per la numerazione automatica,
+
+99
+00:06:24,500 --> 00:06:31,500
+l'esportazione di dati verso Excel e molte altre automazioni
+personalizzate diventano accessibili per gli utenti LT.
+
+100
+00:06:31,500 --> 00:06:35,500
+Però molti di voi in questo momento si staranno domandando,
+
+101
+00:06:35,500 --> 00:06:37,500
+ma chi diavolo è questo autolisp?
+
+102
+00:06:37,500 --> 00:06:41,947
+Autolisp è un linguaggio di programmazione basato sull'ISP che è
+
+103
+00:06:41,947 --> 00:06:46,257
+sviluppato specificatamente per automatizzare e personalizzare
+
+104
+00:06:46,257 --> 00:06:50,500
+processi all'interno di software CAD come AutoCAD e DriveSite.
+
+105
+00:06:50,500 --> 00:06:53,789
+Con Autolisp si possono creare routine,
+
+106
+00:06:53,789 --> 00:07:00,500
+script e comandi personalizzati che aiutano a svolgere
+compiti ripetitivi come la numerazione automatica,
+
+107
+00:07:00,500 --> 00:07:03,500
+la gestione dei layer o la modifica di oggetti,
+
+108
+00:07:03,500 --> 00:07:06,500
+senza per questo doverli eseguire manualmente ogni volta.
+
+109
+00:07:10,500 --> 00:07:15,802
+La versione di AutoCAD 2024 Allora ha introdotto funzionalità basate su machine
+
+110
+00:07:15,802 --> 00:07:21,037
+learning che stanno trasformando il modo in cui i professionisti interagiscono
+
+111
+00:07:21,037 --> 00:07:26,339
+con il software e l'implementazione è andata avanti con la versione 2025 e 2026.
+
+112
+00:07:26,339 --> 00:07:29,818
+Infatti ormai le Smart Blocks Replacement utilizzano
+
+113
+00:07:29,818 --> 00:07:33,624
+degli algoritmi di apprendimento automatico per suggerire
+
+114
+00:07:33,624 --> 00:07:37,300
+blocchi simili quando si deve sostituirne uno esistente,
+
+115
+00:07:37,300 --> 00:07:43,540
+quindi analizzando sia i blocchi utilizzati di recente
+sia quelli sostituiti manualmente in precedenza.
+
+116
+00:07:43,540 --> 00:07:49,379
+Questo elimina il tempo speso a cercare manualmente
+i blocchi nel disegno o a sostituire a ogni istanza.
+
+117
+00:07:49,379 --> 00:07:56,659
+Abbiamo poi il Markup Assist che rappresenta un
+altro salto di qualità nella collaborazione.
+
+118
+00:07:56,659 --> 00:08:02,939
+Questa funzionalità usa il machine learning per
+identificare annotazioni scritte a mano o digitali su pdf,
+
+119
+00:08:02,939 --> 00:08:08,100
+riconoscendo ed eseguendo determinate istruzioni nel testo delle annotazioni.
+
+120
+00:08:08,100 --> 00:08:11,750
+Il sistema è in grado di rilevare comandi come move,
+
+121
+00:08:11,750 --> 00:08:12,930
+copy o erase,
+
+122
+00:08:12,930 --> 00:08:14,970
+cancella per intenderci,
+
+123
+00:08:14,970 --> 00:08:20,220
+direttamente dalle note scritte trasformandole automaticamente in azioni CAD.
+
+124
+00:08:23,750 --> 00:08:26,519
+Secondo Brett Gravholdt,
+
+125
+00:08:26,519 --> 00:08:29,750
+coordinatore del drafting presso l'Electronic Contracting Company,
+
+126
+00:08:29,750 --> 00:08:41,919
+Markup Import e Markup Assist in AutoCAD 2024 o 2026 gli fanno
+risparmiare dai 10 ai 15 minuti per ogni sezione di modifica e revisione.
+
+127
+00:08:41,919 --> 00:08:47,209
+E poi abbiamo la funzione Smart Blocks Placement
+che porta l'automazione a un nuovo livello,
+
+128
+00:08:47,210 --> 00:08:51,669
+inferendo la posizione del prossimo blocco basandosi su dove ha inserito
+
+129
+00:08:51,669 --> 00:08:56,129
+gli stessi blocchi precedentemente nello stesso file dvg e questo riduce
+
+130
+00:08:56,129 --> 00:08:59,000
+significatamente il numero di click necessario
+
+131
+00:08:59,000 --> 00:09:01,750
+accelerando tutto un processo di inserimento.
+
+132
+00:09:01,750 --> 00:09:12,149
+Una delle caratteristiche meno pubblicizzate ma più potenti di
+AutoCAD è l'inclusione di sette toolset specifici per settore.
+
+133
+00:09:12,149 --> 00:09:13,909
+Abbiamo Architecture,
+
+134
+00:09:13,909 --> 00:09:14,949
+Mechanical,
+
+135
+00:09:14,950 --> 00:09:15,820
+Electrical,
+
+136
+00:09:15,820 --> 00:09:16,070
+il Map,
+
+137
+00:09:16,070 --> 00:09:16,750
+cioè il Mechanical,
+
+138
+00:09:16,750 --> 00:09:18,750
+Electrical e Plugging,
+
+139
+00:09:18,750 --> 00:09:19,789
+Plant 3D,
+
+140
+00:09:19,789 --> 00:09:24,853
+Map 3D e Raster Design che non sono dei semplici plug-in ma sono dei
+
+141
+00:09:24,853 --> 00:09:29,769
+propri veri software specializzati integrati nella licenza AutoCAD
+
+142
+00:09:29,769 --> 00:09:34,759
+che possono incrementare drasticamente la produttività fornendo una
+
+143
+00:09:34,759 --> 00:09:39,750
+gamma di capacità su misura per il vostro ruolo o il vostro settore.
+
+144
+00:09:39,750 --> 00:09:42,750
+Immaginate di lavorare nel settore architettonico,
+
+145
+00:09:42,750 --> 00:09:47,220
+l'Architecture Toolset fornisce oltre 750 simboli,
+
+146
+00:09:47,220 --> 00:09:51,750
+parti e componenti dettagliati specifici per l'architettura.
+
+147
+00:09:51,750 --> 00:09:56,773
+Chi lavora in ambito meccanico abbiamo il Mechanical Toolset che offre strumenti
+
+148
+00:09:56,773 --> 00:10:01,548
+dedicati alla creazione di progetti meccanici intricati permettendo anche di
+
+149
+00:10:01,548 --> 00:10:05,641
+trasformare schizzi 2D in solidi 3D e combinare forme 3D semplici
+
+150
+00:10:05,641 --> 00:10:09,610
+per crearne più complesse e assemblare moltiplici componenti 3D.
+
+151
+00:10:09,610 --> 00:10:12,832
+Questi toolset non sono disponibili in AutoCAD RT
+
+152
+00:10:12,832 --> 00:10:16,249
+rappresentando quindi un differenziale significativo
+
+153
+00:10:16,249 --> 00:10:19,729
+tra i professionisti che operano in settori specifici.
+
+154
+00:10:19,730 --> 00:10:24,270
+La presenza di questi strumenti può giustificare da sola
+
+155
+00:10:24,270 --> 00:10:29,289
+l'investimento nella versione completa di AutoCAD specialmente
+
+156
+00:10:29,289 --> 00:10:33,750
+per studi tecnici che gestiscono workflow specializzati.
+
+157
+00:10:33,750 --> 00:10:34,509
+Il prezzo,
+
+158
+00:10:34,509 --> 00:10:37,750
+perché poi alla fine parliamo sempre di questo,
+
+159
+00:10:37,750 --> 00:10:40,200
+è ovviamente un fattore determinante.
+
+160
+00:10:40,200 --> 00:10:44,860
+AutoCAD RT si posiziona come la soluzione più economica,
+
+161
+00:10:44,860 --> 00:10:51,750
+tendenzialmente adatta a professionisti che lavorano
+principalmente su progetti 2D con un bilancio limitato.
+
+162
+00:10:51,750 --> 00:10:56,750
+AutoCAD RT credo che sia il must-have per ogni freelance alle prime armi.
+
+163
+00:10:56,750 --> 00:11:01,690
+Tuttavia è cruciale considerare che il costo nel contesto del ROI,
+
+164
+00:11:01,690 --> 00:11:03,750
+del ritorno dell'investimento,
+
+165
+00:11:03,750 --> 00:11:04,909
+a lungo termine.
+
+166
+00:11:04,909 --> 00:11:08,509
+Le capacità avanzate di automazione e personalizzazione di
+
+167
+00:11:08,509 --> 00:11:12,414
+AutoCAD possono ridurre i tempi di completamento dei progetti e
+
+168
+00:11:12,414 --> 00:11:16,379
+migliorare quindi poi la qualità del lavoro e ridurre gli errori.
+
+169
+00:11:16,379 --> 00:11:17,110
+Certo però,
+
+170
+00:11:17,110 --> 00:11:21,750
+l'introduzione dell'AutoLispe in AutoCAD RT ha ridotto questo margine.
+
+171
+00:11:26,250 --> 00:11:30,409
+Entrambe le versioni offrono dei trial
+gratuiti di 15 giorni con funzioni complete,
+
+172
+00:11:30,409 --> 00:11:34,009
+permettendo quindi di testare il software prima dell'acquisto.
+
+173
+00:11:34,009 --> 00:11:40,189
+Per esigenze a breve termine o per membri del team
+che utilizzano il software solo occasionalmente,
+
+174
+00:11:40,190 --> 00:11:48,090
+Autodesk Flex offre un'opzione Pay As You Go con token
+prepagati per accedere al software a una tariffa giornaliera.
+
+175
+00:11:48,090 --> 00:11:51,480
+Un aspetto interessante alla gestione delle licenze.
+
+176
+00:11:51,480 --> 00:11:59,070
+Con una sottoscrizione AutoCAD o AutoCAD LT si possono
+installare software fino a tre computer o dispositivi,
+
+177
+00:11:59,070 --> 00:12:05,470
+anche se solo l'utente nominato può accedere e utilizzare
+il software su un singolo computer in un dato momento.
+
+178
+00:12:05,470 --> 00:12:06,330
+Inoltre,
+
+179
+00:12:06,330 --> 00:12:10,680
+la sottoscrizione ti dà accesso alle tre versioni precedenti del software,
+
+180
+00:12:10,679 --> 00:12:14,169
+offrendo quindi una flessibilità nella gestione degli aggiornamenti.
+
+181
+00:12:14,169 --> 00:12:20,359
+Sia AutoCAD che AutoCAD LT supportano la
+collaborazione attraverso la piattaforma desktop,
+
+182
+00:12:20,360 --> 00:12:21,350
+web e mobile,
+
+183
+00:12:21,350 --> 00:12:24,129
+permettendo di condividere i file dvg,
+
+184
+00:12:24,129 --> 00:12:26,259
+sia quelli 2D che quelli 3D,
+
+185
+00:12:26,259 --> 00:12:27,659
+ovunque vi troviate.
+
+186
+00:12:27,659 --> 00:12:31,419
+Questa capacità multipiattaforma consente di catturare,
+
+187
+00:12:31,419 --> 00:12:33,799
+condividere e rivedere idee in mobilità,
+
+188
+00:12:33,799 --> 00:12:38,240
+sincronizzando istantaneamente le modifiche su tutti i dispositivi.
+
+189
+00:12:38,240 --> 00:12:42,639
+AutoCAD però offre l'integrazione anche con Autodesk Docs,
+
+190
+00:12:42,639 --> 00:12:46,649
+che è un ambiente di gestione documentale basato sul cloud,
+
+191
+00:12:46,649 --> 00:12:48,909
+che fa parte del Hike Collection.
+
+192
+00:12:48,909 --> 00:12:54,589
+Questo strumento permette di gestire i dati
+di progetto attraverso progetti multipli,
+
+193
+00:12:54,590 --> 00:13:02,000
+fornendo un common data per la collaborazione
+in team distribuiti in giro per il mondo.
+
+194
+00:13:02,000 --> 00:13:05,919
+Come scegliere quindi tra AutoCAD e AutoCAD LT?
+
+195
+00:13:05,919 --> 00:13:11,969
+La risposta dipende da una valutazione onesta delle vostre esigenze progettuali.
+
+196
+00:13:11,970 --> 00:13:16,110
+Se i vostri progetti coinvolgono disegni 3D complessi,
+
+197
+00:13:16,110 --> 00:13:20,279
+richiedono automazione avanzata o personalizzazione estensiva,
+
+198
+00:13:20,279 --> 00:13:21,919
+AutoCAD è la risposta.
+
+199
+00:13:21,919 --> 00:13:25,549
+Se invece lavorate principalmente su progetti 2D semplici,
+
+200
+00:13:25,549 --> 00:13:26,839
+con disegni isometrici,
+
+201
+00:13:26,840 --> 00:13:27,660
+occasionali,
+
+202
+00:13:27,659 --> 00:13:37,480
+visibili da un singolo angolo e non avete necessità di
+funzionalità personalizzate molto avanzate o toolset specifici,
+
+203
+00:13:37,480 --> 00:13:44,070
+AutoCAD LT può rappresentare veramente la soluzione
+più economica e adeguata alle vostre esigenze.
+
+204
+00:13:44,069 --> 00:13:45,469
+Come detto prima,
+
+205
+00:13:45,470 --> 00:13:49,509
+l'introduzione di AutoLisp in AutoCAD LT24,
+
+206
+00:13:49,509 --> 00:13:52,750
+quindi nelle versioni successive 25 e 26,
+
+207
+00:13:52,750 --> 00:13:58,759
+ha ridotto significativamente questo divario tra le due
+versioni per quanto riguarda l'automazione di base,
+
+208
+00:13:58,759 --> 00:14:07,629
+rendendo quindi LT una scelta ancora più attraente per freelancer e
+per piccoli studi che necessitano di quei workflow automatizzati,
+
+209
+00:14:07,629 --> 00:14:10,930
+ma operano principalmente sul disegno 2D.
+
+210
+00:14:10,930 --> 00:14:15,190
+E naturalmente non hanno un budget da studio di un'azienda.
+
+211
+00:14:15,190 --> 00:14:20,250
+E naturalmente come ho detto brevemente prima che cos'è AutoLisp,
+
+212
+00:14:20,250 --> 00:14:23,710
+magari potrebbe essere un argomento per un altro episodio.
+
+213
+00:14:29,750 --> 00:14:31,559
+Se siete utenti AutoCAD,
+
+214
+00:14:31,559 --> 00:14:35,750
+ormai sapete benissimo ritrovarvi sulla sua interfaccia.
+
+215
+00:14:35,750 --> 00:14:36,210
+Però,
+
+216
+00:14:36,210 --> 00:14:39,750
+se nel caso vi troviate ad aprire DriveSite per la prima volta,
+
+217
+00:14:39,750 --> 00:14:44,750
+l'interfaccia può sembrare veramente il software di qualcun altro.
+
+218
+00:14:44,750 --> 00:14:48,750
+Ci sono tutte le fronzità che sono presenti,
+
+219
+00:14:48,750 --> 00:14:52,750
+ma l'organizzazione potrebbe non rispecchiare le vostre preferenze personali.
+
+220
+00:14:52,750 --> 00:14:55,750
+E qui entra in gioco la personalizzazione.
+
+221
+00:14:55,750 --> 00:15:02,750
+È un aspetto fondamentale per trasformare un software generico in
+uno strumento perfettamente calibrato al vostro modo di lavorare.
+
+222
+00:15:06,750 --> 00:15:11,090
+DraftSite include workspace preimpostati per diversi compiti,
+
+223
+00:15:11,090 --> 00:15:14,350
+ma non si è limitato a quelli predefiniti.
+
+224
+00:15:14,350 --> 00:15:18,779
+Potete creare il vostro workspace personalizzato da zero,
+
+225
+00:15:18,779 --> 00:15:23,669
+facendo click destro sull'interfaccia e selezionando Customize Interface.
+
+226
+00:15:23,669 --> 00:15:25,109
+Apro parentesi,
+
+227
+00:15:25,110 --> 00:15:25,779
+lo so,
+
+228
+00:15:25,779 --> 00:15:28,439
+do i comandi in inglese,
+
+229
+00:15:28,440 --> 00:15:28,740
+ma,
+
+230
+00:15:28,740 --> 00:15:30,399
+come ho detto più volte,
+
+231
+00:15:30,399 --> 00:15:32,669
+io i software CAD li uso in inglese.
+
+232
+00:15:32,669 --> 00:15:33,589
+Mi spiace.
+
+233
+00:15:33,590 --> 00:15:40,230
+E quindi mi viene più facile raccontarveli con l'inglese che con l'italiano,
+
+234
+00:15:40,230 --> 00:15:43,590
+che a volte non mi ritrovo e le traduzioni non sono sempre così felici.
+
+235
+00:15:43,590 --> 00:15:44,830
+Chiusa parentesi.
+
+236
+00:15:44,830 --> 00:15:47,040
+Eravamo rimasti al Customize Interface,
+
+237
+00:15:47,039 --> 00:15:51,279
+quindi selezioniamo questo e da qui possiamo aggiungere un ribbon,
+
+238
+00:15:51,279 --> 00:15:52,980
+barre degli strumenti,
+
+239
+00:15:52,980 --> 00:15:56,870
+menu e persino elementi come la Quick Access Toolbar.
+
+240
+00:15:56,870 --> 00:16:05,789
+La possibilità di trascinare e rilasciare elementi dall'explorer sul vostro
+workspace personalizzato e poi riorganizzarli secondo le vostre necessità.
+
+241
+00:16:05,789 --> 00:16:08,949
+Offre veramente una flessibilità molto,
+
+242
+00:16:08,950 --> 00:16:10,230
+molto bella.
+
+243
+00:16:10,230 --> 00:16:13,360
+Una volta che tutto è dove volete,
+
+244
+00:16:13,360 --> 00:16:15,950
+si fa click sull'apply e poi ok.
+
+245
+00:16:15,950 --> 00:16:22,070
+E quindi il vostro workspace sarà configurato
+secondo le preferenze e pronto per l'uso.
+
+246
+00:16:22,069 --> 00:16:26,849
+La bellezza di questo sistema è che si può aggiornarlo in qualsiasi momento,
+
+247
+00:16:26,850 --> 00:16:29,180
+quindi aggiungere nuovi strumenti,
+
+248
+00:16:29,180 --> 00:16:32,896
+rimuovere quelli che sembravano da utilizzare e invece non li
+
+249
+00:16:32,896 --> 00:16:36,733
+utilizzate più e o modificate proprio il layout mano a mano che
+
+250
+00:16:36,733 --> 00:16:40,270
+le preferenze cambiano e il vostro workflow cambia con voi.
+
+251
+00:16:40,269 --> 00:16:42,929
+Una nota per gli amministratori,
+
+252
+00:16:42,930 --> 00:16:44,150
+per i CAD Manager,
+
+253
+00:16:44,149 --> 00:16:48,709
+che si possono creare e distribuire i workspace attraverso varie workstations,
+
+254
+00:16:48,710 --> 00:16:54,259
+garantendo quindi l'esperienza utente coerente
+e personalizzata a livello aziendale.
+
+255
+00:16:54,259 --> 00:16:57,139
+Condividendo workspace standardizzati,
+
+256
+00:16:57,139 --> 00:17:04,470
+le aziende promuovono l'uniformità del workflow e ottimizzano
+la produttività complessiva nelle operazioni CAD.
+
+257
+00:17:04,470 --> 00:17:08,386
+Questo approccio è particolarmente prezioso per studi tecnici
+
+258
+00:17:08,386 --> 00:17:12,239
+con team numerosi dove la standardizzazione dei processi può
+
+259
+00:17:12,239 --> 00:17:16,029
+ridurre i tempi di formazione e minimizzazione degli errori.
+
+260
+00:17:19,500 --> 00:17:23,500
+DraftSight offre una gamma di impostazioni visive,
+
+261
+00:17:23,500 --> 00:17:30,500
+che possono aiutare e ridurre l'affaticamento degli occhi
+o portare l'attenzione su specifici elementi del disegno.
+
+262
+00:17:30,500 --> 00:17:33,650
+Si può accedere rapidamente a queste impostazioni sotto Option,
+
+263
+00:17:33,650 --> 00:17:34,580
+digitando O,
+
+264
+00:17:34,579 --> 00:17:37,500
+oppure digitando Option dalla riga di comando.
+
+265
+00:17:37,500 --> 00:17:41,619
+Da qui si può alternare tra temi chiari o scuri,
+
+266
+00:17:41,619 --> 00:17:43,500
+modificare i colori del cursore,
+
+267
+00:17:43,500 --> 00:17:45,500
+del reticolo,
+
+268
+00:17:45,500 --> 00:17:49,500
+modificare il colore di sfondo delle aree modello e foglio,
+
+269
+00:17:49,500 --> 00:17:53,500
+e modificare il font e le dimensioni utilizzate nella finestra dei comandi.
+
+270
+00:17:53,500 --> 00:17:58,500
+Potete persino cercare all'interno della finestra di dialogo Option,
+
+271
+00:17:58,500 --> 00:18:03,500
+utilizzando parole chiave come Element Colors o Command Window,
+
+272
+00:18:03,500 --> 00:18:06,500
+per saltare direttamente all'impostazione di cui avete bisogno.
+
+273
+00:18:06,500 --> 00:18:13,500
+La versione DraftSight 2025 ha introdotto miglioramenti
+significativi all'impostazione dell'interfaccia,
+
+274
+00:18:13,500 --> 00:18:22,500
+con la possibilità di passare facilmente tra modalità chiara e scura per ridurre
+l'affaticamento degli occhi durante le sessioni di progettazione estese,
+
+275
+00:18:22,500 --> 00:18:27,500
+e vi consiglio la modalità scura soprattutto quando c'è molta luce.
+
+276
+00:18:27,500 --> 00:18:36,500
+La funzionalità di ricerca è stata migliorata nella finestra delle
+opzioni e permette di individuare rapidamente le impostazioni essenziali.
+
+277
+00:18:36,500 --> 00:18:39,119
+Se preferite le barre degli strumenti,
+
+278
+00:18:39,119 --> 00:18:41,149
+il ribbon o un mix di entrambi,
+
+279
+00:18:41,150 --> 00:18:45,500
+si può utilizzare la finestra di dialogo Customize Interface,
+
+280
+00:18:45,500 --> 00:18:50,500
+e anche qui si possono creare i vostri tab
+e i vostri pannelli ribbon personalizzati.
+
+281
+00:18:50,500 --> 00:18:55,500
+Ad esempio supponiamo che vogliate un accesso rapido ai comandi più utilizzati.
+
+282
+00:18:55,500 --> 00:18:58,500
+Potete creare un nuovo tab personalizzato,
+
+283
+00:18:58,500 --> 00:19:01,500
+aggiungere un pannello personalizzato all'interno di questo tab,
+
+284
+00:19:01,500 --> 00:19:06,500
+e trascinare i comandi dalla lista comandi nel tuo nuovo pannello.
+
+285
+00:19:06,500 --> 00:19:10,500
+In questo caso è poi anche possibile configurare delle macro,
+
+286
+00:19:10,500 --> 00:19:17,500
+qui brevi stringhe di comandi che sono raggruppati insieme
+e che possono accelerare molti comandi ripetitivi.
+
+287
+00:19:17,500 --> 00:19:18,569
+Tra le altre cose,
+
+288
+00:19:18,569 --> 00:19:24,500
+Dropsite 2025 ha introdotto anche diverse funzionalità
+che migliorano la gestione delle tabelle,
+
+289
+00:19:24,500 --> 00:19:26,900
+grande crucio per i disegnatori,
+
+290
+00:19:26,900 --> 00:19:31,500
+inclusa la possibilità di inserire blocchi in singole celle,
+
+291
+00:19:31,500 --> 00:19:37,500
+utilizzare i grip rapidi per regolazioni delle
+tabelle e accedere a menu contestuali più completi.
+
+292
+00:19:37,500 --> 00:19:41,500
+Le formule automatiche rendono poi più facile creare tabelle,
+
+293
+00:19:41,500 --> 00:19:44,500
+con un contenuto dinamico che si aggiorna automaticamente.
+
+294
+00:19:44,500 --> 00:19:47,639
+Se siete dei pianisti,
+
+295
+00:19:47,639 --> 00:19:54,500
+come ci definiscono quelli che usano la tastiera,
+
+296
+00:19:54,500 --> 00:20:02,500
+e utilizzate quindi molte scorciatoie da tastiera per completare
+i compiti in modo più efficiente o per richiamare comandi,
+
+297
+00:20:02,500 --> 00:20:06,690
+si possono configurarle o modificarle sotto option,
+
+298
+00:20:06,690 --> 00:20:08,150
+user preference,
+
+299
+00:20:08,150 --> 00:20:08,780
+alias,
+
+300
+00:20:08,779 --> 00:20:09,769
+aliases,
+
+301
+00:20:09,769 --> 00:20:12,500
+quella cosa lì insomma.
+
+302
+00:20:12,500 --> 00:20:16,490
+Dropsite viene poi già fornito con molte scorciatoie familiari,
+
+303
+00:20:16,490 --> 00:20:21,500
+specialmente se provenite da altri sistemi CAD come AutoCAD.
+
+304
+00:20:21,500 --> 00:20:24,910
+Ma se volete creare le vostre o portare le vostre,
+
+305
+00:20:24,910 --> 00:20:26,500
+il processo è semplice.
+
+306
+00:20:26,500 --> 00:20:29,500
+Trova il comando a cui vuoi assegnare una scorciatoia,
+
+307
+00:20:29,500 --> 00:20:31,500
+aggiunge un nuovo alias,
+
+308
+00:20:31,500 --> 00:20:34,670
+ad esempio MLL per multileader,
+
+309
+00:20:34,670 --> 00:20:36,500
+per il comando multileader,
+
+310
+00:20:36,500 --> 00:20:38,500
+e applica e salva le modifiche.
+
+311
+00:20:38,500 --> 00:20:41,360
+Puoi anche importare o esportare queste scorciatoie,
+
+312
+00:20:41,360 --> 00:20:46,500
+il che rende facile utilizzare la stessa configurazione su macchine diverse.
+
+313
+00:20:46,500 --> 00:20:49,841
+Questa portabilità è praticamente preziosa per professionisti
+
+314
+00:20:49,841 --> 00:20:52,805
+che lavorano su workstation multiple o che collaborano
+
+315
+00:20:52,805 --> 00:20:55,500
+con colleghi che utilizzano configurazioni simili.
+
+316
+00:20:59,250 --> 00:21:04,250
+Sebbene non sia poi qualcosa in cui ogni principiante si lancerà immediatamente,
+
+317
+00:21:04,250 --> 00:21:08,250
+DraftSight supporta routine Lisp per l'automazione.
+
+318
+00:21:08,250 --> 00:21:13,250
+Questi piccoli programmi basati su testo possono aiutare con tutto,
+
+319
+00:21:13,250 --> 00:21:16,250
+dalla creazione di layer alla pulizia di oggetti duplicati.
+
+320
+00:21:16,250 --> 00:21:21,250
+DraftSight supporta sia AutoLisp che VisualLisp o VLisp,
+
+321
+00:21:21,250 --> 00:21:23,250
+per automazione e personalizzazione.
+
+322
+00:21:23,250 --> 00:21:27,250
+Questa caratteristica fa parte di DraftSight da molto tempo,
+
+323
+00:21:27,250 --> 00:21:34,250
+permettendo agli utenti di eseguire queste routine VisualLisp
+direttamente senza il bisogno di riconfigurazione.
+
+324
+00:21:34,250 --> 00:21:39,250
+Gli utenti possono eseguire le routine VisualLisp direttamente in DraftSight,
+
+325
+00:21:39,250 --> 00:21:43,250
+senza la secatura di riconfigurarle o ricrearle,
+
+326
+00:21:43,250 --> 00:21:47,250
+garantendo piena compatibilità con file o routine Lisp legacy.
+
+327
+00:21:47,250 --> 00:21:52,250
+VisualLisp è un'estensione del consolidato
+linguaggio di programmazione AutoLisp,
+
+328
+00:21:52,250 --> 00:21:59,250
+progettato specificatamente per automatizzare
+e personalizzare i compiti nell'ambiente CAD.
+
+329
+00:21:59,250 --> 00:22:04,259
+Questo linguaggio di programmazione è stato
+inizialmente sviluppato da Autodesk in AutoCAD,
+
+330
+00:22:04,259 --> 00:22:05,250
+come abbiamo detto prima,
+
+331
+00:22:05,250 --> 00:22:08,250
+e si è evoluto in un'interfaccia grafica più robusta,
+
+332
+00:22:08,250 --> 00:22:12,250
+permettendo poi capacità di programmazione e debugging più sofisticato.
+
+333
+00:22:12,250 --> 00:22:23,250
+Per caricare file Lisp in DraftSight si naviga alla scheda Manage
+e si seleziona Load Application per aprire la finestra di dialogo.
+
+334
+00:22:23,250 --> 00:22:28,079
+Si possono importare file .lsp,
+
+335
+00:22:28,079 --> 00:22:30,250
+.mnl e .dll.
+
+336
+00:22:30,250 --> 00:22:36,250
+Ricordate che i file VLX non funzioneranno
+direttamente a causa della loro natura complicata,
+
+337
+00:22:36,250 --> 00:22:40,250
+quindi avere i file sorgente LSP è necessario.
+
+338
+00:22:40,250 --> 00:22:43,602
+La maggior parte dei file Lisp funzionerà senza problemi
+
+339
+00:22:43,602 --> 00:22:46,838
+una volta caricati e può essere attivata utilizzando i
+
+340
+00:22:46,838 --> 00:22:50,250
+loro nomi di comando specifici nella finestra dei comandi.
+
+341
+00:22:50,250 --> 00:22:51,250
+Questo perché?
+
+342
+00:22:51,250 --> 00:22:57,250
+Perché potete immaginare di ridurre un'operazione
+da 10 click in con un solo paio di click.
+
+343
+00:22:57,250 --> 00:23:00,250
+Questa è l'efficienza pratica che Lisp porta,
+
+344
+00:23:00,250 --> 00:23:08,250
+semplificando processi come il calcolo delle aree di oggetti multiple
+o la rottura di linee in punti specificati con un solo input.
+
+345
+00:23:08,250 --> 00:23:19,250
+Lisp è stato un linguaggio stabile per decenni con codice scritto 20
+o 30 anni fa e funziona ancora oggi quando si dice programmare bene.
+
+346
+00:23:19,250 --> 00:23:29,250
+L'indipendenza dalla piattaforma di Lisp permette a programmi scritti per
+sistemi più vecchi di funzionare su ambienti Windows moderni senza modifiche.
+
+347
+00:23:32,500 --> 00:23:36,589
+La personalizzazione dell'interfaccia non è un evento unatanto,
+
+348
+00:23:36,589 --> 00:23:37,500
+ma è un processo continuo.
+
+349
+00:23:37,500 --> 00:23:41,599
+Mano a mano che la vostra familiarità con il software cresce,
+
+350
+00:23:41,599 --> 00:23:46,500
+crescerà anche il valore di avere un'interfaccia
+che vi sembra familiare e molto più efficiente.
+
+351
+00:23:46,500 --> 00:23:51,500
+Organizzando i vostri strumenti attorno al modo in cui disegnate,
+
+352
+00:23:51,500 --> 00:23:57,500
+si è in grado di rimuovere delle distrazioni e
+ridurre il tempo speso a cercare tra i menu.
+
+353
+00:23:58,500 --> 00:24:07,500
+DraftSight 2025 offre una gamma di nuove funzionalità entusiasmanti e
+miglioramenti che soddisfano le esigenze in evoluzione dei professionisti CAD.
+
+354
+00:24:07,500 --> 00:24:13,609
+Con DraftSight 2025 gli utenti possono importare facilmente file STEP 3D,
+
+355
+00:24:13,609 --> 00:24:18,639
+rendendo più facile lavorare con file provenienti
+da una grandissima varietà di sistemi CAD,
+
+356
+00:24:18,640 --> 00:24:20,500
+come SOLIDWORKS ad esempio,
+
+357
+00:24:20,500 --> 00:24:21,500
+il suo fratello maggiore.
+
+358
+00:24:22,500 --> 00:24:29,500
+Il nuovo comando DIMENSION SPACE in DraftSight è un significativo
+booster di produttività per ingegneri e disegnatori,
+
+359
+00:24:29,500 --> 00:24:34,500
+organizzando e posizionando automaticamente
+le stringhe di quote con pochissimi click.
+
+360
+00:24:34,500 --> 00:24:39,460
+La versione 2025 introduce inoltre anche il nuovo DIMENSION STYLE MANAGER,
+
+361
+00:24:39,460 --> 00:24:41,960
+che offre un modo più efficiente per creare,
+
+362
+00:24:41,960 --> 00:24:44,500
+modificare e condividere stili di quote.
+
+363
+00:24:45,500 --> 00:24:51,569
+Questa nuova finestra permette agli utenti di
+gestire gli stili di quota in modo più organizzato,
+
+364
+00:24:51,569 --> 00:24:57,500
+garantendo che le quote siano coerenti con
+tutto il disegno e facilmente personalizzabili.
+
+365
+00:24:57,500 --> 00:25:02,500
+Ti è piaciuto l'episodio di questa settimana?
+
+366
+00:25:03,500 --> 00:25:04,650
+La risposta è sì.
+
+367
+00:25:04,650 --> 00:25:07,340
+Allora abbiamo un piccolo favore da chiederti.
+
+368
+00:25:07,339 --> 00:25:15,500
+Andare su Apple Podcast o Spotify e lasciarci una recensione a 5 stelle
+accompagnata dal tuo feedback farebbe davvero la differenza per noi.
+
+369
+00:25:15,500 --> 00:25:19,069
+È uno dei modi migliori per far crescere il nostro podcast,
+
+370
+00:25:19,069 --> 00:25:22,500
+raggiungere più persone e continuare a migliorare.
+
+371
+00:25:22,500 --> 00:25:25,410
+Se poi ti va di supportarci ancora di più,
+
+372
+00:25:25,410 --> 00:25:30,500
+in descrizione trovi un link per fare una donazione tramite PayPal o Satispay.
+
+373
+00:25:31,500 --> 00:25:33,500
+Non abbiamo grandi pretese.
+
+374
+00:25:33,500 --> 00:25:38,500
+Anche un piccolo contributo può aiutarci a portare
+avanti nuove idee e progetti per il podcast.
+
+375
+00:25:38,500 --> 00:25:40,170
+Ogni gesto di supporto,
+
+376
+00:25:40,170 --> 00:25:41,430
+grande o piccolo,
+
+377
+00:25:41,430 --> 00:25:43,500
+è per noi davvero importante.
+
+378
+00:25:43,500 --> 00:25:48,500
+Immagino che abbiate notato che c'è pubblicità
+all'inizio e alla fine di questo episodio.
+
+379
+00:25:48,500 --> 00:25:49,480
+Questo perché,
+
+380
+00:25:49,480 --> 00:25:51,500
+perché fare podcast ha un costo.
+
+381
+00:25:52,500 --> 00:25:54,769
+La stessa cosa vale anche per questo podcast,
+
+382
+00:25:54,769 --> 00:25:56,740
+che fa parte del network Runtime Radio.
+
+383
+00:25:56,740 --> 00:26:03,500
+Il contributo che le pubblicità danno al network servono a
+mantenere il servizio a pagamento che ospita non solo il tiralinee,
+
+384
+00:26:03,500 --> 00:26:05,500
+ma anche gli altri del network.
+
+385
+00:26:05,500 --> 00:26:08,500
+Grazie mille per essere stati con noi anche oggi.
+
+386
+00:26:08,500 --> 00:26:09,500
+A presto!
+
+387
+00:26:13,500 --> 00:26:17,960
+Il mondo delle workstation mobili sta
+attraversando una trasformazione significativa,
+
+388
+00:26:17,960 --> 00:26:21,500
+guidati dai processori più efficienti e GPU più potenti.
+
+389
+00:26:21,500 --> 00:26:26,829
+Lenovo ha recentemente svelato la terza generazione del suo ThinkPad P16,
+
+390
+00:26:26,829 --> 00:26:37,220
+un laptop da 16 pollici progettato per sostituire completamente le workstation
+desktop per professionisti che eseguono cariche di lavoro esigenti.
+
+391
+00:26:37,220 --> 00:26:42,096
+Vi parlo del ThinkPad P16 perché mi è capitato tra le mani
+
+392
+00:26:42,096 --> 00:26:47,056
+e ho potuto mettere le mie ditina sulla tastiera e guardare
+
+393
+00:26:47,056 --> 00:26:51,519
+un pochettino come funzionava e che prestazione aveva.
+
+394
+00:26:54,750 --> 00:26:59,059
+Ho quindi cercato informazioni sul web ed è un vero mostro,
+
+395
+00:26:59,059 --> 00:27:07,079
+perché il ThinkPad P16 generazione 3 è equipaggiato
+con processori Intel Core Ultra 200HX Series,
+
+396
+00:27:07,079 --> 00:27:10,470
+più recenti con architettura Arrow Lake,
+
+397
+00:27:10,470 --> 00:27:11,299
+ma non solo,
+
+398
+00:27:11,299 --> 00:27:13,269
+poi vedremo in fondo.
+
+399
+00:27:13,269 --> 00:27:18,299
+Il modello di punta è l'Intel Core Ultra 9 285HX,
+
+400
+00:27:18,299 --> 00:27:20,960
+che vanta ben 24 Core,
+
+401
+00:27:20,960 --> 00:27:25,170
+8 di Performance e 16 di Efficient Core,
+
+402
+00:27:25,170 --> 00:27:29,690
+e ha una velocità di Boost Clock di 5,
+
+403
+00:27:29,529 --> 00:27:30,409
+5 GHz.
+
+404
+00:27:30,410 --> 00:27:35,120
+Questa architettura rappresenta il passo significativo per Intel,
+
+405
+00:27:35,119 --> 00:27:37,299
+con un nuovo metodo di costruzione,
+
+406
+00:27:37,299 --> 00:27:38,559
+maggiore I.O.,
+
+407
+00:27:38,559 --> 00:27:39,470
+Input Output,
+
+408
+00:27:39,470 --> 00:27:40,930
+e accelerazioni AI,
+
+409
+00:27:40,930 --> 00:27:44,000
+hardware e un'architettura migliorata.
+
+410
+00:27:44,000 --> 00:27:53,839
+Secondo Intel il processore Core Ultra 9 285HX offre
+fino al 41% di prestazioni multi-thread migliori,
+
+411
+00:27:53,839 --> 00:27:58,679
+come testato nel benchmark di rendering Cinebank 2024,
+
+412
+00:27:58,680 --> 00:28:05,690
+rispetto al processore Intel Core i9 14900HX della generazione precedente.
+
+413
+00:28:05,690 --> 00:28:11,850
+Mentre le prestazioni non sono migliori rispetto alle CPU
+Intel di generazione precedente in ogni carico di lavoro,
+
+414
+00:28:11,849 --> 00:28:13,309
+con il rendering più veloce,
+
+415
+00:28:13,309 --> 00:28:15,289
+ma il gaming è leggermente più lento,
+
+416
+00:28:15,289 --> 00:28:19,589
+l'efficienza invece energetica è massicciamente migliorata.
+
+417
+00:28:19,589 --> 00:28:31,169
+L'analisi della potenza mostra che il Core Ultra 9 285K produce 163 punti
+per watt di elettricità consumata durante il rendering di Cinebank,
+
+418
+00:28:31,170 --> 00:28:36,910
+mentre il vecchio 14900K produce solo 146 punti.
+
+419
+00:28:36,910 --> 00:28:42,430
+Questo miglioramento dell'efficienza energetica è
+particolarmente significativo per le workstation mobili,
+
+420
+00:28:42,430 --> 00:28:46,210
+dove la durata della batteria e la gestione termica sono dei punti critici.
+
+421
+00:28:50,000 --> 00:28:50,480
+Per la grafica,
+
+422
+00:28:50,480 --> 00:28:56,079
+Lenovo con il ThinkPad P16 Gen 3 non ha badato a spese,
+
+423
+00:28:56,079 --> 00:29:06,799
+perché può essere configurato fino alla GPU NVIDIA RTX PRO
+5000 Blackwell Generation con ben 24 GB di memoria GDDR7.
+
+424
+00:29:06,799 --> 00:29:11,970
+Questa GPU rappresenta un salto generazionale enorme,
+
+425
+00:29:11,970 --> 00:29:23,920
+costruita con l'architettura NVIDIA Blackwell con 14.080 CUDA
+Core e 48 GB di memoria GDDR7 con ECC nella versione desktop,
+
+426
+00:29:23,920 --> 00:29:26,779
+mentre nella versione mobile ha solo 24 GB.
+
+427
+00:29:26,779 --> 00:29:28,319
+Teniamolo ben a mente.
+
+428
+00:29:28,319 --> 00:29:36,419
+L'RTX PRO 5000 Blackwell di NVIDIA offre 20.064 IATOPS,
+
+429
+00:29:36,420 --> 00:29:38,529
+Trillion Operations Per Second,
+
+430
+00:29:38,529 --> 00:29:46,240
+con Tensor Core di quinta generazione che supportano
+precisione FP4 e DLSS4 multi-frame generation.
+
+431
+00:29:46,240 --> 00:29:51,690
+La larghezza di banda della memoria raggiunge 1.344 GB al secondo,
+
+432
+00:29:51,690 --> 00:29:56,529
+fornendo le prestazioni necessarie per gestire progetti 3D massivi,
+
+433
+00:29:56,529 --> 00:29:59,519
+inferenza IA e workflow di rendering neurale.
+
+434
+00:29:59,519 --> 00:30:10,440
+Per il video la GPU include tre encoder NVEC di nonna generazione
+e tre encoder NVDEC di sesta generazione con supporto al 4.2.2.
+
+435
+00:30:10,440 --> 00:30:16,769
+Questo garantisce l'accuratezza cromatica impeccabile e
+un'elaborazione accelerata di contenuti ad alta risoluzione,
+
+436
+00:30:16,769 --> 00:30:19,690
+rendendola ideale anche per il live streaming,
+
+437
+00:30:19,690 --> 00:30:22,720
+l'editing in tempo reale e workflow di media live.
+
+438
+00:30:27,250 --> 00:30:31,250
+Qui emerge un aspetto controverso della progettazione di questa macchina.
+
+439
+00:30:31,250 --> 00:30:34,440
+Lenovo ha ridisegnato il ThinkPad 16,
+
+440
+00:30:34,440 --> 00:30:37,250
+di punta con un'edizione generazione 3 più sottile,
+
+441
+00:30:37,250 --> 00:30:41,640
+più leggera e consuma meno energia rispetto al precisessore Gen 2,
+
+442
+00:30:41,640 --> 00:30:45,250
+ora con un alimentatore da 180 Watt.
+
+443
+00:30:45,250 --> 00:30:50,250
+E questo rappresenta una riduzione significativa
+rispetto ai 230 Watt della generazione precedente.
+
+444
+00:30:50,250 --> 00:30:55,250
+Dalla recensione di AEC Magazine viene sollevato una preoccupazione legittima.
+
+445
+00:30:55,250 --> 00:31:05,250
+Sebbene l'alimentatore da 180 Watt della Miraglia ThinkPad P16
+generazione 3 possa essere dotato di CPU e GPU mobile di fascia alta,
+
+446
+00:31:05,250 --> 00:31:11,250
+la sua alimentazione più piccola suggerisce anche alcune
+prestazioni che potrebbero essere lasciate sul tavolo.
+
+447
+00:31:11,250 --> 00:31:17,250
+Questo sarebbe particolarmente vero quando
+configurato con l'RTX Pro 5000 Blackwell,
+
+448
+00:31:17,250 --> 00:31:21,019
+che da sola consuma fino a 175 Watt,
+
+449
+00:31:21,019 --> 00:31:25,250
+quasi tutta la potenza dell'alimentatore.
+
+450
+00:31:25,250 --> 00:31:29,250
+Mentre abbassare la potenza migliora la portabilità e l'efficienza energetica,
+
+451
+00:31:29,250 --> 00:31:35,250
+attualmente sembra mettere Lenovo in una posizione
+di svantaggio prestazionale rispetto ai rivali.
+
+452
+00:31:35,250 --> 00:31:39,250
+Nella fascia alta delle workstation mobili,
+
+453
+00:31:39,250 --> 00:31:44,250
+sia Dell Pro Max 16 Plus che l'HP ZBook Fury G1i,
+
+454
+00:31:44,250 --> 00:31:46,140
+sempre da 16 pollici,
+
+455
+00:31:46,140 --> 00:31:52,250
+offrono esattamente gli stessi processori ma hanno adattatori da 280 Watt,
+
+456
+00:31:52,250 --> 00:31:59,250
+mentre il più grande ZBook Fury da 18 pollici spinge ancora oltre i 330 Watt.
+
+457
+00:31:59,250 --> 00:32:07,559
+In questo contesto la mossa di Lenovo potrebbe essere vista
+come un preludio a un modello da 16 o 18 pollici più robusto,
+
+458
+00:32:07,559 --> 00:32:12,250
+che potrebbe alla fine superare il ThinkPad P16 generazione 3,
+
+459
+00:32:12,250 --> 00:32:18,250
+come la workstation mobile più potente di questa azienda.
+
+460
+00:32:18,250 --> 00:32:21,741
+Tendenzialmente questa strategia suggerisce che Lenovo sta
+
+461
+00:32:21,741 --> 00:32:24,995
+sperimentando un equilibrio diverso tra portabilità ed
+
+462
+00:32:24,995 --> 00:32:28,250
+efficienza da un lato e prestazioni massime dall'altro.
+
+463
+00:32:28,250 --> 00:32:31,250
+Oltre al P16 generazione 3,
+
+464
+00:32:31,250 --> 00:32:36,130
+Lenovo ha anche lanciato aggiornamenti attraverso il
+suo portfoglio di workstation mobili basati su Intel,
+
+465
+00:32:36,130 --> 00:32:38,250
+inclusi ThinkPad P1 generazione 8,
+
+466
+00:32:38,250 --> 00:32:41,250
+ThinkPad P16V generazione 3,
+
+467
+00:32:41,250 --> 00:32:49,250
+ThinkPad P14SI generazione 6 e ThinkPad P16SI generazione 4.
+
+468
+00:32:49,250 --> 00:32:54,250
+Questi quattro modelli sono alimentati da processori Intel Core Ultra 200H,
+
+469
+00:32:54,250 --> 00:32:56,250
+più efficienti dal punto di vista energetico,
+
+470
+00:32:56,250 --> 00:32:58,559
+fino a 16 Core a 5,
+
+471
+00:32:58,339 --> 00:32:59,250
+4 GHz,
+
+472
+00:32:59,250 --> 00:33:03,349
+e presentano GPU Nvidia RTX Pro Blackwell meno potenti,
+
+473
+00:33:03,349 --> 00:33:08,250
+fino all'RTX Pro 2000 Blackwell 8 GB nel P16V e nel P1,
+
+474
+00:33:08,250 --> 00:33:15,250
+e fino all'RTX Pro 1000 Blackwell 8 GB sempre del P14S e del P16S.
+
+475
+00:33:15,250 --> 00:33:17,710
+Sebbene condividono componenti Core,
+
+476
+00:33:17,710 --> 00:33:21,250
+i modelli sono differenziati per design e posizionamento.
+
+477
+00:33:21,250 --> 00:33:27,250
+Il ThinkPad P1 generazione 8 è la workstation
+mobile premium Thing & Lite di Lenovo.
+
+478
+00:33:27,250 --> 00:33:32,250
+Il ThinkPad P16V generazione 3 è proposto come alternativa più economica,
+
+479
+00:33:32,250 --> 00:33:40,309
+mentre il ThinkPad P14SI generazione 6 e il ThinkPad P16 di generazione 4,
+
+480
+00:33:40,309 --> 00:33:41,250
+ma l'S,
+
+481
+00:33:41,250 --> 00:33:50,250
+combinano design Thin & Lite con una GPU più
+adatta a un workflow CAD e Beam Mainstream.
+
+482
+00:33:50,250 --> 00:33:56,250
+Il ThinkPad P1 generazione 8 è praticamente interessante
+per chi necessita una maggiore portabilità.
+
+483
+00:33:56,250 --> 00:34:02,349
+Lenovo lo ha aggiornato con processore Intel Core Ultra di seconda generazione,
+
+484
+00:34:02,349 --> 00:34:08,250
+prestazioni NPU migliorate per compiti IA e
+grafica opzionale fino all'RTX Pro 2000 Blackwell.
+
+485
+00:34:08,250 --> 00:34:12,250
+Il laptop da 16 pollici è più sottile e leggero del P16,
+
+486
+00:34:12,250 --> 00:34:23,539
+il che potrebbe renderlo quello giusto se il P16
+ti attira ma non volete un laptop da circa 2,
+
+487
+00:34:23,269 --> 00:34:26,250
+3 kg nel vostro zaino.
+
+488
+00:34:29,000 --> 00:34:35,039
+Il ThinkPad P16 G3 può essere configurato fino a 192 GB di memoria DDR5,
+
+489
+00:34:35,039 --> 00:34:41,400
+fornendo capacità ampie per gestire assiemi CAD complessi e simulazioni estese.
+
+490
+00:34:41,400 --> 00:34:47,860
+Per l'archiviazione il sistema supporta fino a 12 TB attraverso 3 SSD PCIe 5,
+
+491
+00:34:47,860 --> 00:34:54,440
+offrendo spazi più che sufficienti per librerie di
+progetti estese fino ai file di grandi dimensioni.
+
+492
+00:34:54,440 --> 00:35:04,490
+Il display è disponibile con un pannello OLED Touch da 16 pollici
+con un rapporto 16-10 insieme ad altre opzioni di schermo.
+
+493
+00:35:04,489 --> 00:35:12,639
+Tutti sono supportati da una batteria da circa 100 Wh
+fornendo l'alimentazione sostanziale per l'uso mobile.
+
+494
+00:35:12,639 --> 00:35:14,929
+Come abbiamo detto pesa circa 2,
+
+495
+00:35:14,860 --> 00:35:15,650
+3 kg,
+
+496
+00:35:15,650 --> 00:35:16,639
+anzi no,
+
+497
+00:35:16,639 --> 00:35:17,559
+scusate,
+
+498
+00:35:17,559 --> 00:35:21,570
+era per quanto riguardava il P16,
+
+499
+00:35:21,570 --> 00:35:24,880
+il P16 G3 pesa circa 2,
+
+500
+00:35:24,639 --> 00:35:25,879
+5 kg.
+
+501
+00:35:25,880 --> 00:35:37,170
+Il telaio è portatile per un dispositivo di classe workstation anche
+se è ancora costruito per essere sostituito con una workstation fissa.
+
+502
+00:35:37,170 --> 00:35:40,840
+Intorno ai lati troverete un sacco di porte,
+
+503
+00:35:40,840 --> 00:35:44,103
+incluse anche lo slot per le schede SD e un jack Ethernet
+
+504
+00:35:44,103 --> 00:35:47,480
+garantendo quindi una connettività completa per periferiche
+
+505
+00:35:47,480 --> 00:35:50,350
+e reti senza il bisogno di avere dongle aggiuntivi.
+
+506
+00:35:50,349 --> 00:35:59,559
+Questa completezza delle porte è spesso trascurata nelle recensioni ma è
+cruciale per i professionalisti che lavorano sul campo o in ambienti diversi.
+
+507
+00:36:03,500 --> 00:36:09,500
+Il ThinkPad P16 G3 rappresenta un'interessante
+dichiarazione di intenti da parte di Lenovo.
+
+508
+00:36:09,500 --> 00:36:13,500
+Invece di inseguire le prestazioni assolute e massime a qualsiasi costo,
+
+509
+00:36:13,500 --> 00:36:18,460
+l'azienda sembra scommettere su un equilibrio più sostenibile tra prestazioni,
+
+510
+00:36:18,460 --> 00:36:20,500
+efficienza energetica e portabilità.
+
+511
+00:36:20,500 --> 00:36:22,500
+Per professionisti CAD o BIM,
+
+512
+00:36:22,500 --> 00:36:25,500
+che necessitano di una workstation potente,
+
+513
+00:36:25,500 --> 00:36:29,769
+ma devono anche viaggiare frequentemente tra vari siti,
+
+514
+00:36:29,769 --> 00:36:31,500
+gli uffici o meeting con clienti,
+
+515
+00:36:31,500 --> 00:36:36,250
+questa filosofia progettuale potrebbe rappresentare un compromesso molto,
+
+516
+00:36:36,250 --> 00:36:37,500
+molto vincente.
+
+517
+00:36:37,500 --> 00:36:41,769
+La capacità di eseguire software professionali esigenti come AutoCAD,
+
+518
+00:36:41,769 --> 00:36:42,179
+SolidWorks,
+
+519
+00:36:42,179 --> 00:36:51,500
+Revit e altre applicazioni AEC con prestazioni desktop class in un form
+factor relativamente portatile è molto attraente per i professionisti.
+
+520
+00:36:51,500 --> 00:36:52,159
+Tuttavia,
+
+521
+00:36:52,159 --> 00:36:59,500
+per studi che richiedono prestazioni assolute e massime e
+possono tollerare i laptop più pesanti e assetati di energia,
+
+522
+00:36:59,510 --> 00:37:09,500
+alternative come l'HP ZBook Fury o il Dell Precision Plus potrebbero
+offrire un vantaggio prestazionale grazie ai loro alimentatori più potenti.
+
+523
+00:37:09,500 --> 00:37:13,559
+La scelta dipende davvero dalle proprietà specifiche,
+
+524
+00:37:13,559 --> 00:37:18,500
+per privilegiare la portabilità e l'efficienza o
+massimizzare la prestazione a qualsiasi costo.
+
+525
+00:37:18,500 --> 00:37:20,500
+Ma domanda importante,
+
+526
+00:37:20,500 --> 00:37:21,500
+i prezzi?
+
+527
+00:37:21,500 --> 00:37:24,500
+I prezzi sono importanti di sicuro.
+
+528
+00:37:24,500 --> 00:37:25,559
+La versione,
+
+529
+00:37:25,559 --> 00:37:27,210
+passatemi il termine,
+
+530
+00:37:27,210 --> 00:37:28,289
+base baracca,
+
+531
+00:37:28,289 --> 00:37:29,769
+per modo di dire,
+
+532
+00:37:29,769 --> 00:37:32,730
+con Intel Core Ultra 5,
+
+533
+00:37:32,730 --> 00:37:34,849
+245HX vPro,
+
+534
+00:37:34,849 --> 00:37:38,500
+installato Windows Home 11,
+
+535
+00:37:38,500 --> 00:37:42,030
+quindi neanche a livello professionista,
+
+536
+00:37:42,030 --> 00:37:45,110
+RTX Pro 1000 da 8GB di RAM,
+
+537
+00:37:45,110 --> 00:37:47,500
+sempre Blackwell Edition,
+
+538
+00:37:47,500 --> 00:37:49,500
+quindi con il motore Blackwell,
+
+539
+00:37:49,500 --> 00:37:51,409
+in più 16GB di RAM,
+
+540
+00:37:51,409 --> 00:37:53,039
+512GB di SSD,
+
+541
+00:37:53,039 --> 00:37:59,500
+monitor da 16 pollici da 500nit e siamo intorno ai 3.000€.
+
+542
+00:38:04,000 --> 00:38:07,110
+E sempre per definire queste versioni,
+
+543
+00:38:07,110 --> 00:38:09,700
+la versione mi prostituisco,
+
+544
+00:38:09,699 --> 00:38:12,799
+oggi sono effervescente.
+
+545
+00:38:12,800 --> 00:38:13,900
+Quindi,
+
+546
+00:38:13,900 --> 00:38:23,220
+con installato sopra Intel Core Ultra 9 285 HX Pro Windows Pro 11,
+
+547
+00:38:23,219 --> 00:38:28,619
+la RTX Pro 5000 Blackwell da 24GB di RAM,
+
+548
+00:38:28,619 --> 00:38:31,000
+192GB di RAM,
+
+549
+00:38:31,000 --> 00:38:32,599
+4TB di SSD,
+
+550
+00:38:32,599 --> 00:38:38,309
+monitor da 16 pollici a 800nit,
+
+551
+00:38:38,309 --> 00:38:40,279
+siamo intorno ai 9000€.
+
+552
+00:38:40,280 --> 00:38:42,360
+Prezzi da capogiro?
+
+553
+00:38:42,360 --> 00:38:42,930
+Sì,
+
+554
+00:38:42,929 --> 00:38:46,039
+non vi è un'obra di dubbio,
+
+555
+00:38:46,039 --> 00:38:53,440
+la versione che ho definito mi prostituisco è
+sicuramente una versione esageratissima e troppo anche,
+
+556
+00:38:53,440 --> 00:38:57,909
+ma sono macchine pensate e costruite per uno scopo preciso e unico.
+
+557
+00:38:57,909 --> 00:39:03,909
+Sono macchine per operatori specializzati e
+aziende che possono accedere a tali importi,
+
+558
+00:39:03,909 --> 00:39:07,960
+ma che assicurano però prestazioni e risultati di primo ordine.
+
+559
+00:39:13,500 --> 00:39:17,371
+E siamo arrivati alla fine dell'episodio e lasciatemi dire
+
+560
+00:39:17,371 --> 00:39:21,309
+che gli argomenti che abbiamo esplorato oggi apparentemente
+
+561
+00:39:21,309 --> 00:39:25,050
+distinti però sono in realtà profondamente interconnessi.
+
+562
+00:39:25,050 --> 00:39:31,500
+La scelta tra AutoCAD e AutoCAD LT influenza le
+proprie capacità di automazione con Autolisp.
+
+563
+00:39:31,500 --> 00:39:40,170
+La personalizzazione dell'interfaccia in DraftSight ci potrebbe
+permettere di sfruttare al massimo le routine lisp automatizzate.
+
+564
+00:39:40,170 --> 00:39:43,630
+E infine la scelta della workstation mobile giusta,
+
+565
+00:39:43,630 --> 00:39:45,970
+come il ThinkPad P16 generazione 3,
+
+566
+00:39:45,969 --> 00:39:49,980
+definisce dove e come puoi eseguire questi software potenti.
+
+567
+00:39:49,980 --> 00:39:52,809
+L'integrazione dell'intelligenza artificiale,
+
+568
+00:39:52,809 --> 00:39:57,269
+come abbiamo visto in AutoCAD 2024 e successive con gli smart blocks,
+
+569
+00:39:57,269 --> 00:39:58,719
+il Markup Assist,
+
+570
+00:39:58,719 --> 00:40:03,469
+rappresenta solo l'inizio di una trasformazione più ampia.
+
+571
+00:40:03,469 --> 00:40:08,247
+Mano a mano che il machine learning diventerà sempre più sofisticato possiamo
+
+572
+00:40:08,247 --> 00:40:12,596
+aspettarci che suggerisca non solo blocchi o posizioni ma anche interi
+
+573
+00:40:12,596 --> 00:40:17,190
+workflow ottimizzati basati sulle nostre abitudini e di lavoro individuale.
+
+574
+00:40:17,190 --> 00:40:28,260
+Dopotutto qualche episodio fa abbiamo parlato di NeuralCAD e quindi questo
+potrebbe essere già l'inizio di questa ipotizzata workflow ottimizzato.
+
+575
+00:40:31,750 --> 00:40:36,292
+La standardizzazione delle automazioni LISP attraverso piattaforme
+
+576
+00:40:36,292 --> 00:40:40,224
+come AutoCAD LT e DRIVE SITE sta democratizzando capacità
+
+577
+00:40:40,224 --> 00:40:43,750
+precedentemente riservate a software di fascia alta.
+
+578
+00:40:43,750 --> 00:40:47,139
+Questo livellamento del campo di gioco significa che
+
+579
+00:40:47,139 --> 00:40:50,848
+studi più piccoli possono competere più efficacemente con
+
+580
+00:40:50,848 --> 00:40:54,750
+organizzazioni più grandi in termini di efficienza operativa.
+
+581
+00:40:54,750 --> 00:40:56,840
+E per quanto riguarda l'hardware,
+
+582
+00:40:56,840 --> 00:41:01,427
+le enfasi crescenti sull'efficienza energetica dei processori sono leiche e
+
+583
+00:41:01,427 --> 00:41:05,955
+nel GPU Blackwell suggerisce che le workstation mobili diventeranno sempre
+
+584
+00:41:05,955 --> 00:41:09,214
+più capaci di sostituire completamente le workstation
+
+585
+00:41:09,214 --> 00:41:11,750
+desktop per la maggior parte degli utenti.
+
+586
+00:41:11,750 --> 00:41:14,639
+La vera sfida sarà bilanciare prestazioni,
+
+587
+00:41:14,639 --> 00:41:21,750
+portabilità e sostenibilità in modi che servono
+le differenze esigenze dei professionisti CAD.
+
+588
+00:41:21,750 --> 00:41:23,469
+Il futuro del CAD non risiede,
+
+589
+00:41:23,469 --> 00:41:24,750
+come abbiamo visto,
+
+590
+00:41:24,750 --> 00:41:29,809
+in un singolo software miracoloso e un singolo pezzo hardware rivoluzionario,
+
+591
+00:41:29,809 --> 00:41:31,750
+ma nell'integrazione intelligente di software ottimizzato,
+
+592
+00:41:31,750 --> 00:41:33,920
+interfacce personalizzate,
+
+593
+00:41:33,920 --> 00:41:37,750
+automazione intelligente e hardware ben bilanciato.
+
+594
+00:41:37,750 --> 00:41:44,750
+E nell'intersezione di questi elementi che potremmo trovare
+la massima produttività e la soddisfazione professionale.
+
+595
+00:41:44,750 --> 00:41:45,550
+A tutti voi,
+
+596
+00:41:45,550 --> 00:41:46,780
+amici tiralinie,
+
+597
+00:41:46,780 --> 00:41:48,750
+grazie per avermi ascoltato.
+
+598
+00:41:48,750 --> 00:41:51,840
+Che i vostri progetti siano sempre più ottimizzati,
+
+599
+00:41:51,840 --> 00:41:58,750
+le vostre interfacce perfettamente personalizzate e
+le vostre workstation potenti quanto il necessario.
+
+600
+00:41:58,750 --> 00:41:59,920
+A tutti quanti,
+
+601
+00:41:59,920 --> 00:42:01,750
+lunga vita e prosperità!
+
