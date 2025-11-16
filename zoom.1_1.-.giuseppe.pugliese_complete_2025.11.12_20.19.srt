@@ -4,7 +4,7 @@ Benvenuti e bentornati amici Tiraline,
 
 2
 00:00:05,089 --> 00:00:07,049
-questo è il Tiraline,
+questo è il Tiralinee,
 
 3
 00:00:07,049 --> 00:00:13,000
